@@ -84,5 +84,4 @@ private fun getProductJson(ofDocument: Document): JsonObject{
 
 private fun sendProduct(name: String, price: Double, desc: String, category: String?){
     println("Name: ${name} \nPrice: ${price}€\nDescription: ${desc}\nCategory: ${category}\n\n")
-
 }
