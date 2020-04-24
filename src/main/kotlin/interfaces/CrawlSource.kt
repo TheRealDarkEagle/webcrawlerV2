@@ -1,50 +1,51 @@
-import interfaces.CrawlSource
-import kotlinx.serialization.json.*
-import markets.AldiNord
+package interfaces
+
+import kotlinx.serialization.json.Json
+import kotlinx.serialization.json.JsonArray
+import kotlinx.serialization.json.JsonElement
+import kotlinx.serialization.json.JsonObject
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
+import org.jsoup.select.Elements
 import java.io.File
-/*
-class Markt(override val marktName: String, override val entryPoints: HashSet<String>) : CrawlSource {
 
-    override fun load() {
-        TODO("Not yet implemented")
-    }
+interface CrawlSource {
+    val marketName: String
+    val entryPoints : HashSet<String>
+    val productRelationId : String
+    val marketUrl: String
+//NEW
+    fun loadProducts()
 
-    fun getProductOverview(): List<String> {
-        //val doc = loadSite("C:\\Users\\Kai\\reweCrawler\\testpages\\productOverview\\productListPage1.txt")
-        var overviewList : HashSet<Document> = HashSet()
-        entryPoints.map {
-            overviewList.add(Jsoup.connect(it).get())
+    //Loads the Document of the entryPoints
+    fun getDocumentOf(entrypoint: String) : Document = Jsoup.connect(entrypoint).get()
 
+    fun scrapeHtmlTag(doc : Document, tag: String) : Elements = doc.body().getElementsByTag(tag)
+
+
+//    fun loadSite(path: String): Document =  Jsoup.parse(File(path).readText())
+
+//OLD
+
+private fun scrapeProductLink(document: Document):List<String>{
+    val list = document.body().getElementsByTag("a")
+    var refs = mutableListOf<String>()
+    list.map { var txt = it.toString()
+        if(txt.startsWith("<a href=\"/p/")){
+            refs.add(txt.substring(txt.indexOf("\"")+1,txt.indexOf("\n")-2))
         }
-        val doc = Jsoup.connect("https://www.aldi-nord.de/produkte/aus-unserem-sortiment/muesli-cornflakes-cerealien/bio-genussriegel-3289.article.html").get()
-        //Jsoup.connect("https://shop.rewe.de/productList?page=1")
-        //danach suchen wir ->  <a href="/p/..../">
-        println(doc)
-        val productList = scrapeProductLink(doc)
-        return productList
     }
-
-    fun loadSite(path: String): Document =  Jsoup.parse(File(path).readText())
-
-    fun scrapeProductLink(document: Document):List<String>{
-        val list = document.body().getElementsByTag("a")
-        var refs = mutableListOf<String>()
-        list.map { var txt = it.toString()
-            if(txt.startsWith("<a href=\"/p/")){
-                refs.add(txt.substring(txt.indexOf("\"")+1,txt.indexOf("\n")-2))
-            }
-        }
-        return refs
-    }
+    return refs
+}
 
     fun scrapeProductOf(){
         val group = File("C:\\Users\\Kai\\reweCrawler\\testpages\\productSites").listFiles()
         var first = group.first()
         //getProductof(loadSite(first.toString()))
-        group.map { getProductof(loadSite(it.toString())) }
 
+
+        TODO("scrapeProductOf überarbeiten")
+        //group.map { getProductof(loadSite(it.toString())) }
     }
 
     fun getProductof(site: Document){
@@ -58,7 +59,7 @@ class Markt(override val marktName: String, override val entryPoints: HashSet<St
     }
     private fun scrapeBreadCrumb(doc: Document): String{
         val scripts = doc.body().getElementsByTag("script")
-        var breadrumbScript :JsonObject? = null
+        var breadrumbScript : JsonObject? = null
         scripts.map {
             if(it.toString().contains("\"BreadcrumbList\",")){
                 var txt = it.toString()
@@ -83,7 +84,7 @@ class Markt(override val marktName: String, override val entryPoints: HashSet<St
         value = value.substring(1,value.length-1)
         return value.replace("\n","")
     }
-    private fun getProductJson(ofDocument: Document): JsonObject{
+    private fun getProductJson(ofDocument: Document): JsonObject {
         var script = ofDocument.head().getElementsByTag("script").last().toString()
         script = script.substring(script.indexOf(">")+1, script.lastIndexOf("<")).trimStart().trimEnd()
         return Json.parseJson(script) as JsonObject
@@ -92,12 +93,4 @@ class Markt(override val marktName: String, override val entryPoints: HashSet<St
     private fun sendProduct(name: String, price: Double, desc: String, category: String?){
         println("Name: ${name} \nPrice: ${price}€\nDescription: ${desc}\nCategory: ${category}\n\n")
     }
-}
-*/
-
-fun main(){
-    val aldiNord = AldiNord()
-    aldiNord.loadProducts()
-    //getProductOverview()
-    //scrapeProductOf()
 }
