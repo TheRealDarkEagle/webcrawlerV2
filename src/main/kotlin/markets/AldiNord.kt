@@ -29,6 +29,7 @@ class AldiNord : CrawlSource {
         startLoading(poSite)
     }
 
+    //Starts the Loading and Handling of the given URL
     private fun startLoading(url: String) {
         val doc = getDocumentOf(url)
         val links = scrapeHtmlTag(doc, "a")
@@ -38,6 +39,7 @@ class AldiNord : CrawlSource {
             cleaning(links)
     }
 
+    //Management Function to Clean the Links of unnecessary parts
     private fun cleaning(links: Elements) {
         val textLinks = links.map { it.toString() }
         val extractedLinks = getProductLinks(textLinks)
@@ -46,6 +48,7 @@ class AldiNord : CrawlSource {
 
     }
 
+    //Determs if the Link in the Set is a DetailView-Link or a ProductOverview-Link
     private fun determine(links: Set<String>) {
         val dvLinkSet  = mutableSetOf<String>()
         val ovLinkSet = mutableSetOf<String>()
@@ -62,6 +65,7 @@ class AldiNord : CrawlSource {
 
     }
 
+    //Divides the Links in DetailView and ProductOverview
     private fun prepareLoading(links: Map<LinkType, Set<String>>){
         if(!links[LinkType.DETAILVIEW]?.isEmpty()!!)
             startNextLoading(links.get(LinkType.DETAILVIEW)!!)
@@ -69,6 +73,7 @@ class AldiNord : CrawlSource {
             startNextLoading(links.get(LinkType.PRODUCTOVERVIEW)!!)
     }
 
+    //Initiates the Next Loading Phase
     private fun startNextLoading(list: Set<String>) = runBlocking{
         list.map {
             async(Dispatchers.Default) {
@@ -82,6 +87,7 @@ class AldiNord : CrawlSource {
         startLoading(url)
     }
 
+    //cleans the Set of the Trash
     private fun cleanLinks(links: Set<String>): Set<String> {
         val cleanedSet : MutableSet<String> = mutableSetOf()
         links.map {
@@ -90,6 +96,7 @@ class AldiNord : CrawlSource {
         return cleanedSet
     }
 
+    //Extracts the real link of the String
     private fun cutOutLink(s : String) : String {
         var start = s.indexOf('"')
         var end = s.indexOf('"',start+1)
