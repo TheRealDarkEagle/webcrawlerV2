@@ -1,9 +1,9 @@
 package markets
-
 import enums.LinkType
 import interfaces.CrawlSource
+import javafx.application.Application.launch
+import kotlinx.coroutines.*
 import org.jsoup.select.Elements
-import javax.swing.text.Document
 
 /*
 
@@ -11,6 +11,7 @@ import javax.swing.text.Document
 
  */
 class AldiNord : CrawlSource {
+
     override val marketName: String
         get() = "Aldi-Nord"
     override val entryPoints: HashSet<String>
@@ -24,8 +25,8 @@ class AldiNord : CrawlSource {
     private val poSite = "https://www.aldi-nord.de/produkte/unsere-marken/almare.html"
 
     override fun loadProducts() {
-        entryPoints.map { startLoading(it) }
-        //startLoading(poSite)
+       // entryPoints.map { startLoading(it) }
+        startLoading(poSite)
     }
 
     private fun startLoading(url: String) {
@@ -68,9 +69,17 @@ class AldiNord : CrawlSource {
             startNextLoading(links.get(LinkType.PRODUCTOVERVIEW)!!)
     }
 
-    private fun startNextLoading(list: Set<String>){
-        println(list)
-        TODO("Get a CoRoutine and pass in the Job of Loading the next page")
+    private fun startNextLoading(list: Set<String>) = runBlocking{
+        list.map {
+            async(Dispatchers.Default) {
+            jobexample(marketUrl+it)
+            }
+        }
+    }
+
+
+    private fun jobexample(url : String){
+        startLoading(url)
     }
 
     private fun cleanLinks(links: Set<String>): Set<String> {
@@ -97,7 +106,7 @@ class AldiNord : CrawlSource {
         return sortedLinks
     }
     private fun saveDoc(doc: org.jsoup.nodes.Document){
-        TODO("Save the Doc!")
+       TODO("Do something with the Identified DetailView product Link!")
     }
 }
 
