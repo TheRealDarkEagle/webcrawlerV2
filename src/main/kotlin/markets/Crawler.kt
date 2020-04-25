@@ -8,9 +8,7 @@ import org.jsoup.nodes.Document
 import org.jsoup.select.Elements
 
 /*
-
     author: Kai Danz
-
  */
 class Crawler(val SCRAPER: Scraper) : CrawlSource {
 

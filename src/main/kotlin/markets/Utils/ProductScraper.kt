@@ -7,8 +7,6 @@ import java.util.logging.Logger
 
 class ProductScraper(val document: Document) {
 
-
-
     fun scrapeProduct(marketScraper: Scraper) {
 
         val name = marketScraper.getName(document)
