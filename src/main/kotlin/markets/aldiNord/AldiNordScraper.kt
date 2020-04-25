@@ -61,13 +61,14 @@ class AldiNordScraper : Scraper {
 
     private fun exctractBy(regex: Regex, text: String): String? = regex.find(text)?.value?.substring(1)
 
+   // TODO("Handle Excpetion!")
     private fun calculate(s:String): Int{
         try {
             val i = s.toInt()
             return i
         }catch (e : Exception){
             e.printStackTrace()
-            TODO("Handle Excpetion!")
+
         }
         return -1
     }

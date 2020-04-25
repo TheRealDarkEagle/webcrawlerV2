@@ -17,7 +17,6 @@ class Helper (val overviewPath: String, val detailviewPath: String){
         val path = detailviewPath
         val set = hashSetOf<Document>()
         File(path).listFiles().map {
-            println(it)
             set.add(Jsoup.parse((it.readText())))
         }
         return set
@@ -28,7 +27,6 @@ class Helper (val overviewPath: String, val detailviewPath: String){
         val path = overviewPath
         val set = hashSetOf<Document>()
         File(path).listFiles().map {
-             println(it)
             set.add(Jsoup.parse((it.readText())))
         }
         return set
