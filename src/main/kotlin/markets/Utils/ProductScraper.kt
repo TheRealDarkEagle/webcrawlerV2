@@ -3,8 +3,10 @@ package markets.Utils
 import interfaces.Scraper
 import markets.Product
 import org.jsoup.nodes.Document
+import java.util.logging.Logger
 
 class ProductScraper(val document: Document) {
+
 
 
     fun scrapeProduct(marketScraper: Scraper) {
@@ -16,17 +18,12 @@ class ProductScraper(val document: Document) {
         val grammage = marketScraper.getGrammage(document)
         val product = Product(name,price,description,grammage,category)
         println(product.toString())
-//        giveContent(linkedSetOf<String>(name, price.toString(), description, category, grammage.toString()))
+        if(product.isValid)
+            println("Product is valid!")
+        else
+            println("Product is INVALID")
     }
 
-    private fun giveContent(props: LinkedHashSet<String>) {
-        println(props)
-        /*
-        props.map {
-            println(it)
-        }
-        */
-    }
 
 }
 

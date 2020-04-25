@@ -12,7 +12,7 @@ import org.jsoup.select.Elements
     author: Kai Danz
 
  */
-class Crawler(val TESTNG : Boolean = false, val SCRAPER: Scraper) : CrawlSource {
+class Crawler(val SCRAPER: Scraper) : CrawlSource {
     val HELPER = SCRAPER.TESTER
 
 
@@ -22,12 +22,12 @@ class Crawler(val TESTNG : Boolean = false, val SCRAPER: Scraper) : CrawlSource 
         get() = SCRAPER.MARKET.DETAILVIEWLINKIDENTIFIER
     override val baseURL: String
         get() = SCRAPER.MARKET.MARKETURL
-
+    val TESTING = false
               //Entry Point of every Crawler
         override fun loadProducts() {
             // entryPoints.map { startLoading(it) }
             //startLoading(poSite2, false)
-               when(TESTNG){
+               when(TESTING){
                    true -> startLoading(HELPER.loadDetailView(),true)
                     false -> entryPoints.map { startLoading(it) }
                }
@@ -68,7 +68,6 @@ class Crawler(val TESTNG : Boolean = false, val SCRAPER: Scraper) : CrawlSource 
             val extractedLinks = getProductLinks(textLinks)
             val cleanedLinks = cleanLinks(extractedLinks)
             determine(cleanedLinks)
-
         }
 
         //Determs if the Link in the Set is a DetailView-Link or a ProductOverview-Link
@@ -112,7 +111,9 @@ class Crawler(val TESTNG : Boolean = false, val SCRAPER: Scraper) : CrawlSource 
             links.map {
                 cleanedSet.add(SCRAPER.cutOutLink(it))
             }
+
             return cleanedSet
+
         }
 
 

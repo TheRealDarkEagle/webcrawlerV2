@@ -4,7 +4,6 @@ import interfaces.CrawlObject
 import interfaces.Scraper
 import markets.Helper
 import org.jsoup.nodes.Document
-import org.jsoup.select.Elements
 
 
 class AldiNordScraper : Scraper {
@@ -16,7 +15,6 @@ class AldiNordScraper : Scraper {
                         "C:\\Users\\Kai\\IdeaProjects\\webcrawlerV2\\src\\main\\resources\\SiteData\\ProductSites\\Aldi-Nord"
     )
 
-
     override fun getName (d: Document) :String = scrapeHtmlTag(d, "h1")[0].text()
 
     override fun getPrice(d: Document): Double {
@@ -24,10 +22,6 @@ class AldiNordScraper : Scraper {
         var priceTag = searchForClass("price__main", spans)
         val price = priceTag?.childNode(0).toString()
          return price.toDouble()
-    }
-
-    private fun higherOrderTest(function: (String)->String, s:String): String{
-        return function(s)
     }
 
     override fun getDesciption(d: Document): String {
@@ -49,8 +43,32 @@ class AldiNordScraper : Scraper {
 
     override fun getGrammage(document: Document): Int {
         val spans = scrapeHtmlTag(document,"span")
-        val grammageTag = searchForClass("price__unit",spans)?.childNode(0).toString()
-        return -1
+        val grammageText = searchForClass("price__unit",spans)?.childNode(0).toString()
+        return if(!grammageText.contains(Regex("\\d")))
+                    1
+                else
+                    exctractGramage(grammageText)
+
     }
 
+    private fun exctractGramage(s: String): Int {
+      val t = exctractBy(Regex("\\d*.*\\d"),s)
+        return  if(t===null)
+                    -1
+                else
+                    calculate(t)
+    }
+
+    private fun exctractBy(regex: Regex, text: String): String? = regex.find(text)?.value?.substring(1)
+
+    private fun calculate(s:String): Int{
+        try {
+            val i = s.toInt()
+            return i
+        }catch (e : Exception){
+            e.printStackTrace()
+            TODO("Handle Excpetion!")
+        }
+        return -1
+    }
 }

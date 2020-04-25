@@ -91,9 +91,8 @@ class Markt(override val marktName: String, override val entryPoints: HashSet<St
     }
 }
 */
-
 fun main(){
-    val aldiNord = Crawler(true, AldiNordScraper())
+    val aldiNord = Crawler(AldiNordScraper())
     aldiNord.loadProducts()
     //getProductOverview()
     //scrapeProductOf()
