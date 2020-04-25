@@ -1,0 +1,1754 @@
+<html lang="de" class=" srcset objectfit object-fit no-touch"><head>
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+	
+	<meta name="description" content="Choco und Keks von ALDI Nord: Alle Informationen zum Produkt. Einfach zum Einkaufszettel hinzufügen und in der nächsten Filiale erwerben.">
+	<meta name="robots" content="index,follow">
+	<link rel="canonical" href="https://www.aldi-nord.de/produkte/unsere-marken/chateau/choco-und-keks-3501.article.html">
+
+
+
+<meta property="og:title" content="Choco und Keks">
+<meta property="og:description" content="Keks mit cremiger Füllung, umhüllt von Edel-Vollmilchschokolade; verschiedene Sorten">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://www.aldi-nord.de/content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/_jcr_content/renditions/original.transform/288w/img.9999999.png">
+<meta property="og:image:width" content="288">
+<meta property="og:image:height" content="288">
+<meta property="og:url" content="https://www.aldi-nord.de/produkte/unsere-marken/chateau/choco-und-keks-3501.article.html">
+<meta property="og:locale" content="de_DE">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/etc/designs/aldi/web/frontend/aldi/images/favicons/apple-touch-icon.png.res/1487002083394/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/etc/designs/aldi/web/frontend/aldi/images/favicons/favicon-32x32.png.res/1487002083394/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/etc/designs/aldi/web/frontend/aldi/images/favicons/favicon-16x16.png.res/1487002083396/favicon-16x16.png">
+<link rel="manifest" href="/etc/designs/aldi/web/frontend/aldi/images/favicons/manifest.json.res/1487002083393/manifest.json">
+<link rel="mask-icon" href="/etc/designs/aldi/web/frontend/aldi/images/favicons/safari-pinned-tab.svg.res/1487002083395/safari-pinned-tab.svg" color="#00b4dc">
+<link rel="shortcut icon" href="/etc/designs/aldi/web/frontend/aldi/images/favicons/favicon.ico.res/1487002083397/favicon.ico">
+<meta name="msapplication-config" content="/etc/designs/aldi/web/frontend/aldi/images/favicons/browserconfig.xml">
+<meta name="theme-color" content="#00b4dc">
+
+
+	
+		<title>Choco und Keks 
+	günstig bei ALDI Nord
+</title>
+	
+	
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/content/aldi/germany.styles.css/1587715690688.css" media="all">
+
+
+<script type="text/javascript">
+    var digitalData = {"page":{"pageInfo":{"pageName":"Product Detail:3501:Choco und Keks","country":"DE","language":"DE","currency":"EUR","environment":"Production","siteName":"n/a"},"pageCategory":{"pageType":"Product Detail Page","primaryCategory":"Unsere Produkte","subCategory1":"Unsere Eigenmarken","subCategory2":"CHATEAU","subCategory3":"3501"}}};
+</script>
+
+
+
+
+
+
+    
+<link rel="stylesheet" href="/etc/designs/aldi/web/clientlibs/css/main.c4d2fbcf1e365fe037cd5b6e9996fb9c.css" type="text/css">
+
+
+
+
+
+
+    
+<script type="text/javascript" src="/etc/designs/aldi/web/clientlibs/js/head.48e54f7768420f566d996c70099c5f1b.js"></script>
+
+
+
+
+
+
+
+<script>
+ //prehiding snippet for Adobe Target with asynchronous Launch deployment
+ (function(g,b,d,f){(function(a,c,d){if(a){var e=b.createElement("style");e.id=c;e.innerHTML=d;a.appendChild(e)}})(b.getElementsByTagName("head")[0],"at-body-style",d);setTimeout(function(){var a=b.getElementsByTagName("head")[0];if(a){var c=b.getElementById("at-body-style");c&&a.removeChild(c)}},f)})(window,document,"body {opacity: 0 !important}",3E3);
+</script>
+<script src="//assets.adobedtm.com/launch-ENcd518efa263e42028901c695e6d2b16e.min.js" async=""></script>
+
+
+
+
+
+
+
+</head>
+<body class="page " data-t-name="ContentPage" data-t-id="1">
+	
+
+
+
+
+	<div class="page__top">
+		
+	
+
+
+
+	<div class="mod mod-recall " data-t-name="Recall">
+    <a href="/tools/rueckrufe/hinweis-Lieferzeiten.html" data-attr-name="Main Navigation - Level 1" data-attr-value="Product Recall">
+        <div class="alert alert--error">
+            <div class="alert__inner">
+                <span class="icon icon--warning alert__icon" aria-hidden="true"></span>
+                <div class="alert__content">
+                    <span class="alert__title">Hinweis:</span>
+                    <span class="alert__message">Lieferzeiten für unseren Online-Shop ALDI liefert </span>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+
+
+
+		
+			
+
+<div class="mod mod-cookie-consent" data-t-name="CookieConsent" data-tracking-further-pages="false" data-tracking-hint-page="false" data-dialog-first-page="true" data-dialog-further-pages="true" data-dialog-hint-page="true" data-expiry-days="90" data-close-once="true" data-t-id="2">
+    
+    <div role="dialog" class="mod-cookie-consent__dialog mod-cookie-consent__dialog--bottom-sticky  is-invisible" aria-label="cookieconsent" aria-describedby="cookieconsent:desc">
+        <div class="container">
+            <div class="mod-cookie-consent__header">
+                
+                
+                <p class="mod-cookie-consent__title">Cookies</p>
+            </div>
+            <div class="mod-cookie-consent__content">
+                <p id="cookieconsent:desc" class="mod-cookie-consent__message js-message">
+                    ALDI Nord möchte Ihnen die bestmöglichen Inhalte bieten. Dazu speichern wir Informationen über Ihren Besuch in sogenannten Cookies. Wenn Sie hiermit einverstanden sind, klicken Sie bitte auf „Zustimmen“ ansonsten bitte auf „Ablehnen“. Ausführliche Informationen über den Einsatz von Cookies auf dieser Webseite, wo Sie Ihr Einverständnis auch in die Zukunft gerichtet individuell widerrufen können, erhalten Sie durch Klick auf  <a tabindex="0" href="/tools/datenschutzhinweis.html">„Mehr Informationen“.</a>
+                </p>
+                <button type="button" class="btn btn--primary btn--inverted js-deny">Ablehnen</button>
+                
+            	<button type="button" class="btn btn--primary btn--inverted js-allow">Zustimmen</button>
+            </div>
+        </div>
+	</div>
+</div>
+		
+	</div>
+	<script type="text/javascript">if (window.performance && window.performance.mark) { window.performance.mark('page top parsed') }</script>
+    
+    <header class="mod mod-header" data-t-name="Header" data-t-id="3">
+	    <div class="mod-header__inlay">
+	    	<a href="/" class="mod-header__logo" data-attr-name="Main Navigation - Level 1" data-attr-value="Logo"><img srcset="/etc/designs/aldi/web/frontend/aldi/images/logo@2x.png 2x" src="/etc/designs/aldi/web/frontend/aldi/images/logo.png.res/1494511901919/logo.png" alt="" class="img-responsive logo" onload="if (window.performance &amp;&amp; window.performance.mark) { window.performance.mark('logo loaded') }"></a>
+			<script type="text/javascript">if (window.performance && window.performance.mark) { window.performance.mark('logo parsed') }</script>
+      
+	        <button class="hamburger hamburger--collapse mod-header__hamburger">
+	            <span class="hamburger__box">
+	                <span class="hamburger__inner"></span>
+	            </span>
+	        </button>
+	        
+	        <div class="mod-header__tools">
+		        <div class="mod mod-cart" data-t-name="Cart" data-t-id="4">
+				    <a href="/einkaufsliste.html" class="mod-cart__btn js-tooltip" data-tooltip-max-width="220" data-tooltip-zindex="500" data-attr-name="Meta Navigation - Level 1" data-attr-value="Shopping List" data-attr-cmp="Shopping List">
+				        <span class="badge badge--primary">0</span>
+				        <span class="icon icon--list" aria-hidden="true"></span>
+				        <span class="mod-cart__title">Einkaufs-
+<br>liste</span>
+				    </a>
+				</div>
+				
+					 
+				
+
+<div class="mod mod-deliver" data-t-name="Deliver">
+    <a href="https://www.aldi-nord.de/aldi-liefert/" target="_self" class="mod mod-deliver__inlay" data-attr-name="Meta Navigation - Level 1" data-attr-value="ALDI Liefert" data-attr-cmp="Home Delivery">
+        <img src="/etc/designs/aldi/web/frontend/aldi/images/liefert-logo.svg.res/1560841044073/liefert-logo.svg" alt="" class="img-responsive">
+        <span class="mod-deliver__title">ONLINE-SHOP</span>
+    </a>
+</div>
+	        </div>
+	        
+            <nav class="mod mod-main-navigation" data-t-name="MainNavigation" data-current-path="/content/aldi/germany/de/web-consumer/produkte/unsere-marken/chateau" data-menu-src="/content/aldi/germany/de/web-consumer.mainnavigation-lazy.html" data-t-id="5">
+	<div class="mod-main-navigation__panels">
+		<div class="mod-main-navigation__panels-header">
+			<div class="mod-main-navigation__title">MENÜ</div>
+			<button class="mod-main-navigation__back" data-attr-value="Back" data-attr-name="Main Navigation - Level 1"><span class="icon icon--arrow-right" aria-hidden="true"></span> <span class="mod-main-navigation__back-label">ZURÜCK</span></button>
+			<button class="mod-main-navigation__close" data-attr-value="Close" data-attr-name="Main Navigation - Level 1"><span class="icon icon--close" aria-hidden="true"></span></button>
+		</div>
+	</div>
+	
+	
+	
+	<div class="mod-main-navigation__menu mod-main-navigation__menu--level-1">
+		<ul class="mod-main-navigation__list">
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action" href="/angebote.html" data-current-path="/content/aldi/germany/de/web-consumer/angebote" data-attr-name="Main Navigation - Level 1" data-attr-value="Angebote">
+						
+						<span class="icon icon--offer" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Angebote</span>
+					</a>
+				
+				
+			</li>
+		
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action" href="https://www.aldi-nord.de/aldi-liefert/" data-current-path="https://www.aldi-nord.de/aldi-liefert/" data-attr-name="Main Navigation - Level 1" data-attr-value="Online-Shop">
+						
+						<span class="icon icon--van" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Online-Shop</span>
+					</a>
+				
+				
+			</li>
+		
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action" href="/magazine.html" data-current-path="/content/aldi/germany/de/web-consumer/magazine" data-attr-name="Main Navigation - Level 1" data-attr-value="Unsere Magazine">
+						
+						<span class="icon icon--magazine" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Unsere Magazine</span>
+					</a>
+				
+				
+			</li>
+		
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action is-selected" href="/produkte.html" data-current-path="/content/aldi/germany/de/web-consumer/produkte" data-attr-name="Main Navigation - Level 1" data-attr-value="Produkte">
+						
+						<span class="icon icon--products" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Produkte</span>
+					</a>
+				
+				
+			</li>
+		
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action" href="/online-services.html" data-current-path="/content/aldi/germany/de/web-consumer/online-services" data-attr-name="Main Navigation - Level 1" data-attr-value="Online-Services">
+						
+						<span class="icon icon--services" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Online-Services</span>
+					</a>
+				
+				
+			</li>
+		
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action" href="/rezepte.html" data-current-path="/content/aldi/germany/de/web-consumer/rezepte" data-attr-name="Main Navigation - Level 1" data-attr-value="Rezepte">
+						
+						<span class="icon icon--recipe" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Rezepte</span>
+					</a>
+				
+				
+			</li>
+		
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action" href="/themenwelten.html" data-current-path="/content/aldi/germany/de/web-consumer/themenwelten" data-attr-name="Main Navigation - Level 1" data-attr-value="Themenwelten">
+						
+						<span class="icon icon--themes" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Themenwelten</span>
+					</a>
+				
+				
+			</li>
+		
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action" href="/aldi-newsletter.html" data-current-path="/content/aldi/germany/de/web-consumer/aldi-newsletter" data-attr-name="Main Navigation - Level 1" data-attr-value="Newsletter">
+						
+						<span class="icon icon--newsletter" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Newsletter</span>
+					</a>
+				
+				
+			</li>
+		</ul>
+	</div>
+
+	
+	
+
+<div class="mod mod-meta-navigation" data-t-name="MetaNavigation" data-t-id="6" style="padding-right: 230px;">
+    <ul class="mod-meta-navigation__list">
+        <li class="mod-meta-navigation__item">
+            <a href="/" class="mod-meta-navigation__action" data-attr-name="Meta Navigation - Level 1" data-attr-value="Startseite">Startseite</a>
+        </li>
+    
+        <li class="mod-meta-navigation__item">
+            <a href="/tools/filialen-und-oeffnungszeiten.html" class="mod-meta-navigation__action" data-attr-name="Meta Navigation - Level 1" data-attr-value="Filialen und Öffnungszeiten">Filialen und Öffnungszeiten</a>
+        </li>
+    
+        <li class="mod-meta-navigation__item">
+            <a href="/karriere" class="mod-meta-navigation__action" target="_blank" data-attr-name="Meta Navigation - Level 1" data-attr-value="Karriere">Karriere</a>
+        </li>
+    
+        <li class="mod-meta-navigation__item">
+            <a href="/tools/kontakt.html" class="mod-meta-navigation__action" data-attr-name="Meta Navigation - Level 1" data-attr-value="Kontakt">Kontakt</a>
+        </li>
+    
+        <li class="mod-meta-navigation__item">
+            <a href="/unternehmen.html" class="mod-meta-navigation__action" target="_blank" data-attr-name="Meta Navigation - Level 1" data-attr-value="Unternehmen">Unternehmen</a>
+        </li>
+    
+        <li class="mod-meta-navigation__item">
+            <a href="/unternehmen/verantwortung.html" class="mod-meta-navigation__action" data-attr-name="Meta Navigation - Level 1" data-attr-value="Verantwortung">Verantwortung</a>
+        </li>
+    </ul>
+    
+    
+    
+
+</div>
+
+	<div class="mod-main-navigation__blocker"></div>
+</nav>
+	    </div>
+	</header>
+	
+    <div class="page__main">
+        <div class="page__content">
+            
+
+
+
+<div class="container">
+
+	
+	
+	<div class="mod mod-breadcrumb" data-t-name="Breadcrumb">
+
+	<ol class="mod-breadcrumb__nav">
+		<li>
+			<a href="/">
+				<span>Startseite</span>
+			</a>
+		</li>
+	
+		<li>
+			<a href="/produkte.html">
+				<span>Produkte</span>
+			</a>
+		</li>
+	
+		<li>
+			<a href="/produkte/unsere-marken.html">
+				<span>Unsere Eigenmarken</span>
+			</a>
+		</li>
+	
+		<li>
+			<a href="/produkte/unsere-marken/chateau.html">
+				<span>CHATEAU</span>
+			</a>
+		</li>
+	
+		<li>
+			
+				<span>Choco und Keks</span>
+			
+		</li>
+	</ol>
+	
+</div><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.aldi-nord.de/",
+      "name": "Startseite"
+      }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.aldi-nord.de/produkte.html",
+      "name": "Produkte"
+      }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.aldi-nord.de/produkte/unsere-marken.html",
+      "name": "Unsere Eigenmarken"
+      }
+    },
+    {
+    "@type": "ListItem",
+    "position": 4,
+    "item": {
+      "@id": "https://www.aldi-nord.de/produkte/unsere-marken/chateau.html",
+      "name": "CHATEAU"
+      }
+    }
+  ]
+  }
+</script>
+
+
+	
+
+	
+
+
+
+
+
+
+
+	<div class="mod mod-article-intro " data-t-name="ArticleIntro" data-article="{&quot;id&quot;:&quot;/produkte/unsere-marken/chateau/snippet-3501.shoppinglisttile.article.html&quot;,&quot;productInfo&quot;:{&quot;productName&quot;:&quot;Choco und Keks&quot;,&quot;productID&quot;:&quot;3501&quot;,&quot;brand&quot;:&quot;CHATEAU&quot;,&quot;ownedBrand&quot;:&quot;Owned&quot;,&quot;priceWithTax&quot;:1.79,&quot;quantity&quot;:1},&quot;productCategory&quot;:{&quot;primaryCategory&quot;:&quot;Unsere Marken&quot;,&quot;subCategory1&quot;:&quot;CHATEAU&quot;,&quot;subCategory2&quot;:&quot;n/a&quot;}}" data-t-id="7">
+
+	<div class="mod-article-intro__gallery">
+		
+<div class="mod mod-gallery-article" data-t-name="GalleryArticle" data-t-id="8">
+	<div class="slider mod-gallery-article__stage slick-initialized slick-slider">
+		<div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2368px;" role="listbox"><div class="slider__item slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 592px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" tabindex="-1" role="option" aria-describedby="slick-slide00">
+			
+			
+				
+
+<a class="mod-gallery-article__media mod-gallery-article__media--img has-lightbox" href="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/_jcr_content/renditions/opt.1250w.png.res/1536072393249/opt.1250w.png" data-srcset="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.288w.png.res/1536072393249/opt.288w.png 288w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.440w.png.res/1536072393249/opt.440w.png 440w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.592w.png.res/1536072393249/opt.592w.png 592w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.736w.png.res/1536072393249/opt.736w.png 736w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.900w.png.res/1536072393249/opt.900w.png 900w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.1250w.png.res/1536072393249/opt.1250w.png 1250w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.1817w.png.res/1536072393249/opt.1817w.png 1817w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.2800w.png.res/1536072393249/opt.2800w.png 2800w" data-sizes="(orientation: landscape) calc(100vh - 120px), calc(100vw - 2rem)" target="_blank" tabindex="0">
+
+<img alt="CHÂTEAU Choco und Keks von ALDI Nord" class="img-responsive cq-dd-image loaded" loading="lazy" data-attr-name="Product Detail Page - Level 1" data-attr-value="Main Image" sizes="(min-width: 1440px) 592px, (min-width: 1024px) 440px, (min-width: 768px) 360px, 100vw" srcset="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.288w.png.res/1536072393249/opt.288w.png 288w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.440w.png.res/1536072393249/opt.440w.png 440w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.592w.png.res/1536072393249/opt.592w.png 592w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.736w.png.res/1536072393249/opt.736w.png 736w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.900w.png.res/1536072393249/opt.900w.png 900w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.1250w.png.res/1536072393249/opt.1250w.png 1250w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.1817w.png.res/1536072393249/opt.1817w.png 1817w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.2800w.png.res/1536072393249/opt.2800w.png 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true">
+<span class="icon icon--zoom" aria-hidden="true"></span>
+</a>
+
+
+<script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png",
+  "datePublished": "2020-04-21",
+  "description": "Keks mit cremiger Füllung, umhüllt von Edel-Vollmilchschokolade; verschiedene Sorten\r\n",
+  "name": ""
+  }
+</script>
+
+			
+			
+			
+		</div><div class="slider__item slick-slide" data-slick-index="1" aria-hidden="true" style="width: 592px; position: relative; left: -592px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="option" aria-describedby="slick-slide01">
+			
+			
+				
+
+<a class="mod-gallery-article__media mod-gallery-article__media--img has-lightbox" href="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/_jcr_content/renditions/opt.1250w.png.res/1536072376739/opt.1250w.png" data-srcset="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.288w.png.res/1536072376739/opt.288w.png 288w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.440w.png.res/1536072376739/opt.440w.png 440w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.592w.png.res/1536072376739/opt.592w.png 592w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.736w.png.res/1536072376739/opt.736w.png 736w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.900w.png.res/1536072376739/opt.900w.png 900w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.1250w.png.res/1536072376739/opt.1250w.png 1250w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.1817w.png.res/1536072376739/opt.1817w.png 1817w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.2800w.png.res/1536072376739/opt.2800w.png 2800w" data-sizes="(orientation: landscape) calc(100vh - 120px), calc(100vw - 2rem)" target="_blank" tabindex="-1">
+
+<img alt="CHÂTEAU Choco und Keks von ALDI Nord" class="img-responsive cq-dd-image loaded" loading="lazy" data-attr-name="Product Detail Page - Level 1" data-attr-value="Main Image" sizes="(min-width: 1440px) 592px, (min-width: 1024px) 440px, (min-width: 768px) 360px, 100vw" srcset="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.288w.png.res/1536072376739/opt.288w.png 288w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.440w.png.res/1536072376739/opt.440w.png 440w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.592w.png.res/1536072376739/opt.592w.png 592w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.736w.png.res/1536072376739/opt.736w.png 736w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.900w.png.res/1536072376739/opt.900w.png 900w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.1250w.png.res/1536072376739/opt.1250w.png 1250w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.1817w.png.res/1536072376739/opt.1817w.png 1817w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.2800w.png.res/1536072376739/opt.2800w.png 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true">
+<span class="icon icon--zoom" aria-hidden="true"></span>
+</a>
+
+
+<script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png",
+  "datePublished": "2020-04-21",
+  "description": "Keks mit cremiger Füllung, umhüllt von Edel-Vollmilchschokolade; verschiedene Sorten\r\n",
+  "name": ""
+  }
+</script>
+
+			
+			
+			
+		</div><div class="slider__item slick-slide" data-slick-index="2" aria-hidden="true" style="width: 592px; position: relative; left: -1184px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="option" aria-describedby="slick-slide02">
+			
+			
+				
+
+<a class="mod-gallery-article__media mod-gallery-article__media--img has-lightbox" href="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/_jcr_content/renditions/opt.1250w.png.res/1536072378594/opt.1250w.png" data-srcset="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.288w.png.res/1536072378594/opt.288w.png 288w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.440w.png.res/1536072378594/opt.440w.png 440w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.592w.png.res/1536072378594/opt.592w.png 592w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.736w.png.res/1536072378594/opt.736w.png 736w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.900w.png.res/1536072378594/opt.900w.png 900w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.1250w.png.res/1536072378594/opt.1250w.png 1250w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.1817w.png.res/1536072378594/opt.1817w.png 1817w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.2800w.png.res/1536072378594/opt.2800w.png 2800w" data-sizes="(orientation: landscape) calc(100vh - 120px), calc(100vw - 2rem)" target="_blank" tabindex="-1">
+
+<img alt="CHÂTEAU Choco und Keks von ALDI Nord" class="img-responsive cq-dd-image loaded" loading="lazy" data-attr-name="Product Detail Page - Level 1" data-attr-value="Main Image" sizes="(min-width: 1440px) 592px, (min-width: 1024px) 440px, (min-width: 768px) 360px, 100vw" srcset="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.288w.png.res/1536072378594/opt.288w.png 288w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.440w.png.res/1536072378594/opt.440w.png 440w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.592w.png.res/1536072378594/opt.592w.png 592w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.736w.png.res/1536072378594/opt.736w.png 736w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.900w.png.res/1536072378594/opt.900w.png 900w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.1250w.png.res/1536072378594/opt.1250w.png 1250w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.1817w.png.res/1536072378594/opt.1817w.png 1817w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.2800w.png.res/1536072378594/opt.2800w.png 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true">
+<span class="icon icon--zoom" aria-hidden="true"></span>
+</a>
+
+
+<script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png",
+  "datePublished": "2020-04-21",
+  "description": "Keks mit cremiger Füllung, umhüllt von Edel-Vollmilchschokolade; verschiedene Sorten\r\n",
+  "name": ""
+  }
+</script>
+
+			
+			
+			
+		</div><div class="slider__item slick-slide" data-slick-index="3" aria-hidden="true" style="width: 592px; position: relative; left: -1776px; top: 0px; z-index: 998; opacity: 0;" tabindex="-1" role="option" aria-describedby="slick-slide03">
+			
+			
+				
+
+<a class="mod-gallery-article__media mod-gallery-article__media--img has-lightbox" href="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/_jcr_content/renditions/opt.1250w.png.res/1536072378171/opt.1250w.png" data-srcset="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.288w.png.res/1536072378171/opt.288w.png 288w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.440w.png.res/1536072378171/opt.440w.png 440w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.592w.png.res/1536072378171/opt.592w.png 592w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.736w.png.res/1536072378171/opt.736w.png 736w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.900w.png.res/1536072378171/opt.900w.png 900w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.1250w.png.res/1536072378171/opt.1250w.png 1250w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.1817w.png.res/1536072378171/opt.1817w.png 1817w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.2800w.png.res/1536072378171/opt.2800w.png 2800w" data-sizes="(orientation: landscape) calc(100vh - 120px), calc(100vw - 2rem)" target="_blank" tabindex="-1">
+
+<img alt="CHÂTEAU Choco und Keks von ALDI Nord" class="img-responsive cq-dd-image loaded" loading="lazy" data-attr-name="Product Detail Page - Level 1" data-attr-value="Main Image" sizes="(min-width: 1440px) 592px, (min-width: 1024px) 440px, (min-width: 768px) 360px, 100vw" srcset="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.288w.png.res/1536072378171/opt.288w.png 288w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.440w.png.res/1536072378171/opt.440w.png 440w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.592w.png.res/1536072378171/opt.592w.png 592w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.736w.png.res/1536072378171/opt.736w.png 736w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.900w.png.res/1536072378171/opt.900w.png 900w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.1250w.png.res/1536072378171/opt.1250w.png 1250w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.1817w.png.res/1536072378171/opt.1817w.png 1817w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.2800w.png.res/1536072378171/opt.2800w.png 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true">
+<span class="icon icon--zoom" aria-hidden="true"></span>
+</a>
+
+
+<script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png",
+  "datePublished": "2020-04-21",
+  "description": "Keks mit cremiger Füllung, umhüllt von Edel-Vollmilchschokolade; verschiedene Sorten\r\n",
+  "name": ""
+  }
+</script>
+
+			
+			
+			
+		</div></div></div>
+	
+		
+	
+		
+	
+		
+	</div>
+	<div class="slider mod-gallery-article__thumbs slick-initialized slick-slider">
+		<div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 400px; transform: translate3d(0px, 0px, 0px);" role="listbox"><div class="slider__item slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 100px;" tabindex="-1" role="option" aria-describedby="slick-slide10">
+			<div class="mod-gallery-article__media mod-gallery-article__media--img">
+					
+				
+				
+					
+
+	<img alt="CHÂTEAU Choco und Keks von ALDI Nord" class="img-responsive cq-dd-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" srcset="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.288w.png.res/1536072393249/opt.288w.png 288w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.440w.png.res/1536072393249/opt.440w.png 440w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.592w.png.res/1536072393249/opt.592w.png 592w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.736w.png.res/1536072393249/opt.736w.png 736w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.900w.png.res/1536072393249/opt.900w.png 900w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.1250w.png.res/1536072393249/opt.1250w.png 1250w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.1817w.png.res/1536072393249/opt.1817w.png 1817w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png/jcr:content/renditions/opt.2800w.png.res/1536072393249/opt.2800w.png 2800w" sizes="(min-width: 1440px) 592px, (min-width: 1024px) 440px, (min-width: 768px) 360px, 100vw" data-attr-name="Product Detail Page - Level 1" data-attr-value="Image Gallery">
+
+
+	
+
+<script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/suessigkeiten/3501_0000_Gruppe-1.png",
+  "datePublished": "2020-04-21",
+  "description": "Keks mit cremiger Füllung, umhüllt von Edel-Vollmilchschokolade; verschiedene Sorten\r\n",
+  "name": ""
+  }
+</script>
+
+				
+				
+				
+			
+			</div>
+		</div><div class="slider__item slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 100px;" tabindex="-1" role="option" aria-describedby="slick-slide11">
+			<div class="mod-gallery-article__media mod-gallery-article__media--img">
+					
+				
+				
+					
+
+	<img alt="CHÂTEAU Choco und Keks von ALDI Nord" class="img-responsive cq-dd-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" srcset="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.288w.png.res/1536072376739/opt.288w.png 288w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.440w.png.res/1536072376739/opt.440w.png 440w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.592w.png.res/1536072376739/opt.592w.png 592w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.736w.png.res/1536072376739/opt.736w.png 736w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.900w.png.res/1536072376739/opt.900w.png 900w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.1250w.png.res/1536072376739/opt.1250w.png 1250w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.1817w.png.res/1536072376739/opt.1817w.png 1817w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png/jcr:content/renditions/opt.2800w.png.res/1536072376739/opt.2800w.png 2800w" sizes="(min-width: 1440px) 592px, (min-width: 1024px) 440px, (min-width: 768px) 360px, 100vw" data-attr-name="Product Detail Page - Level 1" data-attr-value="Image Gallery">
+
+
+	
+
+<script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/suessigkeiten/3501_0003_Ebene-1.png",
+  "datePublished": "2020-04-21",
+  "description": "Keks mit cremiger Füllung, umhüllt von Edel-Vollmilchschokolade; verschiedene Sorten\r\n",
+  "name": ""
+  }
+</script>
+
+				
+				
+				
+			
+			</div>
+		</div><div class="slider__item slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 100px;" tabindex="-1" role="option" aria-describedby="slick-slide12">
+			<div class="mod-gallery-article__media mod-gallery-article__media--img">
+					
+				
+				
+					
+
+	<img alt="CHÂTEAU Choco und Keks von ALDI Nord" class="img-responsive cq-dd-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" srcset="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.288w.png.res/1536072378594/opt.288w.png 288w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.440w.png.res/1536072378594/opt.440w.png 440w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.592w.png.res/1536072378594/opt.592w.png 592w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.736w.png.res/1536072378594/opt.736w.png 736w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.900w.png.res/1536072378594/opt.900w.png 900w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.1250w.png.res/1536072378594/opt.1250w.png 1250w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.1817w.png.res/1536072378594/opt.1817w.png 1817w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png/jcr:content/renditions/opt.2800w.png.res/1536072378594/opt.2800w.png 2800w" sizes="(min-width: 1440px) 592px, (min-width: 1024px) 440px, (min-width: 768px) 360px, 100vw" data-attr-name="Product Detail Page - Level 1" data-attr-value="Image Gallery">
+
+
+	
+
+<script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/suessigkeiten/3501_0001_Ebene-7.png",
+  "datePublished": "2020-04-21",
+  "description": "Keks mit cremiger Füllung, umhüllt von Edel-Vollmilchschokolade; verschiedene Sorten\r\n",
+  "name": ""
+  }
+</script>
+
+				
+				
+				
+			
+			</div>
+		</div><div class="slider__item slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 100px;" tabindex="-1" role="option" aria-describedby="slick-slide13">
+			<div class="mod-gallery-article__media mod-gallery-article__media--img">
+					
+				
+				
+					
+
+	<img alt="CHÂTEAU Choco und Keks von ALDI Nord" class="img-responsive cq-dd-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" srcset="/content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.288w.png.res/1536072378171/opt.288w.png 288w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.440w.png.res/1536072378171/opt.440w.png 440w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.592w.png.res/1536072378171/opt.592w.png 592w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.736w.png.res/1536072378171/opt.736w.png 736w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.900w.png.res/1536072378171/opt.900w.png 900w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.1250w.png.res/1536072378171/opt.1250w.png 1250w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.1817w.png.res/1536072378171/opt.1817w.png 1817w, /content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png/jcr:content/renditions/opt.2800w.png.res/1536072378171/opt.2800w.png 2800w" sizes="(min-width: 1440px) 592px, (min-width: 1024px) 440px, (min-width: 768px) 360px, 100vw" data-attr-name="Product Detail Page - Level 1" data-attr-value="Image Gallery">
+
+
+	
+
+<script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/suessigkeiten/3501_0002_Ebene-4.png",
+  "datePublished": "2020-04-21",
+  "description": "Keks mit cremiger Füllung, umhüllt von Edel-Vollmilchschokolade; verschiedene Sorten\r\n",
+  "name": ""
+  }
+</script>
+
+				
+				
+				
+			
+			</div>
+		</div></div></div>
+	
+		
+	
+		
+	
+		
+	</div>
+</div>
+<div class="mod mod-light-gallery" data-t-name="LightGallery" data-t-id="9"></div>
+
+	</div>
+	
+	<div class="mod-article-intro__header">
+		<div class="mod-article-intro__services">
+			<div class="mod-article-intro__services-nav">
+				
+				<a title="Zur Übersicht" href="/produkte/unsere-marken/chateau.html" class="mod-article-intro__services-nav-overview" data-attr-name="Product Detail Page - Level 1" data-attr-value="To Overview">
+                    <span class="icon icon--overview" aria-hidden="true"></span>
+                </a>
+                <div class="mod-article-intro__services-nav-group">
+                    <a title="Vorheriger Artikel " href="/produkte/unsere-marken/chateau/chocisserie-3912.article.html" class="mod-article-intro__services-nav-previous " data-attr-name="Product Detail Page - Level 1" data-attr-value="Previous Product">
+                        <span class="icon icon--arrow-right" aria-hidden="true"></span>
+                    </a>
+                    <p class="mod-article-intro__services-nav-pag">2 / 15</p>
+                    <a title="Nächster Artikel" href="/produkte/unsere-marken/chateau/milch-knusperriegel-5240.article.html" class="mod-article-intro__services-nav-next " data-attr-name="Product Detail Page - Level 1" data-attr-value="Next Product">
+                        <span class="icon icon--arrow-right" aria-hidden="true"></span>
+                    </a>
+                </div>
+			</div>
+			<div class="mod-article-intro__services-share">
+				<a href="#" class="ic-btn ic-btn--primary js-print hidden-xs" title="Artikelinformationen drucken" data-attr-name="Product Detail Page - Level 1" data-attr-value="Print Product Information">
+                    <span class="icon icon--print" data-attr-type="printPage" aria-hidden="true"></span>
+                </a>
+                 <div class="mod mod-share" data-t-name="Share" data-t-id="10">
+				    <div class="mod-share__toggle">
+				        <a href="#" class="ic-btn ic-btn--primary" title="Artikel teilen">
+				            <span class="icon icon--share" aria-hidden="true"></span>
+				        </a>
+				    </div>
+				    <div class="mod-share__menu">
+				        <button class="mod-share__close"><span class="icon icon--close" aria-hidden="true"></span></button>
+				        <ul class="mod-share__items">
+				            <li class="mod-share__item">
+				                <a data-attr-name="Product Detail Page - Level 1" data-attr-value="Mail" data-attr-type="socialShare" class="mod-share__action" title="Empfehlen" href="mailto:?subject=Ein%20interessanter%20Artikel%20von%20ALDI%20Nord&amp;body=Hallo%2C%0D%0A%0D%0Adieser%20Artikel%20k%C3%B6nnte%20dir%20gefallen.%20%0D%0ASchau%20ihn%20dir%20doch%20einmal%20an%21%0D%0A%0D%0Ahttps%3A%2F%2Fwww.aldi-nord.de%2Fprodukte%2Funsere-marken%2Fchateau%2Fchoco-und-keks-3501.article.html">
+				                    <span class="icon icon--mail mod-share__icon" aria-hidden="true"></span>
+				                    <span class="mod-share__title">Empfehlen</span>
+				                </a>
+				            </li>
+				            <li class="mod-share__item">
+				                <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aldi-nord.de%2Fprodukte%2Funsere-marken%2Fchateau%2Fchoco-und-keks-3501.article.html" data-attr-name="Product Detail Page - Level 1" data-attr-value="Facebook" data-attr-type="socialShare" class="mod-share__action js-social-share" title="Facebook" data-popup-width="530" data-popup-height="430">
+				                    <span class="icon icon--facebook mod-share__icon" aria-hidden="true"></span>
+				                    <span class="mod-share__title">Facebook</span>
+				                </a>
+				            </li>
+				            <li class="mod-share__item">
+				                <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.aldi-nord.de%2Fprodukte%2Funsere-marken%2Fchateau%2Fchoco-und-keks-3501.article.html" data-attr-name="Product Detail Page - Level 1" data-attr-value="Twitter" data-attr-type="socialShare" class="mod-share__action js-social-share" title="Twitter" data-popup-width="520" data-popup-height="400">
+				                    <span class="icon icon--twitter mod-share__icon" aria-hidden="true"></span>
+				                    <span class="mod-share__title">Twitter</span>
+				                </a>
+				            </li>
+				            
+				        </ul>
+				    </div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="mod-article-intro__header-headline">
+			<p class="mod-article-intro__header-headline-small">
+	
+		CHATEAU
+	
+	
+
+</p>
+			<h1>Choco und Keks</h1>
+			
+			
+		</div>
+	</div>
+
+	<div class="mod-article-intro__description">
+		<div class="mod-article-intro__info">
+			<div class="rte">
+				<p>Keks mit cremiger Füllung, umhüllt von Edel-Vollmilchschokolade; verschiedene Sorten</p>
+
+			</div>
+			
+
+
+			<div class="mod-article-intro__price ">
+				<div class="price">
+					<div class="price__label ">
+						
+						
+						<span class="price__main">
+1.79
+<span class="price__wrapper"></span></span>
+					</div>
+					<div class="price__meta">
+						<span class="price__unit">
+300-g-Packung</span>
+						<span class="price__base">kg = 5.97</span>
+						
+					</div>
+				</div>
+				<div class="mod-article-intro__actions ">
+					<button type="button" class="link link--primary mod-article-intro__btn--remember js-remember js-tooltip" data-attr-type="addToShoppingList" data-tooltip-max-width="220" data-attr-type-add="addToShoppingList" data-attr-type-remove="removeFromShoppingList" data-attr-name="Product Detail Page - Level 1" data-attr-value="Add to Shopping List" data-attr-proddata="{&quot;id&quot;:&quot;/produkte/unsere-marken/chateau/snippet-3501.shoppinglisttile.article.html&quot;,&quot;productInfo&quot;:{&quot;productName&quot;:&quot;Choco und Keks&quot;,&quot;productID&quot;:&quot;3501&quot;,&quot;brand&quot;:&quot;CHATEAU&quot;,&quot;ownedBrand&quot;:&quot;Owned&quot;,&quot;priceWithTax&quot;:1.79,&quot;quantity&quot;:1},&quot;productCategory&quot;:{&quot;primaryCategory&quot;:&quot;Unsere Marken&quot;,&quot;subCategory1&quot;:&quot;CHATEAU&quot;,&quot;subCategory2&quot;:&quot;n/a&quot;}}">
+						<span class="icon icon--list" aria-hidden="true"></span>
+						<span class="mod-article-intro__actions-add">Zur Einkaufsliste hinzufügen</span>
+						<span class="mod-article-intro__actions-remove">Von der Einkaufsliste entfernen</span>
+					</button>
+					
+				</div>
+			</div>
+		</div>
+		
+		<div class="mod-article-intro__badges">
+			
+			
+
+		
+			
+				
+			
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-sm-8">
+		<div class="mod mod-copy" data-t-name="Copy" data-t-id="11">
+			<div class="rte">
+				<p><b>Sorten:</b></p>
+<ul>
+<li>Black &amp; White</li>
+<li>Cappuccino&nbsp;</li>
+<li>Milch</li>
+</ul>
+
+			</div>
+			
+
+			
+
+		</div>
+	</div>
+	<div class="col-sm-4">
+		<div class="mod mod-certificates" data-t-name="Certificates">
+			<div class="mod-certificates__items">
+				
+					
+						
+							
+
+<div class="flexembed mod-certificates__img" style="padding-bottom: 100.0%;">
+	<img alt="Kakao UTZ-zertifiziert" title="Kakao UTZ-zertifiziert" class="img-responsive cq-dd-image loaded" loading="lazy" sizes="200px" srcset="/content/dam/aldi/germany/angebote/einkaufsideen/kw40/2017-10-06/3678_14-2017_Waffelstaebchen-MF04_ON_01_UTZ.png/jcr:content/renditions/opt.288w.png.res/1505214646756/opt.288w.png 288w, /content/dam/aldi/germany/angebote/einkaufsideen/kw40/2017-10-06/3678_14-2017_Waffelstaebchen-MF04_ON_01_UTZ.png/jcr:content/renditions/opt.440w.png.res/1505214646756/opt.440w.png 440w, /content/dam/aldi/germany/angebote/einkaufsideen/kw40/2017-10-06/3678_14-2017_Waffelstaebchen-MF04_ON_01_UTZ.png/jcr:content/renditions/opt.592w.png.res/1505214646756/opt.592w.png 592w, /content/dam/aldi/germany/angebote/einkaufsideen/kw40/2017-10-06/3678_14-2017_Waffelstaebchen-MF04_ON_01_UTZ.png/jcr:content/renditions/opt.736w.png.res/1505214646756/opt.736w.png 736w, /content/dam/aldi/germany/angebote/einkaufsideen/kw40/2017-10-06/3678_14-2017_Waffelstaebchen-MF04_ON_01_UTZ.png/jcr:content/renditions/opt.900w.png.res/1505214646756/opt.900w.png 900w, /content/dam/aldi/germany/angebote/einkaufsideen/kw40/2017-10-06/3678_14-2017_Waffelstaebchen-MF04_ON_01_UTZ.png/jcr:content/renditions/opt.1250w.png.res/1505214646756/opt.1250w.png 1250w, /content/dam/aldi/germany/angebote/einkaufsideen/kw40/2017-10-06/3678_14-2017_Waffelstaebchen-MF04_ON_01_UTZ.png/jcr:content/renditions/opt.1817w.png.res/1505214646756/opt.1817w.png 1817w, /content/dam/aldi/germany/angebote/einkaufsideen/kw40/2017-10-06/3678_14-2017_Waffelstaebchen-MF04_ON_01_UTZ.png/jcr:content/renditions/opt.2800w.png.res/1505214646756/opt.2800w.png 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true">
+</div>
+
+
+	
+
+<script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/angebote/einkaufsideen/kw40/2017-10-06/3678_14-2017_Waffelstaebchen-MF04_ON_01_UTZ.png",
+  "datePublished": "2020-04-21",
+  "description": "Keks mit cremiger Füllung, umhüllt von Edel-Vollmilchschokolade; verschiedene Sorten\r\n",
+  "name": "Kakao UTZ-zertifiziert"
+  }
+</script>
+
+					
+				
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+
+
+            <div class="container">
+	
+	
+	
+
+
+</div>
+
+            
+
+        </div>
+
+		
+<div>
+
+
+
+	
+<div class="mod mod-newsletter-teaser" data-t-name="NewsletterTeaser" data-t-id="12">
+	<div class="mod-newsletter-teaser__inlay">
+		<div class="mod-newsletter-teaser__wrapper">
+			<span class="icon icon--mail mod-newsletter-teaser__icon" aria-hidden="true"></span>
+			<h5 class="mod-newsletter-teaser__title">ALDI Newsletter</h5>
+			<p class="mod-newsletter-teaser__copy">Keine Angebote mehr verpassen!</p>
+		</div>
+		<div class="mod-newsletter-teaser__wrapper">
+			<form name="newslettersub" action="/aldi-newsletter.html" method="GET" class="mod-newsletter-teaser__form" data-attr-name="Newsletter Registration - Level 1" data-attr-value="Newsletter Submit">
+				<div class="textfield">
+					<input type="text" class="textfield__control" name="email" placeholder="E-Mail-Adresse eingeben">
+				</div>
+				<button type="submit" class="btn btn--reversed mod-newsletter-teaser__submit">JETZT ANMELDEN</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+
+
+
+</div>
+<footer class="mod mod-footer" data-t-name="Footer" data-t-id="13">
+	<div class="container">
+		
+			<div class="mod-footer__teaser-group slider slick-initialized slick-slider">
+	<div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1200px; transform: translate3d(0px, 0px, 0px);" role="listbox"><div class="mod-footer__teaser-single slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 300px;" tabindex="-1" role="option" aria-describedby="slick-slide20">
+		<p class="heading-h4 mod-footer__teaser-single-title">Kundeninformationen</p>
+		<span class="icon icon--customer-info" aria-hidden="true"></span>
+		<p>Schnell, einfach und entspannt einkaufen: Wir bieten Ihnen eine Vielzahl an Services und Leistungen – alles für Ihr komfortables Einkaufserlebnis.</p>
+
+		<a href="/kundeninformationen.html" class="btn btn--secondary" data-attr-name="Footer - Level 1" data-attr-value="Single" data-attr-type="footerLink" tabindex="0">JETZT INFORMIEREN</a>
+	</div><div class="mod-footer__teaser-single slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 300px;" tabindex="-1" role="option" aria-describedby="slick-slide21">
+		<p class="heading-h4 mod-footer__teaser-single-title">Karriere bei ALDI</p>
+		<span class="icon icon--career" aria-hidden="true"></span>
+		<p style="text-align: center;">Unser Kurs ist klar: Wir wollen weiter wachsen - dafür suchen wir Sie. Karriereangebote <b>für echte Kaufleute</b> mit Kaufmannsgen im Blut.<br>
+</p>
+
+		<a href="https://www.aldi-nord.de/karriere/" class="btn btn--secondary" data-attr-name="Footer - Level 1" data-attr-value="Single" data-attr-type="footerLink" tabindex="0">DIREKT BEWERBEN</a>
+	</div><div class="mod-footer__teaser-single slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 300px;" tabindex="-1" role="option" aria-describedby="slick-slide22">
+		<p class="heading-h4 mod-footer__teaser-single-title">ALDI liefert</p>
+		<span class="icon icon--van" aria-hidden="true"></span>
+		<p style="text-align: center;">Jede Woche neue, attraktive Angebote entdecken und kostenlos nach Hause bestellen.<br>
+</p>
+
+		<a href="https://www.aldi-nord.de/aldi-liefert/" class="btn btn--secondary" data-attr-name="Footer - Level 1" data-attr-value="Single" data-attr-type="footerLink" tabindex="0">Online bestellen </a>
+	</div><div class="mod-footer__teaser-single slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 300px;" tabindex="-1" role="option" aria-describedby="slick-slide23">
+		<p class="heading-h4 mod-footer__teaser-single-title">Sortiment</p>
+		<span class="icon icon--products" aria-hidden="true"></span>
+		<p style="text-align: center;">Hier geht’s zu unserer großen Produkt-Auswahl. Viel Spaß beim Entdecken.</p>
+
+		<a href="/produkte.html" class="btn btn--secondary" data-attr-name="Footer - Level 1" data-attr-value="Single" data-attr-type="footerLink" tabindex="0">JETZT ENTDECKEN</a>
+	</div></div></div>
+	
+	
+	
+</div>
+		
+		<ul class="mod-footer__list">
+			<li>
+				
+
+
+
+	
+<div class="mod-footer__area">
+	<a href="/angebote.html" title="Angebote " class="mod-footer__title">
+		Angebote 
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+
+
+	
+		<li>
+			<a href="/angebote/aktion-mo-20-04.html" title="Aktion" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Aktion ab Mo. 20.04.</a>
+		</li>
+	
+		<li>
+			<a href="/angebote/angebote-do-23-04.html" title="Angebote" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Angebote ab Do. 23.04.</a>
+		</li>
+	
+		<li>
+			<a href="/angebote/aktion-fr-24-04.html" title="Aktion" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Aktion ab Fr. 24.04.</a>
+		</li>
+	
+		<li>
+			<a href="/angebote/genuss-aus-aller-welt-fr-24-04.html" title="Genuss aus aller Welt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Genuss aus aller Welt ab Fr. 24.04.</a>
+		</li>
+	
+		<li>
+			<a href="/angebote/angebote-mo-27-04.html" title="Angebote" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Angebote ab Mo. 27.04.</a>
+		</li>
+	
+		<li>
+			<a href="/angebote/angebote-mi-29-04.html" title="Angebote				" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Angebote				 ab Mi. 29.04.</a>
+		</li>
+	
+		<li>
+			<a href="/angebote/zeit-zum-naschen-do-30-04.html" title="Zeit zum Naschen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Zeit zum Naschen ab Do. 30.04.</a>
+		</li>
+	
+
+
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/" title="Online-Angebote ALDI liefert" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Online-Angebote ALDI liefert</a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+	
+<div class="mod-footer__area">
+	<a href="https://www.aldi-nord.de/aldi-liefert/" title="ALDI liefert" class="mod-footer__title">
+		ALDI liefert
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/kundeninformationen/faq-aldi-liefert.html" title="ALDI liefert FAQ" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert FAQ</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/kundeninformationen/faq-aldi-liefert.html#5-retoure-und-stornobedingungen" title="ALDI liefert Retoure" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert Retoure</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/agb#Zahlungsmodalit%C3%A4t" title="ALDI liefert Zahlungsarten" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert Zahlungsarten</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/agb" title="ALDI liefert AGB" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert AGB</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/agb#Widerrufsbelehrung" title="ALDI liefert Widerrufsrecht" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert Widerrufsrecht</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/agb#Altger%C3%A4te" title="ALDI liefert Altgeräteentsorgung/Batterien" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert Altgeräteentsorgung/Batterien</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/impressum" title="ALDI liefert Impressum" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert Impressum</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/tools/kontakt.html" title="ALDI liefert Kontakt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert Kontakt</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/checkdeliveryzone" title="ALDI liefert Adressprüfung" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert Adressprüfung</a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+
+
+
+			</li>
+			<li>
+				
+
+
+
+	
+<div class="mod-footer__area">
+	<a href="/produkte.html" title="Produkte" class="mod-footer__title">
+		Produkte
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+<li>
+	<a href="/produkte/unsere-marken.html" title="Unsere Eigenmarken" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Eigenmarken</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/preissenkung.html" title="Preissenkung" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Preissenkung</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/neu-im-sortiment.html" title="Neu im Sortiment" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Neu im Sortiment</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/sommer-sortiment.html" title="Sommer Sortiment" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Sommer Sortiment</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/schneekoppe.html" title="Schneekoppe" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Schneekoppe</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/editions-weine.html" title="Editions-Weine" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Editions-Weine</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/ausgezeichnete-qualitaet.html" title="Ausgezeichnete Qualität" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Ausgezeichnete Qualität</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/aus-unserem-sortiment.html" title="Aus unserem Sortiment" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Aus unserem Sortiment</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/marken-aus-unserem-sortiment.html" title="Marken aus unserem Sortiment" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Marken aus unserem Sortiment</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/veganes-entdecken.html" title="Veganes entdecken" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Veganes entdecken</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/multimedia.html" title="Multimedia" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Multimedia</a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+	
+<div class="mod-footer__area">
+	<a href="/online-services.html" title="Online Services " class="mod-footer__title">
+		Online Services 
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/" title="ALDI liefert" target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert</a>
+</li>
+
+	
+<li>
+	<a href="https://www.alditalk.de/?wt_mc=de.coop.gen.adn.nav" title="ALDI TALK" target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI TALK</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldilife.com/de/?wt_mc=de.aldi.website.nord.footer" title="ALDI life" target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI life</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-reisen.de/" title="ALDI Reisen" target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI Reisen</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-blumen.de/" title="ALDI Blumen " target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI Blumen </a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldifotos.de/?wt_mc=de.aldi.site.an.footer" title="ALDI Foto" target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI Foto</a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+
+
+
+			</li>
+			<li>
+				
+
+
+
+	
+<div class="mod-footer__area">
+	<a href="/rezepte.html" title="Rezepte" class="mod-footer__title">
+		Rezepte
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+<li>
+	<a href="/rezepte/neue-rezepte.html" title="Neue Rezepte" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Neue Rezepte</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/5-zutaten-rezepte.html" title="5-Zutaten-Rezepte" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">5-Zutaten-Rezepte</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/rezept-zum-wochenende.html" title="Rezept zum Wochenende" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Rezept zum Wochenende</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/rezept-der-woche.html" title="Rezept der Woche " data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Rezept der Woche </a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/oma-ehrlich-sammlung.html" title="Oma Ehrlich Rezepte" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Oma Ehrlich Rezepte</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/vegane-rezepte.html" title="Vegane Rezepte" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Vegane Rezepte</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/sterne-kueche-a-la-schuhbeck.html" title="Sterne-Küche à la Schuhbeck" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Sterne-Küche à la Schuhbeck</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/grillen.html" title="Grillen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Grillen</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/vorspeisen.html" title=" Vorspeisen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink"> Vorspeisen</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/hauptspeisen.html" title=" Hauptspeisen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink"> Hauptspeisen</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/beilagen.html" title="Beilagen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Beilagen</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/salate.html" title="Salate" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Salate</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/saucen-und-dips.html" title="Saucen und Dips" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Saucen und Dips</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/suppen.html" title="Suppen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Suppen</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/snacks-und-kleine-gerichte.html" title="Snacks und kleine Gerichte" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Snacks und kleine Gerichte</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/desserts-und-suessspeisen.html" title=" Desserts und Süßspeisen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink"> Desserts und Süßspeisen</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/backen.html" title="Backen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Backen</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/getraenke.html" title="Getränke" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Getränke</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/fuer-kids.html" title="Für Kids" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Für Kids</a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+
+
+
+			</li>
+			<li>
+				
+
+
+
+	
+<div class="mod-footer__area">
+	<a href="/themenwelten.html" title="Themenwelten" class="mod-footer__title">
+		Themenwelten
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+<li>
+	<a href="/themenwelten/der-Original-ALDI-Preis.html" title="Der Original ALDI Preis" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Der Original ALDI Preis</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/sommerliche-ideen.html" title="Sommerliche Ideen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Sommerliche Ideen</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-wohnwelt.html" title="Unsere Wohnwelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Wohnwelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-fitnesswelt.html" title="Unsere Fitnesswelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Fitnesswelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/die-fantastischen-vier.html" title="Die Fantastischen Vier" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Die Fantastischen Vier</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/ALDI-fashionwelt.html" title="Unsere ALDI Fashionwelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere ALDI Fashionwelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-pflege-und-kosmetikwelt.html" title="Unsere Pflege- und Kosmetikwelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Pflege- und Kosmetikwelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-baby-welt.html" title="Unsere Baby-Welt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Baby-Welt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-biowelt.html" title="Unsere Biowelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Biowelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/entdecker-wochen.html" title="Entdecker-Wochen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Entdecker-Wochen</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/frische-ideen.html" title="Jeden Tag eine frische Idee" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Jeden Tag eine frische Idee</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-weinwelt.html" title="Unsere Weinwelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Weinwelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-obst-und-gemuesewelt.html" title="Unsere Obst- und Gemüsewelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Obst- und Gemüsewelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/die-aldi-kaffeewelt.html" title="Unsere Kaffeewelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Kaffeewelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/die-aldi-teewelt.html" title="Unsere Teewelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Teewelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-festivalwelt.html" title="Unsere Festivalwelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Festivalwelt</a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+
+
+
+			</li>
+			<li>
+				
+
+
+
+	
+<div class="mod-footer__area">
+	<a href="/unternehmen" title="Unternehmen " class="mod-footer__title" target="_blank">
+		Unternehmen 
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+<li>
+	<a href="/unternehmen/ueber-aldi-nord.html" title="Über ALDI Nord " target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Über ALDI Nord </a>
+</li>
+
+	
+<li>
+	<a href="/unternehmen/presse.html" title="Presse" target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Presse</a>
+</li>
+
+	
+<li>
+	<a href="http://www.aldi-nord.de/karriere/" title="Karriere" target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Karriere</a>
+</li>
+
+	
+<li>
+	<a href="/unternehmen/grundstuecke-und-immobilien.html" title="Grundstücke und Immobilien " target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Grundstücke und Immobilien </a>
+</li>
+
+	
+<li>
+	<a href="/unternehmen/compliance.html" title="Compliance" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Compliance</a>
+</li>
+
+	
+<li>
+	<a href="/unternehmen/verantwortung.html" title="Verantwortung" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Verantwortung</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi.com/" title="International " target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">International </a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+	
+<div class="mod-footer__area">
+	<a href="/kundeninformationen.html" title="Informationen" class="mod-footer__title">
+		Informationen
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+<li>
+	<a href="/tools/hilfe.html" title="Hilfe" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Hilfe</a>
+</li>
+
+	
+<li>
+	<a href="/tools/impressum.html" title="Impressum" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Impressum</a>
+</li>
+
+	
+<li>
+	<a href="/tools/datenschutzhinweis.html" title="Datenschutzhinweis" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Datenschutzhinweis</a>
+</li>
+
+	
+<li>
+	<a href="/tools/kontakt.html" title="Kontakt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Kontakt</a>
+</li>
+
+	
+<li>
+	<a href="/tools/filialen-und-oeffnungszeiten.html" title="Filialen und Öffnungszeiten" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Filialen und Öffnungszeiten</a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+
+
+
+			</li>
+		</ul>
+		
+<div class="mod mod-footnotes" data-t-name="Footnotes" id="sternchen">
+    <div class="mod-footnotes__item copy copy--25">
+		<strong>* Sternchentexte und rechtliche Hinweise</strong>
+	</div>
+	<div class="mod-footnotes__item copy copy--25">
+		<span>*</span>
+		<div class="rte"><p>Bitte beachten Sie, dass diese Aktionsartikel im Unterschied zu unserem ständig vorhandenen Sortiment nur in begrenzter Anzahl zur Verfügung stehen. Sie können daher schon am Vormittag des ersten Aktionstages kurz nach Aktionsbeginn ausverkauft sein.</p>
+</div>
+	</div>
+	<div class="mod-footnotes__item copy copy--25">
+		<span>**</span>
+		<div class="rte"><p>Bitte beachten Sie, dass diese Artikel nur in begrenzter Anzahl zur Verfügung stehen. Sie können daher zu bestimmten Zeiten der Aktion ausverkauft sein.</p>
+</div>
+	</div>
+	<div class="mod-footnotes__item copy copy--25">
+		<span>***</span>
+		<div class="rte"><p><span>Artikel, die nur online erworben werden können, sind nicht in der Filiale vorrätig bzw. lagernd. Wir planen unsere Angebote „ALDI liefert“ stets gewissenhaft und auf Basis aller verfügbaren Erfahrungen. In Ausnahmefällen kann es jedoch vorkommen, dass die Nachfrage nach einem Artikel unsere Einschätzung noch übertrifft und er mehr nachgefragt wird, als wir erwartet haben. Wir bedauern es, falls ein Artikel schnell – womöglich unmittelbar nach Aktionsbeginn – nicht mehr verfügbar sein sollte. Die Artikel werden in baugleicher Ausführung unter verschiedenen Marken ausgeliefert. Der Verfügbarkeitszeitraum und die Lieferart eines Artikels werden Ihnen auf der jeweiligen Artikelseite mitgeteilt. Nur Lieferung innerhalb Deutschlands in das Vertriebsgebiet von ALDI Nord <a title="Vertriebsgebiet von ALDI Nord" class="link link--standard" href="https://www.aldi-nord.de/aldi-liefert/checkdeliveryzone">https://www.aldi-nord.de/aldi-liefert/checkdeliveryzone</a>. Keine Lieferung an ALDI Filialen. Bei Speditionsware (Lieferung frei Bordsteinkante oder frei Verwendungsstelle): Keine Lieferung auf Inseln, Postfilialen, Packstationen und Paketshops. Bei Paketware (Lieferung frei Haustür): Ob eine Lieferung an Paketshops, Packstationen oder Postfilialen möglich ist, ist abhängig vom Versandunternehmen und wird Ihnen im Bestellprozess mitgeteilt. Es gelten die „Allgemeinen Geschäftsbedingungen ALDI liefert“, die unter <a title="AGB ALDI liefert" class="link link--standard" href="https://www.aldi-nord.de/aldi-liefert/agb ">https://www.aldi-nord.de/aldi-liefert/agb</a> abrufbar sind. Anbieter von „ALDI liefert“ ist die ALDI GmbH &amp; Co. KG Essen, Eckenbergstr. 16A, 45307 Essen.<br>
+ <br>
+ </span></p>
+</div>
+	</div>
+	
+</div>
+	</div>
+	
+		<div class="mod mod-social-media-bar" data-t-name="SocialMediaBar">
+    <h5 class=" mod-social-media-bar__title">ALDI Nord folgen</h5>
+    <ul class="mod-social-media-bar__items">
+        
+        
+        
+        <li class="mod-social-media-bar__item">
+            <a href="https://www.instagram.com/aldinord/" target="_blank" class="mod-social-media-bar__link" title="ALDI Nord auf Instagram" rel="nofollow" data-attr-name="Footer - Level 1" data-attr-value="SM: Instagram"><span class="icon icon--instagram" aria-hidden="true"></span></a>
+        </li>
+        <li class="mod-social-media-bar__item">
+            <a href="https://www.youtube.com/c/aldinordde" target="_blank" class="mod-social-media-bar__link" title="ALDI Nord auf YouTube " rel="nofollow" data-attr-name="Footer - Level 1" data-attr-value="SM: YouTube"><span class="icon icon--youtube" aria-hidden="true"></span></a>
+        </li>
+        
+        <li class="mod-social-media-bar__item">
+            <a href="https://www.xing.com/companies/aldinord" target="_blank" class="mod-social-media-bar__link" title="ALDI Nord auf Xing" rel="nofollow" data-attr-name="Footer - Level 1" data-attr-value="SM: Xing"><span class="icon icon--xing" aria-hidden="true"></span></a>
+        </li>
+        
+    </ul>
+</div>
+	
+	<div class="mod mod-back-to-top" data-t-name="BackToTop" data-t-id="14" style="opacity: 0;">
+		<button class="mod-back-to-top__btn"><span class="icon icon--arrow-right" aria-hidden="true"></span> NACH OBEN</button>
+	</div>
+</footer>
+
+
+<div class="mod mod-reminder" data-t-name="Reminder" data-t-id="15">
+	<div class="mod-reminder__active">
+		<h4 class="heading-h2">Erinnerung für</h4>
+		<div class="alert alert--error alert--subtle">
+			<div class="alert__inner">
+				<span class="icon icon--warning alert__icon" aria-hidden="true"></span>
+				<div class="alert__content">
+					<span class="alert__title">Fehler!</span>
+					<span class="alert__message">Leider ist ein Fehler aufgetreten, bitte versuchen Sie es später erneut.</span>
+				</div>
+			</div>
+		</div>
+		<div class="mod-reminder__container">
+			<div class="mod-reminder__article">
+				<script id="reminderTemplate" type="text/template">
+					<div class="mod-reminder__inlay">
+						<p class="heading-h3"></p>
+						<div class="mod-reminder__media">
+							<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="img-responsive">
+						</div>
+					</div>
+				</script>
+			</div>
+			<form action="/bin/aldi/data/reminderservice/remind" method="post" class="mod-reminder__form" data-attr-name="Reminder" novalidate="true">
+				<p><strong>Wie sollen wir Sie benachrichtigen, wenn der Artikel verfügbar ist? <abbr class="required">*</abbr></strong></p>
+				<div class="mod-reminder__f-group">
+					<label class="textfield">
+						<input type="email" class="textfield__control" name="email" pattern=".*" placeholder="E-Mail-Adresse" data-attr-value="E-Mail" required="">
+						<span class="textfield__label">Email</span>
+						<span class="textfield__error">Bitte füllen Sie das Feld aus.</span>
+					</label>
+					<p class="mod-reminder__sub-label"></p>
+					<label class="textfield">
+						<input type="tel" class="textfield__control" name="sms" pattern="^[0-9-+s()]*$" placeholder="SMS" data-attr-value="SMS" required="">
+						<span class="textfield__label"> SMS</span>
+						<span class="textfield__error">Bitte füllen Sie das Feld aus.</span>
+					</label>
+				</div>
+				<p><strong>Datumsauswahl <abbr class="required">*</abbr></strong></p>
+				<div class="mod-reminder__f-group">
+					<label class="textfield">
+						<input type="text" class="textfield__control" name="dateTime" placeholder="Bitte auswählen" data-attr-value="Date/Time" required="" autocomplete="off">
+						<span class="textfield__label">Tag und Uhrzeit</span>
+						<span class="textfield__error">Bitte füllen Sie das Feld aus.</span>
+					</label>
+					<div class="mod-reminder__datetime-picker">
+						<div class="mod mod-datetime-picker" data-t-name="DatetimePicker" data-t-id="16">
+							<div class="mod-datetime-picker__dialog">
+								<div class="mod-datetime-picker__datepicker">
+									<div class="mod-datetime-picker__label">Tag der Erinnerung</div>
+									<div class="mod-datetime-picker__date-box">
+										<div class="mod-datetime-picker__date">Zwei Tage vorher</div>
+										<div class="mod-datetime-picker__date">Einen Tag vorher</div>
+										<div class="mod-datetime-picker__date">Am Angebotstag</div>
+									</div>
+									<button type="button" class="btn btn--secondary btn--block">Bestätigen</button>
+								</div>
+								<div class="mod-datetime-picker__timepicker">
+									<div class="mod-datetime-picker__label">Uhrzeit</div>
+									<button type="button" class="mod-datetime-picker__prev"></button>
+									<div class="mod-datetime-picker__time-box">
+										<div class="mod-datetime-picker__time" data-hour="0">00:00</div>
+										<div class="mod-datetime-picker__time" data-hour="1">01:00</div>
+										<div class="mod-datetime-picker__time" data-hour="2">02:00</div>
+										<div class="mod-datetime-picker__time" data-hour="3">03:00</div>
+										<div class="mod-datetime-picker__time" data-hour="4">04:00</div>
+										<div class="mod-datetime-picker__time" data-hour="5">05:00</div>
+										<div class="mod-datetime-picker__time" data-hour="6">06:00</div>
+										<div class="mod-datetime-picker__time" data-hour="7">07:00</div>
+										<div class="mod-datetime-picker__time" data-hour="8">08:00</div>
+										<div class="mod-datetime-picker__time" data-hour="9">09:00</div>
+										<div class="mod-datetime-picker__time" data-hour="10">10:00</div>
+										<div class="mod-datetime-picker__time" data-hour="11">11:00</div>
+										<div class="mod-datetime-picker__time" data-hour="12">12:00</div>
+										<div class="mod-datetime-picker__time" data-hour="13">13:00</div>
+										<div class="mod-datetime-picker__time" data-hour="14">14:00</div>
+										<div class="mod-datetime-picker__time" data-hour="15">15:00</div>
+										<div class="mod-datetime-picker__time" data-hour="16">16:00</div>
+										<div class="mod-datetime-picker__time" data-hour="17">17:00</div>
+										<div class="mod-datetime-picker__time" data-hour="18">18:00</div>
+										<div class="mod-datetime-picker__time" data-hour="19">19:00</div>
+										<div class="mod-datetime-picker__time" data-hour="20">20:00</div>
+										<div class="mod-datetime-picker__time" data-hour="21">21:00</div>
+										<div class="mod-datetime-picker__time" data-hour="22">22:00</div>
+										<div class="mod-datetime-picker__time" data-hour="23">23:00</div>
+									</div>
+									<button type="button" class="mod-datetime-picker__next"></button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<fieldset>
+					<label class="checkbox">
+						<input type="checkbox" class="checkbox__control" name="Datenschutz" data-attr-value="Data-protection" required="">
+						<span class="checkbox__label checkbox__label--25">Die Hinweise zum Datenschutz (siehe unten) habe ich zur Kenntnis genommen und akzeptiert. Ich bin damit einverstanden, dass ALDI Nord meine personenbezogenen Daten wie dort beschrieben verarbeitet. Meine E-Mail-Adresse/ meine Mobilfunknummer bleibt gespeichert, bis ich diese Einwilligung widerrufe. Mir ist bekannt, dass ich meine Einwilligung jederzeit widerrufen kann. <abbr class="required">*</abbr></span>
+						<span class="checkbox__error checkbox__error--25">Bitte akzeptieren Sie den Datenschutz.</span>
+					</label>
+					
+					
+					
+					
+					<div class="form-helper-bp">
+		                <input type="checkbox" name="i_agree" value="0" tabindex="-1" autocomplete="off">
+		            </div>
+				</fieldset>
+				<p class="copy copy--25">Bitte füllen Sie mindestens die mit einem <abbr class="required">*</abbr> gekennzeichneten Felder aus.</p>
+				<div class="mod-reminder__action">
+					<button type="submit" class="btn btn--primary" data-attrib-name="Reminder-Service" data-attrib-value="none">Erinnerung aktivieren</button>
+				</div>
+
+				<h6>Hinweise</h6>
+				<div class="mod-reminder__notes copy copy--25">
+					<ul class="list-bullet list-borderless">
+						<li>Um unseren kostenlosen Erinnerungsservice nutzen zu können, müssen Sie sich bei erstmaliger Nutzung authentifizieren. Bitte beachten Sie hierfür den folgenden Ablauf: Geben Sie bitte E-Mail-Adresse und/oder Handynummer ein und klicken Sie auf "Erinnerung aktivieren". Sie erhalten je nach ausgewähltem Dienst (E-Mail, SMS) einen Aktivierungslink. Diesen Link rufen Sie im nächsten Schritt auf und aktivieren somit den Erinnerungsservice. Für jede weitere Nutzung ist keine weitere Authentifizierung mehr nötig.
+</li><li>Um dieses Formular übermitteln zu können, müssen Sie in den Sicherheitseinstellungen Ihres Browsers die Annahme von Cookies aktivieren. 
+</li><li>Ein SMS-Versand ist nur ins deutsche Mobilfunknetz möglich. 
+</li><li>Die Erinnerung kann nur versendet werden, wenn der gewählte Termin in der Zukunft liegt und Sie Ihre E-Mail-Adresse bzw. Handynummer erfolgreich authentifiziert haben. 
+</li><li>Ihre E-Mail-Adresse und Ihre Mobilfunknummer werden zu Übertragungszwecken, um die Erinnerung für einen ausgewählten Artikel zu versenden, sowie zu Authentifizierungszwecken für spätere Erinnerungen im Rahmen dieses Services gespeichert. Die Abmeldung/das Löschen Ihrer Daten ist jederzeit über die Seite "<a href="/tools/erinnerungsservice/abmeldung.html">Erinnerungsservice Abmeldeformular</a>" möglich. Bitte beachten Sie, dass die Aktivierung des Erinnerungsservices nur dann zulässig ist, wenn Sie selbst der Empfänger sind.</li>
+					</ul>
+				</div>
+				<input type="hidden" name="lpp" value="/content/aldi/germany/de">
+				<input type="hidden" name="regionCode">
+				<input type="hidden" name="iteration-path" value="">
+				<input type="hidden" name="promotion-path" value="">
+				<input type="hidden" name="sendDate" value="">
+				<input type="hidden" name="sendTime" value="">
+			</form>
+		</div>
+	</div>
+	<div class="mod-reminder__expired">
+		<span class="icon icon--reminder" aria-hidden="true"></span>
+		<p class="heading-h2">Dieser Artikel ist bereits im Markt erhältlich.</p>
+		<p>Die Erinnerungsfunktion wurde daher deaktiviert.</p>
+	</div>
+	<div class="mod-reminder__success">
+
+		<p class="js-headline-success heading-h2">Erinnerung aktiv!</p>
+        <p class="js-headline-optin heading-h2">Nur noch ein Schritt!</p>
+        <p class="js-alert-success mod-reminder__alert">Sie erhalten Ihre Erinnerung am ${date} um ${time} Uhr.</p>
+        <p class="js-alert-optin-email mod-reminder__alert">Bitte bestätigen Sie Ihre E-Mail-Adresse.</p>
+        <p class="js-alert-optin-sms mod-reminder__alert">Bitte bestätigen Sie Ihre Telefonnummer.</p>
+        <p class="js-alert-optin-both mod-reminder__alert">Bitte bestätigen Sie Ihre E-Mail-Adresse und Telefonnummer.</p>
+        <div class="js-message-optin-email rte"><p>&#65279;Wir haben einen Bestätigungslink an Ihre E-Mail-Adresse geschickt. &#65279;Klicken Sie auf den Bestätigungslink und aktivieren Sie damit Ihren Erinnerungsservice.&nbsp;<br>
+E-Mail nicht erhalten? Bitte schauen Sie in Ihrem Spam-Ordner nach.</p>
+</div>
+        <div class="js-message-optin-sms rte"><p>Wir haben Ihnen einen Bestätigungslink per SMS geschickt. &#65279;Klicken Sie auf den Bestätigungslink und aktivieren Sie damit Ihren Erinnerungsservice.<br>
+Keine SMS erhalten? Bitte prüfen Sie die eingegebene Rufnummer.</p>
+</div>
+        <div class="js-message-optin-both rte"><p>Wir haben Ihnen einen Bestätigungslink per SMS und an Ihre E-Mail-Adresse geschickt. &#65279;Klicken Sie auf den Bestätigungslink und aktivieren Sie damit Ihren Erinnerungsservice.<br>
+Keine E-Mail oder SMS erhalten? Bitte schauen Sie in Ihrem Spam-Ordner nach und prüfen Sie die eingegebene Rufnummer.</p>
+</div>
+	</div>
+</div>
+
+	</div>
+	
+	
+
+	
+    
+    
+
+  
+
+	<script src="/etc/designs/aldi/web/frontend/jquery_3.1.1.min.js"></script>
+
+
+
+
+    
+<script type="text/javascript" src="/etc/designs/aldi/web/clientlibs/js/lib.86e067736a4b6994c23e46d9fbfe279e.js"></script>
+<script type="text/javascript" src="/etc/designs/aldi/web/clientlibs/js/main.058cfaa7252d0bad5153f27449215b8c.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">if ( typeof( _satellite ) !== 'undefined' && typeof( _satellite.pageBottom ) !== 'undefined' ) _satellite.pageBottom();</script>
+
+    
+    
+    
+    
+
+</body></html>

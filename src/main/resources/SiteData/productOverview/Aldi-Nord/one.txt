@@ -1,0 +1,3279 @@
+<html lang="de" class=" srcset objectfit object-fit no-touch"><head>
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+	
+<meta name="description" content="Unsere Eigenmarken bei ALDI Nord: Unsere Eigenmarken erfüllen strenge Qualitätsstandards und werden regelmäßig in unabhängigen Tests überprüft. Hohe Qualität ✓">
+
+<link rel="canonical" href="https://www.aldi-nord.de/produkte/unsere-marken.html">
+
+
+<meta property="og:title" content="Unsere Eigenmarken – ALDI Nord garantiert ausgezeichnete Qualität ">
+<meta property="og:description" content="Unsere Eigenmarken bei ALDI Nord: Unsere Eigenmarken erfüllen strenge Qualitätsstandards und werden regelmäßig in unabhängigen Tests überprüft. Hohe Qualität ✓">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://www.aldi-nord.de/content/dam/aldi/germany/produkte/teaser/EMH_Website_Eigenmarken_Kacheln_Teaser.jpg/_jcr_content/renditions/original.transform/1817w/img.9999999.jpg">
+<meta property="og:image:width" content="1817">
+<meta property="og:image:height" content="1363">
+<meta property="og:url" content="https://www.aldi-nord.de/produkte/unsere-marken.html">
+<meta property="og:locale" content="de_DE">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/etc/designs/aldi/web/frontend/aldi/images/favicons/apple-touch-icon.png.res/1487002083394/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/etc/designs/aldi/web/frontend/aldi/images/favicons/favicon-32x32.png.res/1487002083394/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/etc/designs/aldi/web/frontend/aldi/images/favicons/favicon-16x16.png.res/1487002083396/favicon-16x16.png">
+<link rel="manifest" href="/etc/designs/aldi/web/frontend/aldi/images/favicons/manifest.json.res/1487002083393/manifest.json">
+<link rel="mask-icon" href="/etc/designs/aldi/web/frontend/aldi/images/favicons/safari-pinned-tab.svg.res/1487002083395/safari-pinned-tab.svg" color="#00b4dc">
+<link rel="shortcut icon" href="/etc/designs/aldi/web/frontend/aldi/images/favicons/favicon.ico.res/1487002083397/favicon.ico">
+<meta name="msapplication-config" content="/etc/designs/aldi/web/frontend/aldi/images/favicons/browserconfig.xml">
+<meta name="theme-color" content="#00b4dc">
+
+
+	
+	
+		<title>Unsere Eigenmarken – ALDI Nord garantiert ausgezeichnete Qualität </title>
+		
+	
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/content/aldi/germany.styles.css/1587715690688.css" media="all">
+
+
+<script type="text/javascript">
+    var digitalData = {"page":{"pageInfo":{"pageName":"Unsere Eigenmarken","country":"DE","language":"DE","currency":"EUR","environment":"Production","siteName":"n/a"},"pageCategory":{"pageType":"Editorial Page","primaryCategory":"Unsere Produkte","subCategory1":"Unsere Eigenmarken","subCategory2":"n/a","subCategory3":"n/a"}}};
+</script>
+
+
+
+
+
+
+    
+<link rel="stylesheet" href="/etc/designs/aldi/web/clientlibs/css/main.c4d2fbcf1e365fe037cd5b6e9996fb9c.css" type="text/css">
+
+
+
+
+
+
+    
+<script type="text/javascript" src="/etc/designs/aldi/web/clientlibs/js/head.48e54f7768420f566d996c70099c5f1b.js"></script>
+
+
+
+
+
+
+
+<script>
+ //prehiding snippet for Adobe Target with asynchronous Launch deployment
+ (function(g,b,d,f){(function(a,c,d){if(a){var e=b.createElement("style");e.id=c;e.innerHTML=d;a.appendChild(e)}})(b.getElementsByTagName("head")[0],"at-body-style",d);setTimeout(function(){var a=b.getElementsByTagName("head")[0];if(a){var c=b.getElementById("at-body-style");c&&a.removeChild(c)}},f)})(window,document,"body {opacity: 0 !important}",3E3);
+</script>
+<script src="//assets.adobedtm.com/launch-ENcd518efa263e42028901c695e6d2b16e.min.js" async=""></script>
+
+
+
+
+
+
+
+</head>
+<body class="page " data-t-name="ContentPage" data-t-id="1">
+	
+
+
+
+
+	<div class="page__top">
+		
+	
+
+
+
+	<div class="mod mod-recall " data-t-name="Recall">
+    <a href="/tools/rueckrufe/hinweis-Lieferzeiten.html" data-attr-name="Main Navigation - Level 1" data-attr-value="Product Recall">
+        <div class="alert alert--error">
+            <div class="alert__inner">
+                <span class="icon icon--warning alert__icon" aria-hidden="true"></span>
+                <div class="alert__content">
+                    <span class="alert__title">Hinweis:</span>
+                    <span class="alert__message">Lieferzeiten für unseren Online-Shop ALDI liefert </span>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+
+
+
+		
+			
+
+<div class="mod mod-cookie-consent" data-t-name="CookieConsent" data-tracking-further-pages="false" data-tracking-hint-page="false" data-dialog-first-page="true" data-dialog-further-pages="true" data-dialog-hint-page="true" data-expiry-days="90" data-close-once="true" data-t-id="2">
+    
+    <div role="dialog" class="mod-cookie-consent__dialog mod-cookie-consent__dialog--bottom-sticky  is-invisible" aria-label="cookieconsent" aria-describedby="cookieconsent:desc">
+        <div class="container">
+            <div class="mod-cookie-consent__header">
+                
+                
+                <p class="mod-cookie-consent__title">Cookies</p>
+            </div>
+            <div class="mod-cookie-consent__content">
+                <p id="cookieconsent:desc" class="mod-cookie-consent__message js-message">
+                    ALDI Nord möchte Ihnen die bestmöglichen Inhalte bieten. Dazu speichern wir Informationen über Ihren Besuch in sogenannten Cookies. Wenn Sie hiermit einverstanden sind, klicken Sie bitte auf „Zustimmen“ ansonsten bitte auf „Ablehnen“. Ausführliche Informationen über den Einsatz von Cookies auf dieser Webseite, wo Sie Ihr Einverständnis auch in die Zukunft gerichtet individuell widerrufen können, erhalten Sie durch Klick auf  <a tabindex="0" href="/tools/datenschutzhinweis.html">„Mehr Informationen“.</a>
+                </p>
+                <button type="button" class="btn btn--primary btn--inverted js-deny">Ablehnen</button>
+                
+            	<button type="button" class="btn btn--primary btn--inverted js-allow">Zustimmen</button>
+            </div>
+        </div>
+	</div>
+</div>
+		
+	</div>
+	<script type="text/javascript">if (window.performance && window.performance.mark) { window.performance.mark('page top parsed') }</script>
+    
+    <header class="mod mod-header" data-t-name="Header" data-t-id="3">
+	    <div class="mod-header__inlay">
+	    	<a href="/" class="mod-header__logo" data-attr-name="Main Navigation - Level 1" data-attr-value="Logo"><img srcset="/etc/designs/aldi/web/frontend/aldi/images/logo@2x.png 2x" src="/etc/designs/aldi/web/frontend/aldi/images/logo.png.res/1494511901919/logo.png" alt="" class="img-responsive logo" onload="if (window.performance &amp;&amp; window.performance.mark) { window.performance.mark('logo loaded') }"></a>
+			<script type="text/javascript">if (window.performance && window.performance.mark) { window.performance.mark('logo parsed') }</script>
+      
+	        <button class="hamburger hamburger--collapse mod-header__hamburger">
+	            <span class="hamburger__box">
+	                <span class="hamburger__inner"></span>
+	            </span>
+	        </button>
+	        
+	        <div class="mod-header__tools is-sticky">
+		        <div class="mod mod-cart" data-t-name="Cart" data-t-id="4">
+				    <a href="/einkaufsliste.html" class="mod-cart__btn js-tooltip" data-tooltip-max-width="220" data-tooltip-zindex="500" data-attr-name="Meta Navigation - Level 1" data-attr-value="Shopping List" data-attr-cmp="Shopping List">
+				        <span class="badge badge--primary">0</span>
+				        <span class="icon icon--list" aria-hidden="true"></span>
+				        <span class="mod-cart__title">Einkaufs-
+<br>liste</span>
+				    </a>
+				</div>
+				
+					 
+				
+
+<div class="mod mod-deliver" data-t-name="Deliver">
+    <a href="https://www.aldi-nord.de/aldi-liefert/" target="_self" class="mod mod-deliver__inlay" data-attr-name="Meta Navigation - Level 1" data-attr-value="ALDI Liefert" data-attr-cmp="Home Delivery">
+        <img src="/etc/designs/aldi/web/frontend/aldi/images/liefert-logo.svg.res/1560838516158/liefert-logo.svg" alt="" class="img-responsive">
+        <span class="mod-deliver__title">ONLINE-SHOP</span>
+    </a>
+</div>
+	        </div>
+	        
+            <nav class="mod mod-main-navigation" data-t-name="MainNavigation" data-current-path="/content/aldi/germany/de/web-consumer/produkte/unsere-marken" data-menu-src="/content/aldi/germany/de/web-consumer.mainnavigation-lazy.html" data-t-id="5">
+	<div class="mod-main-navigation__panels">
+		<div class="mod-main-navigation__panels-header">
+			<div class="mod-main-navigation__title">MENÜ</div>
+			<button class="mod-main-navigation__back" data-attr-value="Back" data-attr-name="Main Navigation - Level 1"><span class="icon icon--arrow-right" aria-hidden="true"></span> <span class="mod-main-navigation__back-label">ZURÜCK</span></button>
+			<button class="mod-main-navigation__close" data-attr-value="Close" data-attr-name="Main Navigation - Level 1"><span class="icon icon--close" aria-hidden="true"></span></button>
+		</div>
+	</div>
+	
+	
+	
+	<div class="mod-main-navigation__menu mod-main-navigation__menu--level-1">
+		<ul class="mod-main-navigation__list">
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action" href="/angebote.html" data-current-path="/content/aldi/germany/de/web-consumer/angebote" data-attr-name="Main Navigation - Level 1" data-attr-value="Angebote">
+						
+						<span class="icon icon--offer" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Angebote</span>
+					</a>
+				
+				
+			</li>
+		
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action" href="https://www.aldi-nord.de/aldi-liefert/" data-current-path="https://www.aldi-nord.de/aldi-liefert/" data-attr-name="Main Navigation - Level 1" data-attr-value="Online-Shop">
+						
+						<span class="icon icon--van" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Online-Shop</span>
+					</a>
+				
+				
+			</li>
+		
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action" href="/magazine.html" data-current-path="/content/aldi/germany/de/web-consumer/magazine" data-attr-name="Main Navigation - Level 1" data-attr-value="Unsere Magazine">
+						
+						<span class="icon icon--magazine" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Unsere Magazine</span>
+					</a>
+				
+				
+			</li>
+		
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action is-selected" href="/produkte.html" data-current-path="/content/aldi/germany/de/web-consumer/produkte" data-attr-name="Main Navigation - Level 1" data-attr-value="Produkte">
+						
+						<span class="icon icon--products" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Produkte</span>
+					</a>
+				
+				
+			</li>
+		
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action" href="/online-services.html" data-current-path="/content/aldi/germany/de/web-consumer/online-services" data-attr-name="Main Navigation - Level 1" data-attr-value="Online-Services">
+						
+						<span class="icon icon--services" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Online-Services</span>
+					</a>
+				
+				
+			</li>
+		
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action" href="/rezepte.html" data-current-path="/content/aldi/germany/de/web-consumer/rezepte" data-attr-name="Main Navigation - Level 1" data-attr-value="Rezepte">
+						
+						<span class="icon icon--recipe" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Rezepte</span>
+					</a>
+				
+				
+			</li>
+		
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action" href="/themenwelten.html" data-current-path="/content/aldi/germany/de/web-consumer/themenwelten" data-attr-name="Main Navigation - Level 1" data-attr-value="Themenwelten">
+						
+						<span class="icon icon--themes" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Themenwelten</span>
+					</a>
+				
+				
+			</li>
+		
+			<li class="mod-main-navigation__item ">
+				
+					<a class="mod-main-navigation__action" href="/aldi-newsletter.html" data-current-path="/content/aldi/germany/de/web-consumer/aldi-newsletter" data-attr-name="Main Navigation - Level 1" data-attr-value="Newsletter">
+						
+						<span class="icon icon--newsletter" aria-hidden="true"></span>
+						<span class="mod-main-navigation__label">Newsletter</span>
+					</a>
+				
+				
+			</li>
+		</ul>
+	</div>
+
+	
+	
+
+<div class="mod mod-meta-navigation" data-t-name="MetaNavigation" data-t-id="6" style="padding-right: 232.906px;">
+    <ul class="mod-meta-navigation__list">
+        <li class="mod-meta-navigation__item">
+            <a href="/" class="mod-meta-navigation__action" data-attr-name="Meta Navigation - Level 1" data-attr-value="Startseite">Startseite</a>
+        </li>
+    
+        <li class="mod-meta-navigation__item">
+            <a href="/tools/filialen-und-oeffnungszeiten.html" class="mod-meta-navigation__action" data-attr-name="Meta Navigation - Level 1" data-attr-value="Filialen und Öffnungszeiten">Filialen und Öffnungszeiten</a>
+        </li>
+    
+        <li class="mod-meta-navigation__item">
+            <a href="/karriere" class="mod-meta-navigation__action" target="_blank" data-attr-name="Meta Navigation - Level 1" data-attr-value="Karriere">Karriere</a>
+        </li>
+    
+        <li class="mod-meta-navigation__item">
+            <a href="/tools/kontakt.html" class="mod-meta-navigation__action" data-attr-name="Meta Navigation - Level 1" data-attr-value="Kontakt">Kontakt</a>
+        </li>
+    
+        <li class="mod-meta-navigation__item">
+            <a href="/unternehmen.html" class="mod-meta-navigation__action" target="_blank" data-attr-name="Meta Navigation - Level 1" data-attr-value="Unternehmen">Unternehmen</a>
+        </li>
+    
+        <li class="mod-meta-navigation__item">
+            <a href="/unternehmen/verantwortung.html" class="mod-meta-navigation__action" data-attr-name="Meta Navigation - Level 1" data-attr-value="Verantwortung">Verantwortung</a>
+        </li>
+    </ul>
+    
+    
+    
+
+</div>
+
+	<div class="mod-main-navigation__blocker"></div>
+</nav>
+	    </div>
+	</header>
+	
+    <div class="page__main">
+        <div class="page__content">
+            
+
+
+
+	
+	
+	<div class="container-full">
+		<div class="mod mod-overview-intro-2" data-t-name="OverviewIntro2">
+    <div class="mod-overview-intro-2__media">
+		
+<div class="flexembed" style="padding-bottom: 19.036458333333332%">
+	
+	
+
+
+<img loading="lazy" class="img-responsive cq-dd-image loaded" alt="Alles bleibt besser. Gemeinsames Design. Gemeinsame Qualität." sizes="(min-width: 1920px) 1817px, (min-width: 1024px) calc(100vw - 103px), 100vw" srcset="/content/dam/aldi/germany/produkte/header/EMH_Website_Eigenmarken_Header.jpg/jcr:content/renditions/original.transform/288w/img.1583947748649.jpg 288w, /content/dam/aldi/germany/produkte/header/EMH_Website_Eigenmarken_Header.jpg/jcr:content/renditions/original.transform/440w/img.1583947748649.jpg 440w, /content/dam/aldi/germany/produkte/header/EMH_Website_Eigenmarken_Header.jpg/jcr:content/renditions/original.transform/592w/img.1583947748649.jpg 592w, /content/dam/aldi/germany/produkte/header/EMH_Website_Eigenmarken_Header.jpg/jcr:content/renditions/original.transform/736w/img.1583947748649.jpg 736w, /content/dam/aldi/germany/produkte/header/EMH_Website_Eigenmarken_Header.jpg/jcr:content/renditions/original.transform/900w/img.1583947748649.jpg 900w, /content/dam/aldi/germany/produkte/header/EMH_Website_Eigenmarken_Header.jpg/jcr:content/renditions/original.transform/1250w/img.1583947748649.jpg 1250w, /content/dam/aldi/germany/produkte/header/EMH_Website_Eigenmarken_Header.jpg/jcr:content/renditions/original.transform/1817w/img.1583947748649.jpg 1817w, /content/dam/aldi/germany/produkte/header/EMH_Website_Eigenmarken_Header.jpg/jcr:content/renditions/original.transform/2800w/img.1583947748649.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true">
+</div>
+<script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/header/EMH_Website_Eigenmarken_Header.jpg",
+  "datePublished": "2020-03-13",
+  "description": "Alles bleibt besser. Gemeinsames Design. Gemeinsame Qualität.",
+  "name": ""
+  }
+</script>
+
+		
+    </div>
+</div>
+
+	</div>
+
+	
+	
+	<div class="container">
+		<div class="mod mod-breadcrumb" data-t-name="Breadcrumb">
+
+	<ol class="mod-breadcrumb__nav">
+		<li>
+			<a href="/">
+				<span>Startseite</span>
+			</a>
+		</li>
+	
+		<li>
+			<a href="/produkte.html">
+				<span>Produkte</span>
+			</a>
+		</li>
+	
+		<li>
+			
+				<span>Unsere Eigenmarken</span>
+			
+		</li>
+	</ol>
+	
+</div><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.aldi-nord.de/",
+      "name": "Startseite"
+      }
+    },
+    {
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.aldi-nord.de/produkte.html",
+      "name": "Produkte"
+      }
+    },
+    {
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://www.aldi-nord.de/produkte/unsere-marken.html",
+      "name": "Unsere Eigenmarken"
+      }
+    }
+  ]
+  }
+</script>
+
+	</div>
+	
+	
+	
+	<div class="container">
+		
+
+
+
+	
+<div class="mod mod-headline" data-t-name="Headline">
+	<h1>Unsere Eigenmarken</h1>
+</div>
+
+
+	
+<div class="mod mod-headline" data-t-name="Headline" id="freuen-sie-sich-auf-die-neuen-gemeinsamen-aldi-marken">
+	<h2>Freuen Sie sich auf die neuen gemeinsamen ALDI Marken.</h2>
+</div>
+
+
+	
+
+<div class="mod mod-copy" data-t-name="Copy" data-t-id="7">
+	<div class="rte"><p>Bei den Eigenmarken machen ALDI Nord und ALDI SÜD jetzt gemeinsame Sache. So bündeln wir Kompetenzen und können unseren Kunden das bieten, was sie sich wünschen: einen einfachen Einkauf und ein Sortiment, das sie begeistert. Deshalb erhalten viele unserer rund 100 ALDI Marken nach und nach ein neues Design – manche sogar einen neuen Namen. So wird beispielsweise <i>Gletscherkrone</i> zu <i>Knusperone</i> und auch die Produkte von <i>Gut Bio</i> sehen anders aus.</p>
+<p>Bei der Umstellung der Produkte haben wir uns an den individuellen Bedürfnissen unserer Kunden orientiert. Das bedeutet auch, dass ALDI Nord und ALDI SÜD weiterhin eigene ausgewählte Produkte in ihrem Sortiment haben, darunter meist regionale Produkte.</p>
+<p>Wir wünschen Ihnen viel Spaß beim Entdecken!</p>
+</div>
+</div>
+
+
+
+	<div class="mod mod-media" data-t-name="Media" data-t-id="8">
+	
+	
+
+	
+		<div class="video">
+	<video class="video__player" preload="metadata" src="/content/dam/aldi/germany/produkte/media/200313MK0900_ALDI_EMH_Slider_Rangeshot_2020_Version_06.mp4/_jcr_content/renditions/cq5dam.video.aldi540p.960.540.mp4" loop="loop"></video>
+	
+	
+
+
+<img loading="lazy" class="img-responsive video__poster cq-dd-image loaded" sizes="(min-width: 1440px) 1200px, (min-width: 1024px) 896px, (min-width: 768px) 736px, 100vw" srcset="/content/dam/aldi/germany/produkte/media/11185001_EMH_Website_Eigenmarken_Slider_Rangeshot.jpg/jcr:content/renditions/original.transform/288w/img.1583932922512.jpg 288w, /content/dam/aldi/germany/produkte/media/11185001_EMH_Website_Eigenmarken_Slider_Rangeshot.jpg/jcr:content/renditions/original.transform/440w/img.1583932922512.jpg 440w, /content/dam/aldi/germany/produkte/media/11185001_EMH_Website_Eigenmarken_Slider_Rangeshot.jpg/jcr:content/renditions/original.transform/592w/img.1583932922512.jpg 592w, /content/dam/aldi/germany/produkte/media/11185001_EMH_Website_Eigenmarken_Slider_Rangeshot.jpg/jcr:content/renditions/original.transform/736w/img.1583932922512.jpg 736w, /content/dam/aldi/germany/produkte/media/11185001_EMH_Website_Eigenmarken_Slider_Rangeshot.jpg/jcr:content/renditions/original.transform/900w/img.1583932922512.jpg 900w, /content/dam/aldi/germany/produkte/media/11185001_EMH_Website_Eigenmarken_Slider_Rangeshot.jpg/jcr:content/renditions/original.transform/1250w/img.1583932922512.jpg 1250w, /content/dam/aldi/germany/produkte/media/11185001_EMH_Website_Eigenmarken_Slider_Rangeshot.jpg/jcr:content/renditions/original.transform/1817w/img.1583932922512.jpg 1817w, /content/dam/aldi/germany/produkte/media/11185001_EMH_Website_Eigenmarken_Slider_Rangeshot.jpg/jcr:content/renditions/original.transform/2800w/img.1583932922512.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/media/11185001_EMH_Website_Eigenmarken_Slider_Rangeshot.jpg",
+  "datePublished": "2020-03-11",
+  "description": " ",
+  "name": ""
+  }
+</script>
+
+<button class="video__play-button"></button></div>
+		<p class="copy copy--25"></p>
+	
+</div>
+
+
+
+	
+<div class="mod mod-headline" data-t-name="Headline" id="die-eigenmarken-umstellung-ist-in-vollem-gang">
+	<h2>Die Eigenmarken-Umstellung ist in vollem Gang.</h2>
+</div>
+
+
+	
+
+<div class="mod mod-copy" data-t-name="Copy" data-t-id="9">
+	<div class="rte"><p>Hier wird sich noch etwas ändern. Wir sind gerade dabei, alle Produkte auf die neuen gemeinsamen Marken umzustellen.</p>
+</div>
+</div>
+
+
+
+	
+<div class="mod mod-tiles" data-t-name="Tiles" data-t-id="10">
+    <div class="row">
+        <!--4er Grid (imgSize3) -->
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="11">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="Almare von ALDI" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/teaser/EMH_Website_Unsere_Eigenmarken_Kacheln_Almare.jpg/jcr:content/renditions/original.transform/288w/img.1583951602478.jpg 288w, /content/dam/aldi/germany/produkte/teaser/EMH_Website_Unsere_Eigenmarken_Kacheln_Almare.jpg/jcr:content/renditions/original.transform/440w/img.1583951602478.jpg 440w, /content/dam/aldi/germany/produkte/teaser/EMH_Website_Unsere_Eigenmarken_Kacheln_Almare.jpg/jcr:content/renditions/original.transform/592w/img.1583951602478.jpg 592w, /content/dam/aldi/germany/produkte/teaser/EMH_Website_Unsere_Eigenmarken_Kacheln_Almare.jpg/jcr:content/renditions/original.transform/736w/img.1583951602478.jpg 736w, /content/dam/aldi/germany/produkte/teaser/EMH_Website_Unsere_Eigenmarken_Kacheln_Almare.jpg/jcr:content/renditions/original.transform/900w/img.1583951602478.jpg 900w, /content/dam/aldi/germany/produkte/teaser/EMH_Website_Unsere_Eigenmarken_Kacheln_Almare.jpg/jcr:content/renditions/original.transform/1250w/img.1583951602478.jpg 1250w, /content/dam/aldi/germany/produkte/teaser/EMH_Website_Unsere_Eigenmarken_Kacheln_Almare.jpg/jcr:content/renditions/original.transform/1817w/img.1583951602478.jpg 1817w, /content/dam/aldi/germany/produkte/teaser/EMH_Website_Unsere_Eigenmarken_Kacheln_Almare.jpg/jcr:content/renditions/original.transform/2800w/img.1583951602478.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/teaser/EMH_Website_Unsere_Eigenmarken_Kacheln_Almare.jpg",
+  "datePublished": "2020-03-13",
+  "description": "Almare von ALDI",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">ALMARE</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/almare.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/almare.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="12">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="BISCOTTO" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/biscotto.jpg/jcr:content/renditions/original.transform/288w/img.1491938692025.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/biscotto.jpg/jcr:content/renditions/original.transform/440w/img.1491938692025.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/biscotto.jpg/jcr:content/renditions/original.transform/592w/img.1491938692025.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/biscotto.jpg/jcr:content/renditions/original.transform/736w/img.1491938692025.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/biscotto.jpg/jcr:content/renditions/original.transform/900w/img.1491938692025.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/biscotto.jpg/jcr:content/renditions/original.transform/1250w/img.1491938692025.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/biscotto.jpg/jcr:content/renditions/original.transform/1817w/img.1491938692025.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/biscotto.jpg/jcr:content/renditions/original.transform/2800w/img.1491938692025.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/biscotto.jpg",
+  "datePublished": "2017-08-29",
+  "description": "BISCOTTO",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">BISCOTTO</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/biscotto.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/biscotto.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="13">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="CHATEAU" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/chateau.jpg/jcr:content/renditions/original.transform/288w/img.1491938692941.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/chateau.jpg/jcr:content/renditions/original.transform/440w/img.1491938692941.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/chateau.jpg/jcr:content/renditions/original.transform/592w/img.1491938692941.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/chateau.jpg/jcr:content/renditions/original.transform/736w/img.1491938692941.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/chateau.jpg/jcr:content/renditions/original.transform/900w/img.1491938692941.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/chateau.jpg/jcr:content/renditions/original.transform/1250w/img.1491938692941.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/chateau.jpg/jcr:content/renditions/original.transform/1817w/img.1491938692941.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/chateau.jpg/jcr:content/renditions/original.transform/2800w/img.1491938692941.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/chateau.jpg",
+  "datePublished": "2017-08-29",
+  "description": "CHATEAU",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">CHATEAU</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/chateau.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/chateau.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="14">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="CONFIFRUCHT MARMELINCHEN" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/confifrucht.jpg/jcr:content/renditions/original.transform/288w/img.1491938691246.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/confifrucht.jpg/jcr:content/renditions/original.transform/440w/img.1491938691246.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/confifrucht.jpg/jcr:content/renditions/original.transform/592w/img.1491938691246.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/confifrucht.jpg/jcr:content/renditions/original.transform/736w/img.1491938691246.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/confifrucht.jpg/jcr:content/renditions/original.transform/900w/img.1491938691246.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/confifrucht.jpg/jcr:content/renditions/original.transform/1250w/img.1491938691246.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/confifrucht.jpg/jcr:content/renditions/original.transform/1817w/img.1491938691246.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/confifrucht.jpg/jcr:content/renditions/original.transform/2800w/img.1491938691246.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/confifrucht.jpg",
+  "datePublished": "2017-08-29",
+  "description": "CONFIFRUCHT MARMELINCHEN",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">CONFIFRUCHT MARMELINCHEN</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/confifrucht-marmelinchen.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/confifrucht-marmelinchen.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="15">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="CONRADL" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/conradl.jpg/jcr:content/renditions/original.transform/288w/img.1491938693901.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/conradl.jpg/jcr:content/renditions/original.transform/440w/img.1491938693901.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/conradl.jpg/jcr:content/renditions/original.transform/592w/img.1491938693901.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/conradl.jpg/jcr:content/renditions/original.transform/736w/img.1491938693901.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/conradl.jpg/jcr:content/renditions/original.transform/900w/img.1491938693901.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/conradl.jpg/jcr:content/renditions/original.transform/1250w/img.1491938693901.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/conradl.jpg/jcr:content/renditions/original.transform/1817w/img.1491938693901.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/conradl.jpg/jcr:content/renditions/original.transform/2800w/img.1491938693901.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/conradl.jpg",
+  "datePublished": "2017-08-29",
+  "description": "CONRADL",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">CONRADL</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/conradl.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/conradl.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="16">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="ESKIMO" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/eskimo.jpg/jcr:content/renditions/original.transform/288w/img.1492103647725.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/eskimo.jpg/jcr:content/renditions/original.transform/440w/img.1492103647725.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/eskimo.jpg/jcr:content/renditions/original.transform/592w/img.1492103647725.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/eskimo.jpg/jcr:content/renditions/original.transform/736w/img.1492103647725.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/eskimo.jpg/jcr:content/renditions/original.transform/900w/img.1492103647725.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/eskimo.jpg/jcr:content/renditions/original.transform/1250w/img.1492103647725.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/eskimo.jpg/jcr:content/renditions/original.transform/1817w/img.1492103647725.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/eskimo.jpg/jcr:content/renditions/original.transform/2800w/img.1492103647725.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/eskimo.jpg",
+  "datePublished": "2017-08-29",
+  "description": "ESKIMO",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">ESKIMO</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/eskimo.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/eskimo.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="17">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="FAIR" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fair.jpg/jcr:content/renditions/original.transform/288w/img.1492530090900.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fair.jpg/jcr:content/renditions/original.transform/440w/img.1492530090900.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fair.jpg/jcr:content/renditions/original.transform/592w/img.1492530090900.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fair.jpg/jcr:content/renditions/original.transform/736w/img.1492530090900.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fair.jpg/jcr:content/renditions/original.transform/900w/img.1492530090900.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fair.jpg/jcr:content/renditions/original.transform/1250w/img.1492530090900.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fair.jpg/jcr:content/renditions/original.transform/1817w/img.1492530090900.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fair.jpg/jcr:content/renditions/original.transform/2800w/img.1492530090900.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fair.jpg",
+  "datePublished": "2017-08-29",
+  "description": "FAIR",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">FAIR</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/fair.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/fair.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="18">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="FEURICH" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/feurich-neu.jpg/jcr:content/renditions/original.transform/288w/img.1492758488211.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/feurich-neu.jpg/jcr:content/renditions/original.transform/440w/img.1492758488211.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/feurich-neu.jpg/jcr:content/renditions/original.transform/592w/img.1492758488211.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/feurich-neu.jpg/jcr:content/renditions/original.transform/736w/img.1492758488211.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/feurich-neu.jpg/jcr:content/renditions/original.transform/900w/img.1492758488211.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/feurich-neu.jpg/jcr:content/renditions/original.transform/1250w/img.1492758488211.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/feurich-neu.jpg/jcr:content/renditions/original.transform/1817w/img.1492758488211.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/feurich-neu.jpg/jcr:content/renditions/original.transform/2800w/img.1492758488211.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/feurich-neu.jpg",
+  "datePublished": "2017-08-29",
+  "description": "FEURICH",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">FEURICH</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/feurich.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/feurich.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="19">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="FISHFINESSE" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fishfinesse.jpg/jcr:content/renditions/original.transform/288w/img.1492103647704.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fishfinesse.jpg/jcr:content/renditions/original.transform/440w/img.1492103647704.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fishfinesse.jpg/jcr:content/renditions/original.transform/592w/img.1492103647704.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fishfinesse.jpg/jcr:content/renditions/original.transform/736w/img.1492103647704.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fishfinesse.jpg/jcr:content/renditions/original.transform/900w/img.1492103647704.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fishfinesse.jpg/jcr:content/renditions/original.transform/1250w/img.1492103647704.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fishfinesse.jpg/jcr:content/renditions/original.transform/1817w/img.1492103647704.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fishfinesse.jpg/jcr:content/renditions/original.transform/2800w/img.1492103647704.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fishfinesse.jpg",
+  "datePublished": "2017-08-29",
+  "description": "FISHFINESSE",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">FISHFINESSE</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/fishfinesse.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/fishfinesse.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="20">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="FJÖRDEN'S" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fjoerdens.jpg/jcr:content/renditions/original.transform/288w/img.1491938694810.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fjoerdens.jpg/jcr:content/renditions/original.transform/440w/img.1491938694810.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fjoerdens.jpg/jcr:content/renditions/original.transform/592w/img.1491938694810.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fjoerdens.jpg/jcr:content/renditions/original.transform/736w/img.1491938694810.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fjoerdens.jpg/jcr:content/renditions/original.transform/900w/img.1491938694810.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fjoerdens.jpg/jcr:content/renditions/original.transform/1250w/img.1491938694810.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fjoerdens.jpg/jcr:content/renditions/original.transform/1817w/img.1491938694810.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fjoerdens.jpg/jcr:content/renditions/original.transform/2800w/img.1491938694810.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/fjoerdens.jpg",
+  "datePublished": "2017-08-29",
+  "description": "FJÖRDEN'S",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">FJÖRDENS</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/fjoerdens.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/fjoerdens.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="21">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="GLETSCHERKRONE" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gletscherkrone.jpg/jcr:content/renditions/original.transform/288w/img.1491938695301.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gletscherkrone.jpg/jcr:content/renditions/original.transform/440w/img.1491938695301.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gletscherkrone.jpg/jcr:content/renditions/original.transform/592w/img.1491938695301.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gletscherkrone.jpg/jcr:content/renditions/original.transform/736w/img.1491938695301.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gletscherkrone.jpg/jcr:content/renditions/original.transform/900w/img.1491938695301.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gletscherkrone.jpg/jcr:content/renditions/original.transform/1250w/img.1491938695301.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gletscherkrone.jpg/jcr:content/renditions/original.transform/1817w/img.1491938695301.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gletscherkrone.jpg/jcr:content/renditions/original.transform/2800w/img.1491938695301.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gletscherkrone.jpg",
+  "datePublished": "2017-08-29",
+  "description": "GLETSCHERKRONE",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">GLETSCHERKRONE</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/gletscherkrone.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/gletscherkrone.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="22">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="GOLDÄHREN" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/goldaehren.jpg/jcr:content/renditions/original.transform/288w/img.1491938695165.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/goldaehren.jpg/jcr:content/renditions/original.transform/440w/img.1491938695165.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/goldaehren.jpg/jcr:content/renditions/original.transform/592w/img.1491938695165.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/goldaehren.jpg/jcr:content/renditions/original.transform/736w/img.1491938695165.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/goldaehren.jpg/jcr:content/renditions/original.transform/900w/img.1491938695165.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/goldaehren.jpg/jcr:content/renditions/original.transform/1250w/img.1491938695165.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/goldaehren.jpg/jcr:content/renditions/original.transform/1817w/img.1491938695165.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/goldaehren.jpg/jcr:content/renditions/original.transform/2800w/img.1491938695165.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/goldaehren.jpg",
+  "datePublished": "2017-08-29",
+  "description": "GOLDÄHREN",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">GOLDÄHREN</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/goldaehren.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/goldaehren.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="23">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="GOLDEN SEAFOOD" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/golden_seafood.jpg/jcr:content/renditions/original.transform/288w/img.1491938694940.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/golden_seafood.jpg/jcr:content/renditions/original.transform/440w/img.1491938694940.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/golden_seafood.jpg/jcr:content/renditions/original.transform/592w/img.1491938694940.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/golden_seafood.jpg/jcr:content/renditions/original.transform/736w/img.1491938694940.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/golden_seafood.jpg/jcr:content/renditions/original.transform/900w/img.1491938694940.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/golden_seafood.jpg/jcr:content/renditions/original.transform/1250w/img.1491938694940.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/golden_seafood.jpg/jcr:content/renditions/original.transform/1817w/img.1491938694940.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/golden_seafood.jpg/jcr:content/renditions/original.transform/2800w/img.1491938694940.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/golden_seafood.jpg",
+  "datePublished": "2017-08-29",
+  "description": "GOLDEN SEAFOOD",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">GOLDEN SEAFOOD</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/golden-seafood.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/golden-seafood.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="24">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="GOURMET FRUITS DE MER" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gourmet_fruits_de_mer.jpg/jcr:content/renditions/original.transform/288w/img.1492103647656.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gourmet_fruits_de_mer.jpg/jcr:content/renditions/original.transform/440w/img.1492103647656.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gourmet_fruits_de_mer.jpg/jcr:content/renditions/original.transform/592w/img.1492103647656.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gourmet_fruits_de_mer.jpg/jcr:content/renditions/original.transform/736w/img.1492103647656.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gourmet_fruits_de_mer.jpg/jcr:content/renditions/original.transform/900w/img.1492103647656.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gourmet_fruits_de_mer.jpg/jcr:content/renditions/original.transform/1250w/img.1492103647656.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gourmet_fruits_de_mer.jpg/jcr:content/renditions/original.transform/1817w/img.1492103647656.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gourmet_fruits_de_mer.jpg/jcr:content/renditions/original.transform/2800w/img.1492103647656.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gourmet_fruits_de_mer.jpg",
+  "datePublished": "2017-08-29",
+  "description": "GOURMET FRUITS DE MER",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">GOURMET FRUITS DE MER</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/gourmet-fruits-de-mer.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/gourmet-fruits-de-mer.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="25">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="GUT BIO" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/teaser/EMH_Website_Eigenmarken_Kacheln_GutBio.jpg/jcr:content/renditions/original.transform/288w/img.1584029485282.jpg 288w, /content/dam/aldi/germany/produkte/teaser/EMH_Website_Eigenmarken_Kacheln_GutBio.jpg/jcr:content/renditions/original.transform/440w/img.1584029485282.jpg 440w, /content/dam/aldi/germany/produkte/teaser/EMH_Website_Eigenmarken_Kacheln_GutBio.jpg/jcr:content/renditions/original.transform/592w/img.1584029485282.jpg 592w, /content/dam/aldi/germany/produkte/teaser/EMH_Website_Eigenmarken_Kacheln_GutBio.jpg/jcr:content/renditions/original.transform/736w/img.1584029485282.jpg 736w, /content/dam/aldi/germany/produkte/teaser/EMH_Website_Eigenmarken_Kacheln_GutBio.jpg/jcr:content/renditions/original.transform/900w/img.1584029485282.jpg 900w, /content/dam/aldi/germany/produkte/teaser/EMH_Website_Eigenmarken_Kacheln_GutBio.jpg/jcr:content/renditions/original.transform/1250w/img.1584029485282.jpg 1250w, /content/dam/aldi/germany/produkte/teaser/EMH_Website_Eigenmarken_Kacheln_GutBio.jpg/jcr:content/renditions/original.transform/1817w/img.1584029485282.jpg 1817w, /content/dam/aldi/germany/produkte/teaser/EMH_Website_Eigenmarken_Kacheln_GutBio.jpg/jcr:content/renditions/original.transform/2800w/img.1584029485282.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/teaser/EMH_Website_Eigenmarken_Kacheln_GutBio.jpg",
+  "datePublished": "2020-03-13",
+  "description": "GUT BIO",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">GUT BIO </h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/gut-bio.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/gut-bio.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="26">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="GUT DREI EICHEN" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gut_drei_eichen.jpg/jcr:content/renditions/original.transform/288w/img.1491938695201.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gut_drei_eichen.jpg/jcr:content/renditions/original.transform/440w/img.1491938695201.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gut_drei_eichen.jpg/jcr:content/renditions/original.transform/592w/img.1491938695201.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gut_drei_eichen.jpg/jcr:content/renditions/original.transform/736w/img.1491938695201.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gut_drei_eichen.jpg/jcr:content/renditions/original.transform/900w/img.1491938695201.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gut_drei_eichen.jpg/jcr:content/renditions/original.transform/1250w/img.1491938695201.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gut_drei_eichen.jpg/jcr:content/renditions/original.transform/1817w/img.1491938695201.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gut_drei_eichen.jpg/jcr:content/renditions/original.transform/2800w/img.1491938695201.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gut_drei_eichen.jpg",
+  "datePublished": "2017-08-29",
+  "description": "GUT DREI EICHEN",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">GUT DREI EICHEN</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/gut-drei-eichen.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/gut-drei-eichen.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="27">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="GÜLDENHOF" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gueldenhof.jpg/jcr:content/renditions/original.transform/288w/img.1491938696520.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gueldenhof.jpg/jcr:content/renditions/original.transform/440w/img.1491938696520.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gueldenhof.jpg/jcr:content/renditions/original.transform/592w/img.1491938696520.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gueldenhof.jpg/jcr:content/renditions/original.transform/736w/img.1491938696520.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gueldenhof.jpg/jcr:content/renditions/original.transform/900w/img.1491938696520.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gueldenhof.jpg/jcr:content/renditions/original.transform/1250w/img.1491938696520.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gueldenhof.jpg/jcr:content/renditions/original.transform/1817w/img.1491938696520.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gueldenhof.jpg/jcr:content/renditions/original.transform/2800w/img.1491938696520.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/gueldenhof.jpg",
+  "datePublished": "2017-08-29",
+  "description": "GÜLDENHOF",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">GÜLDENHOF</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/gueldenhof.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/gueldenhof.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="28">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="HOFBURGER" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/hofburger.jpg/jcr:content/renditions/original.transform/288w/img.1502436688281.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/hofburger.jpg/jcr:content/renditions/original.transform/440w/img.1502436688281.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/hofburger.jpg/jcr:content/renditions/original.transform/592w/img.1502436688281.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/hofburger.jpg/jcr:content/renditions/original.transform/736w/img.1502436688281.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/hofburger.jpg/jcr:content/renditions/original.transform/900w/img.1502436688281.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/hofburger.jpg/jcr:content/renditions/original.transform/1250w/img.1502436688281.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/hofburger.jpg/jcr:content/renditions/original.transform/1817w/img.1502436688281.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/hofburger.jpg/jcr:content/renditions/original.transform/2800w/img.1502436688281.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/hofburger.jpg",
+  "datePublished": "2017-09-26",
+  "description": "HOFBURGER",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">HOFBURGER</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/hofburger.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/hofburger.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="29">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="JACK'S FARM" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/jacks_farm.jpg/jcr:content/renditions/original.transform/288w/img.1491938695536.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/jacks_farm.jpg/jcr:content/renditions/original.transform/440w/img.1491938695536.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/jacks_farm.jpg/jcr:content/renditions/original.transform/592w/img.1491938695536.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/jacks_farm.jpg/jcr:content/renditions/original.transform/736w/img.1491938695536.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/jacks_farm.jpg/jcr:content/renditions/original.transform/900w/img.1491938695536.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/jacks_farm.jpg/jcr:content/renditions/original.transform/1250w/img.1491938695536.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/jacks_farm.jpg/jcr:content/renditions/original.transform/1817w/img.1491938695536.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/jacks_farm.jpg/jcr:content/renditions/original.transform/2800w/img.1491938695536.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/jacks_farm.jpg",
+  "datePublished": "2017-08-29",
+  "description": "JACK'S FARM",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">JACKS FARM</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/jacks-farm.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/jacks-farm.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="30">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="LANDBECK" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/landbeck.jpg/jcr:content/renditions/original.transform/288w/img.1491938696831.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/landbeck.jpg/jcr:content/renditions/original.transform/440w/img.1491938696831.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/landbeck.jpg/jcr:content/renditions/original.transform/592w/img.1491938696831.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/landbeck.jpg/jcr:content/renditions/original.transform/736w/img.1491938696831.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/landbeck.jpg/jcr:content/renditions/original.transform/900w/img.1491938696831.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/landbeck.jpg/jcr:content/renditions/original.transform/1250w/img.1491938696831.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/landbeck.jpg/jcr:content/renditions/original.transform/1817w/img.1491938696831.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/landbeck.jpg/jcr:content/renditions/original.transform/2800w/img.1491938696831.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/landbeck.jpg",
+  "datePublished": "2017-08-29",
+  "description": "LANDBECK",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">LANDBECK</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/landbeck.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/landbeck.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="31">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="MAMA MANCINI" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mama_manchini.jpg/jcr:content/renditions/original.transform/288w/img.1491938697098.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mama_manchini.jpg/jcr:content/renditions/original.transform/440w/img.1491938697098.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mama_manchini.jpg/jcr:content/renditions/original.transform/592w/img.1491938697098.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mama_manchini.jpg/jcr:content/renditions/original.transform/736w/img.1491938697098.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mama_manchini.jpg/jcr:content/renditions/original.transform/900w/img.1491938697098.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mama_manchini.jpg/jcr:content/renditions/original.transform/1250w/img.1491938697098.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mama_manchini.jpg/jcr:content/renditions/original.transform/1817w/img.1491938697098.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mama_manchini.jpg/jcr:content/renditions/original.transform/2800w/img.1491938697098.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mama_manchini.jpg",
+  "datePublished": "2017-08-29",
+  "description": "MAMA MANCINI",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">MAMA MANCINI</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/mama-mancini.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/mama-mancini.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="32">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180824_Mamia_Teaser.jpg/jcr:content/renditions/original.transform/288w/img.1535124577163.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180824_Mamia_Teaser.jpg/jcr:content/renditions/original.transform/440w/img.1535124577163.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180824_Mamia_Teaser.jpg/jcr:content/renditions/original.transform/592w/img.1535124577163.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180824_Mamia_Teaser.jpg/jcr:content/renditions/original.transform/736w/img.1535124577163.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180824_Mamia_Teaser.jpg/jcr:content/renditions/original.transform/900w/img.1535124577163.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180824_Mamia_Teaser.jpg/jcr:content/renditions/original.transform/1250w/img.1535124577163.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180824_Mamia_Teaser.jpg/jcr:content/renditions/original.transform/1817w/img.1535124577163.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180824_Mamia_Teaser.jpg/jcr:content/renditions/original.transform/2800w/img.1535124577163.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180824_Mamia_Teaser.jpg",
+  "datePublished": "2018-08-24",
+  "description": "",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">MAMIA</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/mamia.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/mamia.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="33">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="MARKUS" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/content_teaser_MarkusKaffee.jpg/jcr:content/renditions/original.transform/288w/img.1527250263368.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/content_teaser_MarkusKaffee.jpg/jcr:content/renditions/original.transform/440w/img.1527250263368.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/content_teaser_MarkusKaffee.jpg/jcr:content/renditions/original.transform/592w/img.1527250263368.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/content_teaser_MarkusKaffee.jpg/jcr:content/renditions/original.transform/736w/img.1527250263368.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/content_teaser_MarkusKaffee.jpg/jcr:content/renditions/original.transform/900w/img.1527250263368.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/content_teaser_MarkusKaffee.jpg/jcr:content/renditions/original.transform/1250w/img.1527250263368.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/content_teaser_MarkusKaffee.jpg/jcr:content/renditions/original.transform/1817w/img.1527250263368.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/content_teaser_MarkusKaffee.jpg/jcr:content/renditions/original.transform/2800w/img.1527250263368.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/content_teaser_MarkusKaffee.jpg",
+  "datePublished": "2018-05-25",
+  "description": "MARKUS",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">MARKUS</h4>
+            <p>Kaffeegenuss mit Tradition.</p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/markus.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/markus.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="34">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="MEIERKAMP" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/meierkamp.jpg/jcr:content/renditions/original.transform/288w/img.1491938697070.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/meierkamp.jpg/jcr:content/renditions/original.transform/440w/img.1491938697070.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/meierkamp.jpg/jcr:content/renditions/original.transform/592w/img.1491938697070.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/meierkamp.jpg/jcr:content/renditions/original.transform/736w/img.1491938697070.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/meierkamp.jpg/jcr:content/renditions/original.transform/900w/img.1491938697070.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/meierkamp.jpg/jcr:content/renditions/original.transform/1250w/img.1491938697070.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/meierkamp.jpg/jcr:content/renditions/original.transform/1817w/img.1491938697070.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/meierkamp.jpg/jcr:content/renditions/original.transform/2800w/img.1491938697070.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/meierkamp.jpg",
+  "datePublished": "2017-08-29",
+  "description": "MEIERKAMP",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">MEIERKAMP</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/meierkamp.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/meierkamp.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="35">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mein_bestes.jpg/jcr:content/renditions/original.transform/288w/img.1491938696979.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mein_bestes.jpg/jcr:content/renditions/original.transform/440w/img.1491938696979.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mein_bestes.jpg/jcr:content/renditions/original.transform/592w/img.1491938696979.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mein_bestes.jpg/jcr:content/renditions/original.transform/736w/img.1491938696979.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mein_bestes.jpg/jcr:content/renditions/original.transform/900w/img.1491938696979.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mein_bestes.jpg/jcr:content/renditions/original.transform/1250w/img.1491938696979.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mein_bestes.jpg/jcr:content/renditions/original.transform/1817w/img.1491938696979.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mein_bestes.jpg/jcr:content/renditions/original.transform/2800w/img.1491938696979.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mein_bestes.jpg",
+  "datePublished": "2017-08-29",
+  "description": "",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">MEIN BESTES</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/mein-bestes.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/mein-bestes.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="36">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="MILSA+" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsa.jpg/jcr:content/renditions/original.transform/288w/img.1491938696663.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsa.jpg/jcr:content/renditions/original.transform/440w/img.1491938696663.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsa.jpg/jcr:content/renditions/original.transform/592w/img.1491938696663.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsa.jpg/jcr:content/renditions/original.transform/736w/img.1491938696663.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsa.jpg/jcr:content/renditions/original.transform/900w/img.1491938696663.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsa.jpg/jcr:content/renditions/original.transform/1250w/img.1491938696663.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsa.jpg/jcr:content/renditions/original.transform/1817w/img.1491938696663.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsa.jpg/jcr:content/renditions/original.transform/2800w/img.1491938696663.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsa.jpg",
+  "datePublished": "2017-08-29",
+  "description": "MILSA+",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">MILSA+</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/milsa.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/milsa.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="37">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="MILSANI" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsani.jpg/jcr:content/renditions/original.transform/288w/img.1491938697989.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsani.jpg/jcr:content/renditions/original.transform/440w/img.1491938697989.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsani.jpg/jcr:content/renditions/original.transform/592w/img.1491938697989.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsani.jpg/jcr:content/renditions/original.transform/736w/img.1491938697989.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsani.jpg/jcr:content/renditions/original.transform/900w/img.1491938697989.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsani.jpg/jcr:content/renditions/original.transform/1250w/img.1491938697989.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsani.jpg/jcr:content/renditions/original.transform/1817w/img.1491938697989.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsani.jpg/jcr:content/renditions/original.transform/2800w/img.1491938697989.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/milsani.jpg",
+  "datePublished": "2017-08-29",
+  "description": "MILSANI",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">MILSANI</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/milsani.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/milsani.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="38">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="MORENO" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moreno.jpg/jcr:content/renditions/original.transform/288w/img.1526467211311.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moreno.jpg/jcr:content/renditions/original.transform/440w/img.1526467211311.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moreno.jpg/jcr:content/renditions/original.transform/592w/img.1526467211311.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moreno.jpg/jcr:content/renditions/original.transform/736w/img.1526467211311.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moreno.jpg/jcr:content/renditions/original.transform/900w/img.1526467211311.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moreno.jpg/jcr:content/renditions/original.transform/1250w/img.1526467211311.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moreno.jpg/jcr:content/renditions/original.transform/1817w/img.1526467211311.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moreno.jpg/jcr:content/renditions/original.transform/2800w/img.1526467211311.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moreno.jpg",
+  "datePublished": "2018-05-16",
+  "description": "MORENO",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">MORENO</h4>
+            <p>Höchster Genuss aus der Bohne.</p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/moreno.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/moreno.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="39">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="MOSER ROTH" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moser_roth.jpg/jcr:content/renditions/original.transform/288w/img.1491938698012.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moser_roth.jpg/jcr:content/renditions/original.transform/440w/img.1491938698012.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moser_roth.jpg/jcr:content/renditions/original.transform/592w/img.1491938698012.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moser_roth.jpg/jcr:content/renditions/original.transform/736w/img.1491938698012.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moser_roth.jpg/jcr:content/renditions/original.transform/900w/img.1491938698012.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moser_roth.jpg/jcr:content/renditions/original.transform/1250w/img.1491938698012.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moser_roth.jpg/jcr:content/renditions/original.transform/1817w/img.1491938698012.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moser_roth.jpg/jcr:content/renditions/original.transform/2800w/img.1491938698012.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/moser_roth.jpg",
+  "datePublished": "2017-08-29",
+  "description": "MOSER ROTH",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">MOSER ROTH</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/moser-roth.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/moser-roth.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="40">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mucci.jpg/jcr:content/renditions/original.transform/288w/img.1491938697591.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mucci.jpg/jcr:content/renditions/original.transform/440w/img.1491938697591.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mucci.jpg/jcr:content/renditions/original.transform/592w/img.1491938697591.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mucci.jpg/jcr:content/renditions/original.transform/736w/img.1491938697591.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mucci.jpg/jcr:content/renditions/original.transform/900w/img.1491938697591.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mucci.jpg/jcr:content/renditions/original.transform/1250w/img.1491938697591.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mucci.jpg/jcr:content/renditions/original.transform/1817w/img.1491938697591.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mucci.jpg/jcr:content/renditions/original.transform/2800w/img.1491938697591.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/mucci.jpg",
+  "datePublished": "2017-08-29",
+  "description": "",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">MUCCI</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/mucci.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/mucci.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="41">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="NORDHOLMER" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nordholmer.jpg/jcr:content/renditions/original.transform/288w/img.1491938697700.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nordholmer.jpg/jcr:content/renditions/original.transform/440w/img.1491938697700.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nordholmer.jpg/jcr:content/renditions/original.transform/592w/img.1491938697700.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nordholmer.jpg/jcr:content/renditions/original.transform/736w/img.1491938697700.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nordholmer.jpg/jcr:content/renditions/original.transform/900w/img.1491938697700.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nordholmer.jpg/jcr:content/renditions/original.transform/1250w/img.1491938697700.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nordholmer.jpg/jcr:content/renditions/original.transform/1817w/img.1491938697700.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nordholmer.jpg/jcr:content/renditions/original.transform/2800w/img.1491938697700.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nordholmer.jpg",
+  "datePublished": "2017-08-29",
+  "description": "NORDHOLMER",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">NORDHOLMER</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/nordholmer.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/nordholmer.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="42">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="NUSSKATI" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nusskati.jpg/jcr:content/renditions/original.transform/288w/img.1491938698025.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nusskati.jpg/jcr:content/renditions/original.transform/440w/img.1491938698025.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nusskati.jpg/jcr:content/renditions/original.transform/592w/img.1491938698025.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nusskati.jpg/jcr:content/renditions/original.transform/736w/img.1491938698025.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nusskati.jpg/jcr:content/renditions/original.transform/900w/img.1491938698025.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nusskati.jpg/jcr:content/renditions/original.transform/1250w/img.1491938698025.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nusskati.jpg/jcr:content/renditions/original.transform/1817w/img.1491938698025.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nusskati.jpg/jcr:content/renditions/original.transform/2800w/img.1491938698025.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/nusskati.jpg",
+  "datePublished": "2017-08-29",
+  "description": "NUSSKATI",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">NUSSKATI</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/nusskati.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/nusskati.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="43">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="OFTERDINGER" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ofterdinger.jpg/jcr:content/renditions/original.transform/288w/img.1491938697897.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ofterdinger.jpg/jcr:content/renditions/original.transform/440w/img.1491938697897.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ofterdinger.jpg/jcr:content/renditions/original.transform/592w/img.1491938697897.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ofterdinger.jpg/jcr:content/renditions/original.transform/736w/img.1491938697897.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ofterdinger.jpg/jcr:content/renditions/original.transform/900w/img.1491938697897.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ofterdinger.jpg/jcr:content/renditions/original.transform/1250w/img.1491938697897.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ofterdinger.jpg/jcr:content/renditions/original.transform/1817w/img.1491938697897.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ofterdinger.jpg/jcr:content/renditions/original.transform/2800w/img.1491938697897.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ofterdinger.jpg",
+  "datePublished": "2017-08-29",
+  "description": "OFTERDINGER",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">OFTERDINGER</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/ofterdinger.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/ofterdinger.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="44">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="POTTKIEKER" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pottkieker.jpg/jcr:content/renditions/original.transform/288w/img.1491938698128.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pottkieker.jpg/jcr:content/renditions/original.transform/440w/img.1491938698128.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pottkieker.jpg/jcr:content/renditions/original.transform/592w/img.1491938698128.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pottkieker.jpg/jcr:content/renditions/original.transform/736w/img.1491938698128.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pottkieker.jpg/jcr:content/renditions/original.transform/900w/img.1491938698128.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pottkieker.jpg/jcr:content/renditions/original.transform/1250w/img.1491938698128.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pottkieker.jpg/jcr:content/renditions/original.transform/1817w/img.1491938698128.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pottkieker.jpg/jcr:content/renditions/original.transform/2800w/img.1491938698128.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pottkieker.jpg",
+  "datePublished": "2017-08-29",
+  "description": "POTTKIEKER",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">POTTKIEKER</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/pottkieker.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/pottkieker.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="45">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="PROFORMANCE" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/proformance.jpg/jcr:content/renditions/original.transform/288w/img.1491938698138.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/proformance.jpg/jcr:content/renditions/original.transform/440w/img.1491938698138.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/proformance.jpg/jcr:content/renditions/original.transform/592w/img.1491938698138.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/proformance.jpg/jcr:content/renditions/original.transform/736w/img.1491938698138.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/proformance.jpg/jcr:content/renditions/original.transform/900w/img.1491938698138.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/proformance.jpg/jcr:content/renditions/original.transform/1250w/img.1491938698138.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/proformance.jpg/jcr:content/renditions/original.transform/1817w/img.1491938698138.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/proformance.jpg/jcr:content/renditions/original.transform/2800w/img.1491938698138.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/proformance.jpg",
+  "datePublished": "2017-08-29",
+  "description": "PROFORMANCE",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">PROFORMANCE</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/proformance.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/proformance.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="46">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="PURE FRUIT" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pure_fruit.jpg/jcr:content/renditions/original.transform/288w/img.1491938698958.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pure_fruit.jpg/jcr:content/renditions/original.transform/440w/img.1491938698958.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pure_fruit.jpg/jcr:content/renditions/original.transform/592w/img.1491938698958.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pure_fruit.jpg/jcr:content/renditions/original.transform/736w/img.1491938698958.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pure_fruit.jpg/jcr:content/renditions/original.transform/900w/img.1491938698958.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pure_fruit.jpg/jcr:content/renditions/original.transform/1250w/img.1491938698958.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pure_fruit.jpg/jcr:content/renditions/original.transform/1817w/img.1491938698958.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pure_fruit.jpg/jcr:content/renditions/original.transform/2800w/img.1491938698958.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/pure_fruit.jpg",
+  "datePublished": "2017-08-29",
+  "description": "PURE FRUIT",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">PURE FRUIT</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/pure-fruit.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/pure-fruit.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="47">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="QUELLBRUNN" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/quellbrunn.jpg/jcr:content/renditions/original.transform/288w/img.1492531010439.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/quellbrunn.jpg/jcr:content/renditions/original.transform/440w/img.1492531010439.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/quellbrunn.jpg/jcr:content/renditions/original.transform/592w/img.1492531010439.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/quellbrunn.jpg/jcr:content/renditions/original.transform/736w/img.1492531010439.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/quellbrunn.jpg/jcr:content/renditions/original.transform/900w/img.1492531010439.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/quellbrunn.jpg/jcr:content/renditions/original.transform/1250w/img.1492531010439.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/quellbrunn.jpg/jcr:content/renditions/original.transform/1817w/img.1492531010439.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/quellbrunn.jpg/jcr:content/renditions/original.transform/2800w/img.1492531010439.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/quellbrunn.jpg",
+  "datePublished": "2017-08-29",
+  "description": "QUELLBRUNN",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">QUELLBRUNN</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/quellbrunn.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/quellbrunn.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="48">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="RIVER" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/river.jpg/jcr:content/renditions/original.transform/288w/img.1491938698459.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/river.jpg/jcr:content/renditions/original.transform/440w/img.1491938698459.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/river.jpg/jcr:content/renditions/original.transform/592w/img.1491938698459.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/river.jpg/jcr:content/renditions/original.transform/736w/img.1491938698459.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/river.jpg/jcr:content/renditions/original.transform/900w/img.1491938698459.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/river.jpg/jcr:content/renditions/original.transform/1250w/img.1491938698459.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/river.jpg/jcr:content/renditions/original.transform/1817w/img.1491938698459.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/river.jpg/jcr:content/renditions/original.transform/2800w/img.1491938698459.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/river.jpg",
+  "datePublished": "2017-08-29",
+  "description": "RIVER",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">RIVER</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/river.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/river.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="49">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="ROLFFES" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rolffes.jpg/jcr:content/renditions/original.transform/288w/img.1491938699383.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rolffes.jpg/jcr:content/renditions/original.transform/440w/img.1491938699383.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rolffes.jpg/jcr:content/renditions/original.transform/592w/img.1491938699383.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rolffes.jpg/jcr:content/renditions/original.transform/736w/img.1491938699383.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rolffes.jpg/jcr:content/renditions/original.transform/900w/img.1491938699383.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rolffes.jpg/jcr:content/renditions/original.transform/1250w/img.1491938699383.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rolffes.jpg/jcr:content/renditions/original.transform/1817w/img.1491938699383.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rolffes.jpg/jcr:content/renditions/original.transform/2800w/img.1491938699383.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rolffes.jpg",
+  "datePublished": "2017-08-29",
+  "description": "ROLFFES",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">ROLFFES</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/rolffes.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/rolffes.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="50">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="ROOKHUS" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rookhus.jpg/jcr:content/renditions/original.transform/288w/img.1491938698349.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rookhus.jpg/jcr:content/renditions/original.transform/440w/img.1491938698349.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rookhus.jpg/jcr:content/renditions/original.transform/592w/img.1491938698349.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rookhus.jpg/jcr:content/renditions/original.transform/736w/img.1491938698349.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rookhus.jpg/jcr:content/renditions/original.transform/900w/img.1491938698349.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rookhus.jpg/jcr:content/renditions/original.transform/1250w/img.1491938698349.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rookhus.jpg/jcr:content/renditions/original.transform/1817w/img.1491938698349.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rookhus.jpg/jcr:content/renditions/original.transform/2800w/img.1491938698349.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/rookhus.jpg",
+  "datePublished": "2017-08-29",
+  "description": "ROOKHUS",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">ROOKHUS</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/rookhus.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/rookhus.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="51">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="SATESSA" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/satessa.jpg/jcr:content/renditions/original.transform/288w/img.1491938699330.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/satessa.jpg/jcr:content/renditions/original.transform/440w/img.1491938699330.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/satessa.jpg/jcr:content/renditions/original.transform/592w/img.1491938699330.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/satessa.jpg/jcr:content/renditions/original.transform/736w/img.1491938699330.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/satessa.jpg/jcr:content/renditions/original.transform/900w/img.1491938699330.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/satessa.jpg/jcr:content/renditions/original.transform/1250w/img.1491938699330.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/satessa.jpg/jcr:content/renditions/original.transform/1817w/img.1491938699330.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/satessa.jpg/jcr:content/renditions/original.transform/2800w/img.1491938699330.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/satessa.jpg",
+  "datePublished": "2017-08-29",
+  "description": "SATESSA",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">SATESSA</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/satessa.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/satessa.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="52">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="SCHOVIT" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/schovit.jpg/jcr:content/renditions/original.transform/288w/img.1491938699067.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/schovit.jpg/jcr:content/renditions/original.transform/440w/img.1491938699067.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/schovit.jpg/jcr:content/renditions/original.transform/592w/img.1491938699067.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/schovit.jpg/jcr:content/renditions/original.transform/736w/img.1491938699067.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/schovit.jpg/jcr:content/renditions/original.transform/900w/img.1491938699067.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/schovit.jpg/jcr:content/renditions/original.transform/1250w/img.1491938699067.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/schovit.jpg/jcr:content/renditions/original.transform/1817w/img.1491938699067.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/schovit.jpg/jcr:content/renditions/original.transform/2800w/img.1491938699067.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/schovit.jpg",
+  "datePublished": "2017-08-29",
+  "description": "SCHOVIT",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">SCHOVIT</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/schovit.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/schovit.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="53">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="SÖLDE" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/soelde.jpg/jcr:content/renditions/original.transform/288w/img.1491938699467.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/soelde.jpg/jcr:content/renditions/original.transform/440w/img.1491938699467.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/soelde.jpg/jcr:content/renditions/original.transform/592w/img.1491938699467.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/soelde.jpg/jcr:content/renditions/original.transform/736w/img.1491938699467.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/soelde.jpg/jcr:content/renditions/original.transform/900w/img.1491938699467.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/soelde.jpg/jcr:content/renditions/original.transform/1250w/img.1491938699467.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/soelde.jpg/jcr:content/renditions/original.transform/1817w/img.1491938699467.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/soelde.jpg/jcr:content/renditions/original.transform/2800w/img.1491938699467.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/soelde.jpg",
+  "datePublished": "2017-08-29",
+  "description": "SÖLDE",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">SÖLDE</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/soelde.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/soelde.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="54">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="SONNIGER" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sonniger.jpg/jcr:content/renditions/original.transform/288w/img.1491938699379.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sonniger.jpg/jcr:content/renditions/original.transform/440w/img.1491938699379.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sonniger.jpg/jcr:content/renditions/original.transform/592w/img.1491938699379.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sonniger.jpg/jcr:content/renditions/original.transform/736w/img.1491938699379.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sonniger.jpg/jcr:content/renditions/original.transform/900w/img.1491938699379.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sonniger.jpg/jcr:content/renditions/original.transform/1250w/img.1491938699379.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sonniger.jpg/jcr:content/renditions/original.transform/1817w/img.1491938699379.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sonniger.jpg/jcr:content/renditions/original.transform/2800w/img.1491938699379.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sonniger.jpg",
+  "datePublished": "2017-08-29",
+  "description": "SONNIGER",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">SONNIGER</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/sonniger.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/sonniger.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="55">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="SONTNER" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sontner.jpg/jcr:content/renditions/original.transform/288w/img.1491938699582.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sontner.jpg/jcr:content/renditions/original.transform/440w/img.1491938699582.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sontner.jpg/jcr:content/renditions/original.transform/592w/img.1491938699582.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sontner.jpg/jcr:content/renditions/original.transform/736w/img.1491938699582.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sontner.jpg/jcr:content/renditions/original.transform/900w/img.1491938699582.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sontner.jpg/jcr:content/renditions/original.transform/1250w/img.1491938699582.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sontner.jpg/jcr:content/renditions/original.transform/1817w/img.1491938699582.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sontner.jpg/jcr:content/renditions/original.transform/2800w/img.1491938699582.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/sontner.jpg",
+  "datePublished": "2017-08-29",
+  "description": "SONTNER",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">SONTNER</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/sontner.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/sontner.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="56">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="TAMARA" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/tamara.jpg/jcr:content/renditions/original.transform/288w/img.1491938699665.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/tamara.jpg/jcr:content/renditions/original.transform/440w/img.1491938699665.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/tamara.jpg/jcr:content/renditions/original.transform/592w/img.1491938699665.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/tamara.jpg/jcr:content/renditions/original.transform/736w/img.1491938699665.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/tamara.jpg/jcr:content/renditions/original.transform/900w/img.1491938699665.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/tamara.jpg/jcr:content/renditions/original.transform/1250w/img.1491938699665.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/tamara.jpg/jcr:content/renditions/original.transform/1817w/img.1491938699665.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/tamara.jpg/jcr:content/renditions/original.transform/2800w/img.1491938699665.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/tamara.jpg",
+  "datePublished": "2017-08-29",
+  "description": "TAMARA",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">TAMARA</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/tamara.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/tamara.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="57">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="TANDIL" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180702_Tandil.jpg/jcr:content/renditions/original.transform/288w/img.1530522581174.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180702_Tandil.jpg/jcr:content/renditions/original.transform/440w/img.1530522581174.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180702_Tandil.jpg/jcr:content/renditions/original.transform/592w/img.1530522581174.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180702_Tandil.jpg/jcr:content/renditions/original.transform/736w/img.1530522581174.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180702_Tandil.jpg/jcr:content/renditions/original.transform/900w/img.1530522581174.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180702_Tandil.jpg/jcr:content/renditions/original.transform/1250w/img.1530522581174.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180702_Tandil.jpg/jcr:content/renditions/original.transform/1817w/img.1530522581174.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180702_Tandil.jpg/jcr:content/renditions/original.transform/2800w/img.1530522581174.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/180702_Tandil.jpg",
+  "datePublished": "2018-07-02",
+  "description": "TANDIL",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">TANDIL</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/tandil.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/tandil.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="58">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="URSI" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/288w/img.1491938699926.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/440w/img.1491938699926.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/592w/img.1491938699926.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/736w/img.1491938699926.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/900w/img.1491938699926.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/1250w/img.1491938699926.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/1817w/img.1491938699926.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/2800w/img.1491938699926.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg",
+  "datePublished": "2017-08-29",
+  "description": "URSI",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">URSI</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/ursi.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/ursi.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="59">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="URSI" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/288w/img.1491938699926.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/440w/img.1491938699926.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/592w/img.1491938699926.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/736w/img.1491938699926.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/900w/img.1491938699926.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/1250w/img.1491938699926.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/1817w/img.1491938699926.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg/jcr:content/renditions/original.transform/2800w/img.1491938699926.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/ursi.jpg",
+  "datePublished": "2017-08-29",
+  "description": "URSI",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">URSI</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/ursi.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/ursi.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="60">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="WELLISSA" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/welissa.jpg/jcr:content/renditions/original.transform/288w/img.1492529903414.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/welissa.jpg/jcr:content/renditions/original.transform/440w/img.1492529903414.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/welissa.jpg/jcr:content/renditions/original.transform/592w/img.1492529903414.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/welissa.jpg/jcr:content/renditions/original.transform/736w/img.1492529903414.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/welissa.jpg/jcr:content/renditions/original.transform/900w/img.1492529903414.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/welissa.jpg/jcr:content/renditions/original.transform/1250w/img.1492529903414.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/welissa.jpg/jcr:content/renditions/original.transform/1817w/img.1492529903414.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/welissa.jpg/jcr:content/renditions/original.transform/2800w/img.1492529903414.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/welissa.jpg",
+  "datePublished": "2017-08-29",
+  "description": "WELLISSA",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">WELLISSA</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/wellissa.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/wellissa.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="61">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="WIESGART" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/wiesgart.jpg/jcr:content/renditions/original.transform/288w/img.1491938699981.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/wiesgart.jpg/jcr:content/renditions/original.transform/440w/img.1491938699981.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/wiesgart.jpg/jcr:content/renditions/original.transform/592w/img.1491938699981.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/wiesgart.jpg/jcr:content/renditions/original.transform/736w/img.1491938699981.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/wiesgart.jpg/jcr:content/renditions/original.transform/900w/img.1491938699981.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/wiesgart.jpg/jcr:content/renditions/original.transform/1250w/img.1491938699981.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/wiesgart.jpg/jcr:content/renditions/original.transform/1817w/img.1491938699981.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/wiesgart.jpg/jcr:content/renditions/original.transform/2800w/img.1491938699981.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/wiesgart.jpg",
+  "datePublished": "2017-08-29",
+  "description": "WIESGART",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">WIESGART</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/wiesgart.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/wiesgart.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+            <div class="col-xs-6 col-sm-4 col-lg-3">
+                <div class="contenttile-small">
+<div class="mod mod-content-tile" data-t-name="ContentTile" data-t-id="62">
+    <div class="mod-content-tile__media" data-debug-imgsize="imgSize2">
+        
+
+
+<img loading="lazy" class="img-responsive img-cover cq-dd-image loaded" alt="WESTMINSTER" sizes="(min-width: 1024px) 389px, (min-width: 768px) 235px, 50vw" srcset="/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/westminster.jpg/jcr:content/renditions/original.transform/288w/img.1491938699920.jpg 288w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/westminster.jpg/jcr:content/renditions/original.transform/440w/img.1491938699920.jpg 440w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/westminster.jpg/jcr:content/renditions/original.transform/592w/img.1491938699920.jpg 592w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/westminster.jpg/jcr:content/renditions/original.transform/736w/img.1491938699920.jpg 736w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/westminster.jpg/jcr:content/renditions/original.transform/900w/img.1491938699920.jpg 900w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/westminster.jpg/jcr:content/renditions/original.transform/1250w/img.1491938699920.jpg 1250w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/westminster.jpg/jcr:content/renditions/original.transform/1817w/img.1491938699920.jpg 1817w, /content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/westminster.jpg/jcr:content/renditions/original.transform/2800w/img.1491938699920.jpg 2800w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-was-processed="true"><script type="application/ld+json">
+{
+  "@type": "ImageObject",
+  "@context": "http://schema.org",
+  "author": "",
+  "contentLocation": "",
+  "contentUrl": "https://www.aldi-nord.de/content/dam/aldi/germany/produkte/Teaser-Produktuebersicht/westminster.jpg",
+  "datePublished": "2017-08-29",
+  "description": "WESTMINSTER",
+  "name": ""
+  }
+</script>
+ 
+    </div>
+    <div class="mod-content-tile__content">
+        <div class="mod-content-tile__info">
+            <h4 class=" mod-content-tile__title">WESTMINSTER</h4>
+            <p></p>
+        </div>
+        <div class="mod-content-tile__meta">
+            <a href="/produkte/unsere-marken/westminster.html" class="link link--primary">Mehr</a>
+        </div>
+    </div>
+    <a href="/produkte/unsere-marken/westminster.html" class="mod-content-tile__action">Mehr</a>
+</div>
+</div>
+
+            </div>
+        
+        <!--3er Grid (imgSize2) -->
+        
+        <!--2er Grid (imgSize2) -->
+        
+    </div>
+</div>
+
+
+
+
+
+			
+		
+		<div class="mod mod-fb-opt-out" data-t-name="FbOptOut" data-t-id="63">
+	    	<h3>Facebook OptOut</h3>
+	    	<div class="rte">
+	    		<p></p><p>Es wurde ein sog. Opt-Out-Cookie im genutzten Webbrowser gesetzt, der die zukünftige Datenerhebung und Speicherung durch Facebook-Pixel auf Ihrem genutzten Endgerät dauerhaft unterbindet.</p>
+<p></p>
+	    	</div>
+		</div>
+	</div>
+	
+
+	
+
+
+
+            <div class="container">
+	
+	
+	
+
+
+</div>
+
+            
+
+        </div>
+
+		
+<div>
+
+
+
+	
+<div class="mod mod-newsletter-teaser" data-t-name="NewsletterTeaser" data-t-id="64">
+	<div class="mod-newsletter-teaser__inlay">
+		<div class="mod-newsletter-teaser__wrapper">
+			<span class="icon icon--mail mod-newsletter-teaser__icon" aria-hidden="true"></span>
+			<h5 class="mod-newsletter-teaser__title">ALDI Newsletter</h5>
+			<p class="mod-newsletter-teaser__copy">Keine Angebote mehr verpassen!</p>
+		</div>
+		<div class="mod-newsletter-teaser__wrapper">
+			<form name="newslettersub" action="/aldi-newsletter.html" method="GET" class="mod-newsletter-teaser__form" data-attr-name="Newsletter Registration - Level 1" data-attr-value="Newsletter Submit">
+				<div class="textfield">
+					<input type="text" class="textfield__control" name="email" placeholder="E-Mail-Adresse eingeben">
+				</div>
+				<button type="submit" class="btn btn--reversed mod-newsletter-teaser__submit">JETZT ANMELDEN</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+
+
+
+</div>
+<footer class="mod mod-footer" data-t-name="Footer" data-t-id="65">
+	<div class="container">
+		
+			<div class="mod-footer__teaser-group slider slick-initialized slick-slider">
+	<div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1200px; transform: translate3d(0px, 0px, 0px);" role="listbox"><div class="mod-footer__teaser-single slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 300px;" tabindex="-1" role="option" aria-describedby="slick-slide00">
+		<p class="heading-h4 mod-footer__teaser-single-title">Kundeninformationen</p>
+		<span class="icon icon--customer-info" aria-hidden="true"></span>
+		<p>Schnell, einfach und entspannt einkaufen: Wir bieten Ihnen eine Vielzahl an Services und Leistungen – alles für Ihr komfortables Einkaufserlebnis.</p>
+
+		<a href="/kundeninformationen.html" class="btn btn--secondary" data-attr-name="Footer - Level 1" data-attr-value="Single" data-attr-type="footerLink" tabindex="0">JETZT INFORMIEREN</a>
+	</div><div class="mod-footer__teaser-single slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 300px;" tabindex="-1" role="option" aria-describedby="slick-slide01">
+		<p class="heading-h4 mod-footer__teaser-single-title">Karriere bei ALDI</p>
+		<span class="icon icon--career" aria-hidden="true"></span>
+		<p style="text-align: center;">Unser Kurs ist klar: Wir wollen weiter wachsen - dafür suchen wir Sie. Karriereangebote <b>für echte Kaufleute</b> mit Kaufmannsgen im Blut.<br>
+</p>
+
+		<a href="https://www.aldi-nord.de/karriere/" class="btn btn--secondary" data-attr-name="Footer - Level 1" data-attr-value="Single" data-attr-type="footerLink" tabindex="0">DIREKT BEWERBEN</a>
+	</div><div class="mod-footer__teaser-single slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 300px;" tabindex="-1" role="option" aria-describedby="slick-slide02">
+		<p class="heading-h4 mod-footer__teaser-single-title">ALDI liefert</p>
+		<span class="icon icon--van" aria-hidden="true"></span>
+		<p style="text-align: center;">Jede Woche neue, attraktive Angebote entdecken und kostenlos nach Hause bestellen.<br>
+</p>
+
+		<a href="https://www.aldi-nord.de/aldi-liefert/" class="btn btn--secondary" data-attr-name="Footer - Level 1" data-attr-value="Single" data-attr-type="footerLink" tabindex="0">Online bestellen </a>
+	</div><div class="mod-footer__teaser-single slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 300px;" tabindex="-1" role="option" aria-describedby="slick-slide03">
+		<p class="heading-h4 mod-footer__teaser-single-title">Sortiment</p>
+		<span class="icon icon--products" aria-hidden="true"></span>
+		<p style="text-align: center;">Hier geht’s zu unserer großen Produkt-Auswahl. Viel Spaß beim Entdecken.</p>
+
+		<a href="/produkte.html" class="btn btn--secondary" data-attr-name="Footer - Level 1" data-attr-value="Single" data-attr-type="footerLink" tabindex="0">JETZT ENTDECKEN</a>
+	</div></div></div>
+	
+	
+	
+</div>
+		
+		<ul class="mod-footer__list">
+			<li>
+				
+
+
+
+	
+<div class="mod-footer__area">
+	<a href="/angebote.html" title="Angebote " class="mod-footer__title">
+		Angebote 
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+
+
+	
+		<li>
+			<a href="/angebote/aktion-mo-20-04.html" title="Aktion" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Aktion ab Mo. 20.04.</a>
+		</li>
+	
+		<li>
+			<a href="/angebote/angebote-do-23-04.html" title="Angebote" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Angebote ab Do. 23.04.</a>
+		</li>
+	
+		<li>
+			<a href="/angebote/aktion-fr-24-04.html" title="Aktion" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Aktion ab Fr. 24.04.</a>
+		</li>
+	
+		<li>
+			<a href="/angebote/genuss-aus-aller-welt-fr-24-04.html" title="Genuss aus aller Welt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Genuss aus aller Welt ab Fr. 24.04.</a>
+		</li>
+	
+		<li>
+			<a href="/angebote/angebote-mo-27-04.html" title="Angebote" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Angebote ab Mo. 27.04.</a>
+		</li>
+	
+		<li>
+			<a href="/angebote/angebote-mi-29-04.html" title="Angebote				" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Angebote				 ab Mi. 29.04.</a>
+		</li>
+	
+		<li>
+			<a href="/angebote/zeit-zum-naschen-do-30-04.html" title="Zeit zum Naschen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Zeit zum Naschen ab Do. 30.04.</a>
+		</li>
+	
+
+
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/" title="Online-Angebote ALDI liefert" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Online-Angebote ALDI liefert</a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+	
+<div class="mod-footer__area">
+	<a href="https://www.aldi-nord.de/aldi-liefert/" title="ALDI liefert" class="mod-footer__title">
+		ALDI liefert
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/kundeninformationen/faq-aldi-liefert.html" title="ALDI liefert FAQ" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert FAQ</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/kundeninformationen/faq-aldi-liefert.html#5-retoure-und-stornobedingungen" title="ALDI liefert Retoure" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert Retoure</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/agb#Zahlungsmodalit%C3%A4t" title="ALDI liefert Zahlungsarten" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert Zahlungsarten</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/agb" title="ALDI liefert AGB" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert AGB</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/agb#Widerrufsbelehrung" title="ALDI liefert Widerrufsrecht" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert Widerrufsrecht</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/agb#Altger%C3%A4te" title="ALDI liefert Altgeräteentsorgung/Batterien" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert Altgeräteentsorgung/Batterien</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/impressum" title="ALDI liefert Impressum" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert Impressum</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/tools/kontakt.html" title="ALDI liefert Kontakt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert Kontakt</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/checkdeliveryzone" title="ALDI liefert Adressprüfung" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert Adressprüfung</a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+
+
+
+			</li>
+			<li>
+				
+
+
+
+	
+<div class="mod-footer__area">
+	<a href="/produkte.html" title="Produkte" class="mod-footer__title">
+		Produkte
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+<li>
+	<a href="/produkte/unsere-marken.html" title="Unsere Eigenmarken" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Eigenmarken</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/preissenkung.html" title="Preissenkung" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Preissenkung</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/neu-im-sortiment.html" title="Neu im Sortiment" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Neu im Sortiment</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/sommer-sortiment.html" title="Sommer Sortiment" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Sommer Sortiment</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/schneekoppe.html" title="Schneekoppe" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Schneekoppe</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/editions-weine.html" title="Editions-Weine" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Editions-Weine</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/ausgezeichnete-qualitaet.html" title="Ausgezeichnete Qualität" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Ausgezeichnete Qualität</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/aus-unserem-sortiment.html" title="Aus unserem Sortiment" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Aus unserem Sortiment</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/marken-aus-unserem-sortiment.html" title="Marken aus unserem Sortiment" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Marken aus unserem Sortiment</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/veganes-entdecken.html" title="Veganes entdecken" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Veganes entdecken</a>
+</li>
+
+	
+<li>
+	<a href="/produkte/multimedia.html" title="Multimedia" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Multimedia</a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+	
+<div class="mod-footer__area">
+	<a href="/online-services.html" title="Online Services " class="mod-footer__title">
+		Online Services 
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+<li>
+	<a href="https://www.aldi-nord.de/aldi-liefert/" title="ALDI liefert" target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI liefert</a>
+</li>
+
+	
+<li>
+	<a href="https://www.alditalk.de/?wt_mc=de.coop.gen.adn.nav" title="ALDI TALK" target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI TALK</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldilife.com/de/?wt_mc=de.aldi.website.nord.footer" title="ALDI life" target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI life</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-reisen.de/" title="ALDI Reisen" target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI Reisen</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi-blumen.de/" title="ALDI Blumen " target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI Blumen </a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldifotos.de/?wt_mc=de.aldi.site.an.footer" title="ALDI Foto" target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">ALDI Foto</a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+
+
+
+			</li>
+			<li>
+				
+
+
+
+	
+<div class="mod-footer__area">
+	<a href="/rezepte.html" title="Rezepte" class="mod-footer__title">
+		Rezepte
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+<li>
+	<a href="/rezepte/neue-rezepte.html" title="Neue Rezepte" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Neue Rezepte</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/5-zutaten-rezepte.html" title="5-Zutaten-Rezepte" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">5-Zutaten-Rezepte</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/rezept-zum-wochenende.html" title="Rezept zum Wochenende" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Rezept zum Wochenende</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/rezept-der-woche.html" title="Rezept der Woche " data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Rezept der Woche </a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/oma-ehrlich-sammlung.html" title="Oma Ehrlich Rezepte" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Oma Ehrlich Rezepte</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/vegane-rezepte.html" title="Vegane Rezepte" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Vegane Rezepte</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/sterne-kueche-a-la-schuhbeck.html" title="Sterne-Küche à la Schuhbeck" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Sterne-Küche à la Schuhbeck</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/grillen.html" title="Grillen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Grillen</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/vorspeisen.html" title=" Vorspeisen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink"> Vorspeisen</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/hauptspeisen.html" title=" Hauptspeisen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink"> Hauptspeisen</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/beilagen.html" title="Beilagen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Beilagen</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/salate.html" title="Salate" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Salate</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/saucen-und-dips.html" title="Saucen und Dips" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Saucen und Dips</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/suppen.html" title="Suppen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Suppen</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/snacks-und-kleine-gerichte.html" title="Snacks und kleine Gerichte" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Snacks und kleine Gerichte</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/desserts-und-suessspeisen.html" title=" Desserts und Süßspeisen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink"> Desserts und Süßspeisen</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/backen.html" title="Backen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Backen</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/getraenke.html" title="Getränke" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Getränke</a>
+</li>
+
+	
+<li>
+	<a href="/rezepte/fuer-kids.html" title="Für Kids" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Für Kids</a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+
+
+
+			</li>
+			<li>
+				
+
+
+
+	
+<div class="mod-footer__area">
+	<a href="/themenwelten.html" title="Themenwelten" class="mod-footer__title">
+		Themenwelten
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+<li>
+	<a href="/themenwelten/der-Original-ALDI-Preis.html" title="Der Original ALDI Preis" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Der Original ALDI Preis</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/sommerliche-ideen.html" title="Sommerliche Ideen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Sommerliche Ideen</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-wohnwelt.html" title="Unsere Wohnwelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Wohnwelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-fitnesswelt.html" title="Unsere Fitnesswelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Fitnesswelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/die-fantastischen-vier.html" title="Die Fantastischen Vier" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Die Fantastischen Vier</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/ALDI-fashionwelt.html" title="Unsere ALDI Fashionwelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere ALDI Fashionwelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-pflege-und-kosmetikwelt.html" title="Unsere Pflege- und Kosmetikwelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Pflege- und Kosmetikwelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-baby-welt.html" title="Unsere Baby-Welt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Baby-Welt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-biowelt.html" title="Unsere Biowelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Biowelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/entdecker-wochen.html" title="Entdecker-Wochen" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Entdecker-Wochen</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/frische-ideen.html" title="Jeden Tag eine frische Idee" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Jeden Tag eine frische Idee</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-weinwelt.html" title="Unsere Weinwelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Weinwelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-obst-und-gemuesewelt.html" title="Unsere Obst- und Gemüsewelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Obst- und Gemüsewelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/die-aldi-kaffeewelt.html" title="Unsere Kaffeewelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Kaffeewelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/die-aldi-teewelt.html" title="Unsere Teewelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Teewelt</a>
+</li>
+
+	
+<li>
+	<a href="/themenwelten/unsere-festivalwelt.html" title="Unsere Festivalwelt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Unsere Festivalwelt</a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+
+
+
+			</li>
+			<li>
+				
+
+
+
+	
+<div class="mod-footer__area">
+	<a href="/unternehmen" title="Unternehmen " class="mod-footer__title" target="_blank">
+		Unternehmen 
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+<li>
+	<a href="/unternehmen/ueber-aldi-nord.html" title="Über ALDI Nord " target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Über ALDI Nord </a>
+</li>
+
+	
+<li>
+	<a href="/unternehmen/presse.html" title="Presse" target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Presse</a>
+</li>
+
+	
+<li>
+	<a href="http://www.aldi-nord.de/karriere/" title="Karriere" target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Karriere</a>
+</li>
+
+	
+<li>
+	<a href="/unternehmen/grundstuecke-und-immobilien.html" title="Grundstücke und Immobilien " target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Grundstücke und Immobilien </a>
+</li>
+
+	
+<li>
+	<a href="/unternehmen/compliance.html" title="Compliance" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Compliance</a>
+</li>
+
+	
+<li>
+	<a href="/unternehmen/verantwortung.html" title="Verantwortung" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Verantwortung</a>
+</li>
+
+	
+<li>
+	<a href="https://www.aldi.com/" title="International " target="_blank" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">International </a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+	
+<div class="mod-footer__area">
+	<a href="/kundeninformationen.html" title="Informationen" class="mod-footer__title">
+		Informationen
+	</a>
+	
+	<ul>
+		
+
+
+
+	
+<li>
+	<a href="/tools/hilfe.html" title="Hilfe" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Hilfe</a>
+</li>
+
+	
+<li>
+	<a href="/tools/impressum.html" title="Impressum" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Impressum</a>
+</li>
+
+	
+<li>
+	<a href="/tools/datenschutzhinweis.html" title="Datenschutzhinweis" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Datenschutzhinweis</a>
+</li>
+
+	
+<li>
+	<a href="/tools/kontakt.html" title="Kontakt" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Kontakt</a>
+</li>
+
+	
+<li>
+	<a href="/tools/filialen-und-oeffnungszeiten.html" title="Filialen und Öffnungszeiten" data-attr-name="Footer - Level 1" data-attr-value="List" data-attr-type="footerLink">Filialen und Öffnungszeiten</a>
+</li>
+
+
+
+
+	</ul>
+</div>
+
+
+
+
+			</li>
+		</ul>
+		
+
+	</div>
+	
+		<div class="mod mod-social-media-bar" data-t-name="SocialMediaBar">
+    <h5 class=" mod-social-media-bar__title">ALDI Nord folgen</h5>
+    <ul class="mod-social-media-bar__items">
+        
+        
+        
+        <li class="mod-social-media-bar__item">
+            <a href="https://www.instagram.com/aldinord/" target="_blank" class="mod-social-media-bar__link" title="ALDI Nord auf Instagram" rel="nofollow" data-attr-name="Footer - Level 1" data-attr-value="SM: Instagram"><span class="icon icon--instagram" aria-hidden="true"></span></a>
+        </li>
+        <li class="mod-social-media-bar__item">
+            <a href="https://www.youtube.com/c/aldinordde" target="_blank" class="mod-social-media-bar__link" title="ALDI Nord auf YouTube " rel="nofollow" data-attr-name="Footer - Level 1" data-attr-value="SM: YouTube"><span class="icon icon--youtube" aria-hidden="true"></span></a>
+        </li>
+        
+        <li class="mod-social-media-bar__item">
+            <a href="https://www.xing.com/companies/aldinord" target="_blank" class="mod-social-media-bar__link" title="ALDI Nord auf Xing" rel="nofollow" data-attr-name="Footer - Level 1" data-attr-value="SM: Xing"><span class="icon icon--xing" aria-hidden="true"></span></a>
+        </li>
+        
+    </ul>
+</div>
+	
+	<div class="mod mod-back-to-top" data-t-name="BackToTop" data-t-id="66" style="opacity: 1;">
+		<button class="mod-back-to-top__btn"><span class="icon icon--arrow-right" aria-hidden="true"></span> NACH OBEN</button>
+	</div>
+</footer>
+
+
+<div class="mod mod-reminder" data-t-name="Reminder" data-t-id="67">
+	<div class="mod-reminder__active">
+		<h4 class="heading-h2">Erinnerung für</h4>
+		<div class="alert alert--error alert--subtle">
+			<div class="alert__inner">
+				<span class="icon icon--warning alert__icon" aria-hidden="true"></span>
+				<div class="alert__content">
+					<span class="alert__title">Fehler!</span>
+					<span class="alert__message">Leider ist ein Fehler aufgetreten, bitte versuchen Sie es später erneut.</span>
+				</div>
+			</div>
+		</div>
+		<div class="mod-reminder__container">
+			<div class="mod-reminder__article">
+				<script id="reminderTemplate" type="text/template">
+					<div class="mod-reminder__inlay">
+						<p class="heading-h3"></p>
+						<div class="mod-reminder__media">
+							<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="img-responsive">
+						</div>
+					</div>
+				</script>
+			</div>
+			<form action="/bin/aldi/data/reminderservice/remind" method="post" class="mod-reminder__form" data-attr-name="Reminder" novalidate="true">
+				<p><strong>Wie sollen wir Sie benachrichtigen, wenn der Artikel verfügbar ist? <abbr class="required">*</abbr></strong></p>
+				<div class="mod-reminder__f-group">
+					<label class="textfield">
+						<input type="email" class="textfield__control" name="email" pattern=".*" placeholder="E-Mail-Adresse" data-attr-value="E-Mail" required="">
+						<span class="textfield__label">Email</span>
+						<span class="textfield__error">Bitte füllen Sie das Feld aus.</span>
+					</label>
+					<p class="mod-reminder__sub-label"></p>
+					<label class="textfield">
+						<input type="tel" class="textfield__control" name="sms" pattern="^[0-9-+s()]*$" placeholder="SMS" data-attr-value="SMS" required="">
+						<span class="textfield__label"> SMS</span>
+						<span class="textfield__error">Bitte füllen Sie das Feld aus.</span>
+					</label>
+				</div>
+				<p><strong>Datumsauswahl <abbr class="required">*</abbr></strong></p>
+				<div class="mod-reminder__f-group">
+					<label class="textfield">
+						<input type="text" class="textfield__control" name="dateTime" placeholder="Bitte auswählen" data-attr-value="Date/Time" required="" autocomplete="off">
+						<span class="textfield__label">Tag und Uhrzeit</span>
+						<span class="textfield__error">Bitte füllen Sie das Feld aus.</span>
+					</label>
+					<div class="mod-reminder__datetime-picker">
+						<div class="mod mod-datetime-picker" data-t-name="DatetimePicker" data-t-id="68">
+							<div class="mod-datetime-picker__dialog">
+								<div class="mod-datetime-picker__datepicker">
+									<div class="mod-datetime-picker__label">Tag der Erinnerung</div>
+									<div class="mod-datetime-picker__date-box">
+										<div class="mod-datetime-picker__date">Zwei Tage vorher</div>
+										<div class="mod-datetime-picker__date">Einen Tag vorher</div>
+										<div class="mod-datetime-picker__date">Am Angebotstag</div>
+									</div>
+									<button type="button" class="btn btn--secondary btn--block">Bestätigen</button>
+								</div>
+								<div class="mod-datetime-picker__timepicker">
+									<div class="mod-datetime-picker__label">Uhrzeit</div>
+									<button type="button" class="mod-datetime-picker__prev"></button>
+									<div class="mod-datetime-picker__time-box">
+										<div class="mod-datetime-picker__time" data-hour="0">00:00</div>
+										<div class="mod-datetime-picker__time" data-hour="1">01:00</div>
+										<div class="mod-datetime-picker__time" data-hour="2">02:00</div>
+										<div class="mod-datetime-picker__time" data-hour="3">03:00</div>
+										<div class="mod-datetime-picker__time" data-hour="4">04:00</div>
+										<div class="mod-datetime-picker__time" data-hour="5">05:00</div>
+										<div class="mod-datetime-picker__time" data-hour="6">06:00</div>
+										<div class="mod-datetime-picker__time" data-hour="7">07:00</div>
+										<div class="mod-datetime-picker__time" data-hour="8">08:00</div>
+										<div class="mod-datetime-picker__time" data-hour="9">09:00</div>
+										<div class="mod-datetime-picker__time" data-hour="10">10:00</div>
+										<div class="mod-datetime-picker__time" data-hour="11">11:00</div>
+										<div class="mod-datetime-picker__time" data-hour="12">12:00</div>
+										<div class="mod-datetime-picker__time" data-hour="13">13:00</div>
+										<div class="mod-datetime-picker__time" data-hour="14">14:00</div>
+										<div class="mod-datetime-picker__time" data-hour="15">15:00</div>
+										<div class="mod-datetime-picker__time" data-hour="16">16:00</div>
+										<div class="mod-datetime-picker__time" data-hour="17">17:00</div>
+										<div class="mod-datetime-picker__time" data-hour="18">18:00</div>
+										<div class="mod-datetime-picker__time" data-hour="19">19:00</div>
+										<div class="mod-datetime-picker__time" data-hour="20">20:00</div>
+										<div class="mod-datetime-picker__time" data-hour="21">21:00</div>
+										<div class="mod-datetime-picker__time" data-hour="22">22:00</div>
+										<div class="mod-datetime-picker__time" data-hour="23">23:00</div>
+									</div>
+									<button type="button" class="mod-datetime-picker__next"></button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<fieldset>
+					<label class="checkbox">
+						<input type="checkbox" class="checkbox__control" name="Datenschutz" data-attr-value="Data-protection" required="">
+						<span class="checkbox__label checkbox__label--25">Die Hinweise zum Datenschutz (siehe unten) habe ich zur Kenntnis genommen und akzeptiert. Ich bin damit einverstanden, dass ALDI Nord meine personenbezogenen Daten wie dort beschrieben verarbeitet. Meine E-Mail-Adresse/ meine Mobilfunknummer bleibt gespeichert, bis ich diese Einwilligung widerrufe. Mir ist bekannt, dass ich meine Einwilligung jederzeit widerrufen kann. <abbr class="required">*</abbr></span>
+						<span class="checkbox__error checkbox__error--25">Bitte akzeptieren Sie den Datenschutz.</span>
+					</label>
+					
+					
+					
+					
+					<div class="form-helper-bp">
+		                <input type="checkbox" name="i_agree" value="0" tabindex="-1" autocomplete="off">
+		            </div>
+				</fieldset>
+				<p class="copy copy--25">Bitte füllen Sie mindestens die mit einem <abbr class="required">*</abbr> gekennzeichneten Felder aus.</p>
+				<div class="mod-reminder__action">
+					<button type="submit" class="btn btn--primary" data-attrib-name="Reminder-Service" data-attrib-value="none">Erinnerung aktivieren</button>
+				</div>
+
+				<h6>Hinweise</h6>
+				<div class="mod-reminder__notes copy copy--25">
+					<ul class="list-bullet list-borderless">
+						<li>Um unseren kostenlosen Erinnerungsservice nutzen zu können, müssen Sie sich bei erstmaliger Nutzung authentifizieren. Bitte beachten Sie hierfür den folgenden Ablauf: Geben Sie bitte E-Mail-Adresse und/oder Handynummer ein und klicken Sie auf "Erinnerung aktivieren". Sie erhalten je nach ausgewähltem Dienst (E-Mail, SMS) einen Aktivierungslink. Diesen Link rufen Sie im nächsten Schritt auf und aktivieren somit den Erinnerungsservice. Für jede weitere Nutzung ist keine weitere Authentifizierung mehr nötig.
+</li><li>Um dieses Formular übermitteln zu können, müssen Sie in den Sicherheitseinstellungen Ihres Browsers die Annahme von Cookies aktivieren. 
+</li><li>Ein SMS-Versand ist nur ins deutsche Mobilfunknetz möglich. 
+</li><li>Die Erinnerung kann nur versendet werden, wenn der gewählte Termin in der Zukunft liegt und Sie Ihre E-Mail-Adresse bzw. Handynummer erfolgreich authentifiziert haben. 
+</li><li>Ihre E-Mail-Adresse und Ihre Mobilfunknummer werden zu Übertragungszwecken, um die Erinnerung für einen ausgewählten Artikel zu versenden, sowie zu Authentifizierungszwecken für spätere Erinnerungen im Rahmen dieses Services gespeichert. Die Abmeldung/das Löschen Ihrer Daten ist jederzeit über die Seite "<a href="/tools/erinnerungsservice/abmeldung.html">Erinnerungsservice Abmeldeformular</a>" möglich. Bitte beachten Sie, dass die Aktivierung des Erinnerungsservices nur dann zulässig ist, wenn Sie selbst der Empfänger sind.</li>
+					</ul>
+				</div>
+				<input type="hidden" name="lpp" value="/content/aldi/germany/de">
+				<input type="hidden" name="regionCode">
+				<input type="hidden" name="iteration-path" value="">
+				<input type="hidden" name="promotion-path" value="">
+				<input type="hidden" name="sendDate" value="">
+				<input type="hidden" name="sendTime" value="">
+			</form>
+		</div>
+	</div>
+	<div class="mod-reminder__expired">
+		<span class="icon icon--reminder" aria-hidden="true"></span>
+		<p class="heading-h2">Dieser Artikel ist bereits im Markt erhältlich.</p>
+		<p>Die Erinnerungsfunktion wurde daher deaktiviert.</p>
+	</div>
+	<div class="mod-reminder__success">
+
+		<p class="js-headline-success heading-h2">Erinnerung aktiv!</p>
+        <p class="js-headline-optin heading-h2">Nur noch ein Schritt!</p>
+        <p class="js-alert-success mod-reminder__alert">Sie erhalten Ihre Erinnerung am ${date} um ${time} Uhr.</p>
+        <p class="js-alert-optin-email mod-reminder__alert">Bitte bestätigen Sie Ihre E-Mail-Adresse.</p>
+        <p class="js-alert-optin-sms mod-reminder__alert">Bitte bestätigen Sie Ihre Telefonnummer.</p>
+        <p class="js-alert-optin-both mod-reminder__alert">Bitte bestätigen Sie Ihre E-Mail-Adresse und Telefonnummer.</p>
+        <div class="js-message-optin-email rte"><p>&#65279;Wir haben einen Bestätigungslink an Ihre E-Mail-Adresse geschickt. &#65279;Klicken Sie auf den Bestätigungslink und aktivieren Sie damit Ihren Erinnerungsservice.&nbsp;<br>
+E-Mail nicht erhalten? Bitte schauen Sie in Ihrem Spam-Ordner nach.</p>
+</div>
+        <div class="js-message-optin-sms rte"><p>Wir haben Ihnen einen Bestätigungslink per SMS geschickt. &#65279;Klicken Sie auf den Bestätigungslink und aktivieren Sie damit Ihren Erinnerungsservice.<br>
+Keine SMS erhalten? Bitte prüfen Sie die eingegebene Rufnummer.</p>
+</div>
+        <div class="js-message-optin-both rte"><p>Wir haben Ihnen einen Bestätigungslink per SMS und an Ihre E-Mail-Adresse geschickt. &#65279;Klicken Sie auf den Bestätigungslink und aktivieren Sie damit Ihren Erinnerungsservice.<br>
+Keine E-Mail oder SMS erhalten? Bitte schauen Sie in Ihrem Spam-Ordner nach und prüfen Sie die eingegebene Rufnummer.</p>
+</div>
+	</div>
+</div>
+
+	</div>
+	
+	
+
+	
+    
+    
+
+  
+
+	<script src="/etc/designs/aldi/web/frontend/jquery_3.1.1.min.js"></script>
+
+
+
+
+    
+<script type="text/javascript" src="/etc/designs/aldi/web/clientlibs/js/lib.86e067736a4b6994c23e46d9fbfe279e.js"></script>
+<script type="text/javascript" src="/etc/designs/aldi/web/clientlibs/js/main.058cfaa7252d0bad5153f27449215b8c.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">if ( typeof( _satellite ) !== 'undefined' && typeof( _satellite.pageBottom ) !== 'undefined' ) _satellite.pageBottom();</script>
+
+    
+    
+    
+    
+
+</body></html>
