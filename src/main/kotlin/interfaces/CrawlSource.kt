@@ -10,23 +10,21 @@ import org.jsoup.select.Elements
 import java.io.File
 
 interface CrawlSource {
-    val marketName: String
     val entryPoints : HashSet<String>
     val productRelationId : String
-    val marketUrl: String
+    val baseURL: String
+
 //NEW
     fun loadProducts()
 
-    //Loads the Document of the entryPoints
+
+    //Loads the Document of the entryPoint
     fun getDocumentOf(entrypoint: String) : Document = Jsoup.connect(entrypoint).get()
-
-    fun scrapeHtmlTag(doc : Document, tag: String) : Elements = doc.body().getElementsByTag(tag)
-
 
 //    fun loadSite(path: String): Document =  Jsoup.parse(File(path).readText())
 
 //OLD
-
+/*
 private fun scrapeProductLink(document: Document):List<String>{
     val list = document.body().getElementsByTag("a")
     var refs = mutableListOf<String>()
@@ -93,4 +91,5 @@ private fun scrapeProductLink(document: Document):List<String>{
     private fun sendProduct(name: String, price: Double, desc: String, category: String?){
         println("Name: ${name} \nPrice: ${price}€\nDescription: ${desc}\nCategory: ${category}\n\n")
     }
+    */
 }

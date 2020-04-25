@@ -1,9 +1,6 @@
-import interfaces.CrawlSource
-import kotlinx.serialization.json.*
-import markets.AldiNord
-import org.jsoup.Jsoup
-import org.jsoup.nodes.Document
-import java.io.File
+import markets.Crawler
+import markets.aldiNord.AldiNordScraper
+
 /*
 class Markt(override val marktName: String, override val entryPoints: HashSet<String>) : CrawlSource {
 
@@ -96,7 +93,7 @@ class Markt(override val marktName: String, override val entryPoints: HashSet<St
 */
 
 fun main(){
-    val aldiNord = AldiNord()
+    val aldiNord = Crawler(true, AldiNordScraper())
     aldiNord.loadProducts()
     //getProductOverview()
     //scrapeProductOf()
