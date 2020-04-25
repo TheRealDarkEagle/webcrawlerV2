@@ -4,6 +4,7 @@ import interfaces.CrawlObject
 import interfaces.Scraper
 import markets.Helper
 import org.jsoup.nodes.Document
+import org.jsoup.select.Elements
 
 
 class AldiNordScraper : Scraper {
@@ -25,6 +26,10 @@ class AldiNordScraper : Scraper {
          return price.toDouble()
     }
 
+    private fun higherOrderTest(function: (String)->String, s:String): String{
+        return function(s)
+    }
+
     override fun getDesciption(d: Document): String {
         val divs = scrapeHtmlTag(d, "div")
         val infoTag = searchForClass("rte",divs)?.childNode(1)?.childNode(0)?.toString()
@@ -34,12 +39,17 @@ class AldiNordScraper : Scraper {
         return ""
     }
 
-    override fun getCategorie(document: Document): String {
-
-        return "Category"
+    override fun getCategorie(d: Document): String {
+        val list = scrapeHtmlTag(d, "ol")
+        val breadcrump = searchForClass("mod-breadcrumb__nav", list)?.childNode(5).toString()
+        val ref  = cutOutLink(breadcrump)
+        val t = ref.substringAfterLast('/').replace(".html","").replace("-"," ")
+        return t
     }
 
     override fun getGrammage(document: Document): Int {
+        val spans = scrapeHtmlTag(document,"span")
+        val grammageTag = searchForClass("price__unit",spans)?.childNode(0).toString()
         return -1
     }
 

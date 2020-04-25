@@ -110,17 +110,12 @@ class Crawler(val TESTNG : Boolean = false, val SCRAPER: Scraper) : CrawlSource 
         private fun cleanLinks(links: Set<String>): Set<String> {
             val cleanedSet : MutableSet<String> = mutableSetOf()
             links.map {
-                cleanedSet.add(cutOutLink(it))
+                cleanedSet.add(SCRAPER.cutOutLink(it))
             }
             return cleanedSet
         }
 
-        //Extracts the real link of the String
-        private fun cutOutLink(s : String) : String {
-            var start = s.indexOf('"')
-            var end = s.indexOf('"',start+1)
-            return s.substring(start+1,end)
-        }
+
 
         //Exctract the Product-Related Links of the List
         private fun getProductLinks(list: List<String>) : Set<String>{

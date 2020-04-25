@@ -41,13 +41,19 @@ interface Scraper{
      */
     fun scrapeHtmlTag(doc : Document, tag: String) : Elements = doc.body().getElementsByTag(tag)
 
-    fun searchForClass(classname: String, e : Elements) : Element? {
+   fun searchForClass(classname: String, e : Elements) : Element? {
         e.map {
             if(it.hasClass(classname)){
                 return it
             }
         }
         return null
+    }
+    //Extracts the real link of the String
+    fun cutOutLink(s : String) : String {
+        var start = s.indexOf('"')
+        var end = s.indexOf('"',start+1)
+        return s.substring(start+1,end)
     }
 
 }
