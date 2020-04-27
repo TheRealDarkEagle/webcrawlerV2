@@ -1,5 +1,7 @@
 package markets.Utils
-
+/*
+Author : Kai Danz
+ */
 import interfaces.Scraper
 import markets.Product
 import org.jsoup.nodes.Document

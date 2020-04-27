@@ -4,7 +4,9 @@ import interfaces.CrawlObject
 import interfaces.Scraper
 import markets.Helper
 import org.jsoup.nodes.Document
-
+/*
+Author : Kai Danz
+ */
 
 class AldiNordScraper : Scraper {
 

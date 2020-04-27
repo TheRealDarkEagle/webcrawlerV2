@@ -1,5 +1,7 @@
 package interfaces
-
+/*
+Author : Kai Danz
+ */
 interface CrawlObject {
 
     val MARKETNAME: String

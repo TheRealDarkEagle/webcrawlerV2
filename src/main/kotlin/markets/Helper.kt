@@ -1,5 +1,7 @@
 package markets
-
+/*
+Author : Kai Danz
+ */
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import java.io.File

@@ -6,9 +6,8 @@ import kotlinx.coroutines.*
 import markets.Utils.ProductScraper
 import org.jsoup.nodes.Document
 import org.jsoup.select.Elements
-
 /*
-    author: Kai Danz
+Author : Kai Danz
  */
 class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource {
 

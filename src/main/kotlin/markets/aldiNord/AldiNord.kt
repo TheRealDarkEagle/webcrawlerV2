@@ -1,5 +1,7 @@
 package markets.aldiNord
-
+/*
+Author : Kai Danz
+ */
 import interfaces.CrawlObject
 
 class AldiNord : CrawlObject {

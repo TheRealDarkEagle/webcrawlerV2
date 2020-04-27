@@ -1,5 +1,7 @@
 package markets
-
+/*
+Author : Kai Danz
+ */
 data class Product(val name: String, val price: Double, val description: String, val grammage: Int, val category: String){
     val isValid :Boolean
         get() = (hasContent(name)&&hasContent(price)&&hasContent(description)&&hasContent(grammage)&&hasContent(category))
