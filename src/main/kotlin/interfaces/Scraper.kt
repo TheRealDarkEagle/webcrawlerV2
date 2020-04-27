@@ -9,7 +9,7 @@ import org.jsoup.select.Elements
 
 interface Scraper{
     val MARKET: CrawlObject
-    val TESTER: Helper
+    val TESTER: Helper?
     fun getName(document: Document): String
     fun getPrice(document: Document): Double
     fun getDesciption(document: Document): String

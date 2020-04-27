@@ -7,8 +7,7 @@ import java.util.logging.Logger
 
 class ProductScraper(val document: Document) {
 
-    fun scrapeProduct(marketScraper: Scraper) {
-
+    fun scrapeProduct(marketScraper: Scraper) : Product? {
         val name = marketScraper.getName(document)
         val price = marketScraper.getPrice(document)
         val description = marketScraper.getDesciption(document)
@@ -16,12 +15,15 @@ class ProductScraper(val document: Document) {
         val grammage = marketScraper.getGrammage(document)
         val product = Product(name,price,description,grammage,category)
         println(product.toString())
-        if(product.isValid)
+        if(product.isValid){
             println("Product is valid!")
-        else
-            println("Product is INVALID")
+            return product
+        }
+        else{
+            println("Product is INVALID -> ${product.toString()}")
+            return null
+        }
     }
-
 
 }
 

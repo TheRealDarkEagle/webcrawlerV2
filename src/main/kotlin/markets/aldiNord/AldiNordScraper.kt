@@ -10,7 +10,7 @@ class AldiNordScraper : Scraper {
 
     override val MARKET: CrawlObject
         get() = AldiNord()
-    override val TESTER: Helper
+    override val TESTER: Helper?
         get() = Helper("C:\\Users\\Kai\\IdeaProjects\\webcrawlerV2\\src\\main\\resources\\SiteData\\productOverview\\Aldi-Nord",
                         "C:\\Users\\Kai\\IdeaProjects\\webcrawlerV2\\src\\main\\resources\\SiteData\\ProductSites\\Aldi-Nord"
     )

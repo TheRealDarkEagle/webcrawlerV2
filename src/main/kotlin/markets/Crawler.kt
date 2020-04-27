@@ -10,21 +10,19 @@ import org.jsoup.select.Elements
 /*
     author: Kai Danz
  */
-class Crawler(val SCRAPER: Scraper) : CrawlSource {
+class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource {
 
-    val HELPER = SCRAPER.TESTER
     override val entryPoints: HashSet<String>
         get() = SCRAPER.MARKET.ENTRYPOINTS
     override val productRelationId: String
         get() = SCRAPER.MARKET.DETAILVIEWLINKIDENTIFIER
     override val baseURL: String
         get() = SCRAPER.MARKET.MARKETURL
-    val TESTING = false
 
               //Entry Point of every Crawler
         override fun loadProducts() {
                when(TESTING){
-                    true -> startLoading(HELPER.loadDetailView(),true)
+                    true -> SCRAPER.TESTER?.loadDetailView()?.let { startLoading(it,true) }
                     false -> entryPoints.map { startLoading(it) }
                }
            }
@@ -109,9 +107,14 @@ class Crawler(val SCRAPER: Scraper) : CrawlSource {
             }
             return sortedLinks
         }
+
         //redirecting Function
         private fun extractProduct(productDocument: org.jsoup.nodes.Document){
-            ProductScraper(productDocument).scrapeProduct(SCRAPER)
+            val product = ProductScraper(productDocument).scrapeProduct(SCRAPER)
+            if(product !== null)
+                println("Send Product to Database....")
+            else
+                error("Product is not Valid!")
         }
     }
 
