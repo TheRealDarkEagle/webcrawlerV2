@@ -1,13 +1,16 @@
 package markets
+import com.google.gson.Gson
 import enums.LinkType
 import interfaces.CrawlSource
 import interfaces.Scraper
 import kotlinx.coroutines.*
 import markets.Utils.ProductScraper
+import markets.Utils.ProductSender
 import org.jsoup.nodes.Document
 import org.jsoup.select.Elements
-/*
-Author : Kai Danz
+
+/**
+ * @author: Kai Danz
  */
 class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource {
 
@@ -110,10 +113,12 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
         //redirecting Function
         private fun extractProduct(productDocument: org.jsoup.nodes.Document){
             val product = ProductScraper(productDocument).scrapeProduct(SCRAPER)
-            if(product !== null)
-                println("Send Product to Database....")
-            else
-                error("Product is not Valid!")
+            if (product != null) {
+                if(product.isValid) {
+                    ProductSender.send(Gson().toJson(product))
+                } else
+                    error("Product is not Valid!")
+            }
         }
     }
 

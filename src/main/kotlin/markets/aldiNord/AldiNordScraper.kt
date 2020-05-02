@@ -4,10 +4,10 @@ import interfaces.CrawlObject
 import interfaces.Scraper
 import markets.Helper
 import org.jsoup.nodes.Document
-/*
-Author : Kai Danz
- */
 
+/**
+ * @author: Kai Danz
+ */
 class AldiNordScraper : Scraper {
 
     override val MARKET: CrawlObject

@@ -1,11 +1,11 @@
 import markets.Crawler
 import markets.aldiNord.AldiNordScraper
 
-/*
-Author : Kai Danz
- */
 
+/**
+ * @author: Kai Danz
+ */
 fun main(){
-    val aldiNord = Crawler(AldiNordScraper())
+    val aldiNord = Crawler(AldiNordScraper(), true)
     aldiNord.loadProducts()
 }

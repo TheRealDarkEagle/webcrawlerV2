@@ -1,8 +1,9 @@
 package interfaces
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
-/*
-Author : Kai Danz
+
+/**
+ * @author: Kai Danz
  */
 interface CrawlSource {
     val entryPoints : HashSet<String>

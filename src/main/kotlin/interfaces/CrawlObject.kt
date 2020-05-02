@@ -1,6 +1,7 @@
 package interfaces
-/*
-Author : Kai Danz
+
+/**
+ * @author: Kai Danz
  */
 interface CrawlObject {
 

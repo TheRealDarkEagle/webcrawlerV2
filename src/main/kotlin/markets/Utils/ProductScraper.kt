@@ -1,6 +1,7 @@
 package markets.Utils
-/*
-Author : Kai Danz
+
+/**
+ * @author: Kai Danz
  */
 import interfaces.Scraper
 import markets.Product

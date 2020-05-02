@@ -1,6 +1,7 @@
 package markets.aldiNord
-/*
-Author : Kai Danz
+
+/**
+ * @author: Kai Danz
  */
 import interfaces.CrawlObject
 

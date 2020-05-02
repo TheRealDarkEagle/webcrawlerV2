@@ -1,7 +1,10 @@
 package enums
-/*
-Author : Kai Danz
+
+/**
+ * @author: Kai Danz
+ *
  */
+
 enum class LinkType {
     DETAILVIEW, PRODUCTOVERVIEW
 }
