@@ -32,8 +32,8 @@ interface Scraper{
     }
     //Extracts the real link of the String
     fun cutOutLink(s : String) : String {
-        var start = s.indexOf('"')
-        var end = s.indexOf('"',start+1)
+        val start = s.indexOf('"')
+        val end = s.indexOf('"',start+1)
         return s.substring(start+1,end)
     }
 }

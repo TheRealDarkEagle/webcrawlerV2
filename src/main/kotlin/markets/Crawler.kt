@@ -111,7 +111,7 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
         }
 
         //redirecting Function
-        private fun extractProduct(productDocument: org.jsoup.nodes.Document){
+        private fun extractProduct(productDocument: Document){
             val product = ProductScraper(productDocument).scrapeProduct(SCRAPER)
             if (product != null) {
                 if(product.isValid) {

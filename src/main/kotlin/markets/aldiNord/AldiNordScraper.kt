@@ -21,7 +21,7 @@ class AldiNordScraper : Scraper {
 
     override fun getPrice(d: Document): Double {
         val spans = scrapeHtmlTag(d, "span")
-        var priceTag = searchForClass("price__main", spans)
+        val priceTag = searchForClass("price__main", spans)
         val price = priceTag?.childNode(0).toString()
          return price.toDouble()
     }
@@ -39,8 +39,7 @@ class AldiNordScraper : Scraper {
         val list = scrapeHtmlTag(d, "ol")
         val breadcrump = searchForClass("mod-breadcrumb__nav", list)?.childNode(5).toString()
         val ref  = cutOutLink(breadcrump)
-        val t = ref.substringAfterLast('/').replace(".html","").replace("-"," ")
-        return t
+        return  ref.substringAfterLast('/').replace(".html","").replace("-"," ")
     }
 
     override fun getGrammage(document: Document): Int {
@@ -66,8 +65,7 @@ class AldiNordScraper : Scraper {
    // TODO("Handle Excpetion!")
     private fun calculate(s:String): Int{
         try {
-            val i = s.toInt()
-            return i
+            return s.toInt()
         }catch (e : Exception){
             e.printStackTrace()
 
