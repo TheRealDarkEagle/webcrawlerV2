@@ -20,6 +20,7 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
         get() = SCRAPER.MARKET.DETAILVIEWLINKIDENTIFIER
     override val baseURL: String
         get() = SCRAPER.MARKET.MARKETURL
+    val SENDER = ProductSender
 
               //Entry Point of every Crawler
         override fun loadProducts() {
@@ -115,7 +116,7 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
             val product = ProductScraper(productDocument).scrapeProduct(SCRAPER)
             if (product != null) {
                 if(product.isValid) {
-                    ProductSender.send(Gson().toJson(product))
+                    SENDER.send(product)
                 } else
                     error("Product is not Valid!")
             }

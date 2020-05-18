@@ -3,11 +3,31 @@ package markets
 /**
  * @author: Kai Danz
  */
-data class Product(val productName: String, val currentPrice: Double, val productInfo: String, val productGrammage: Int, val categoryName: String){
+data class Product(val marketName: String, val productName: String, val currentPrice: Double, val productInfo: String, val productGrammage: Int, val categoryName: String){
     val isValid :Boolean
         get() = (hasContent(productName)&&hasContent(currentPrice)&&hasContent(productInfo)&&hasContent(productGrammage)&&hasContent(categoryName))
     private fun hasContent(s:String) = s.isNotEmpty()
     private fun hasContent(d:Double) = d >= 0
     private fun hasContent(i:Int) = i >= 0
-    override fun toString(): String = "name: $productName,price: $currentPrice,description: $productInfo,grammage: $productGrammage,category: $categoryName"
+    override fun toString(): String = "{\n" +
+            "    \"marketName\":\"test\",\n" +
+            "    \"categoryName\":\"$categoryName\",\n" +
+            "    \"productName\":\"$productName\",\n" +
+            "    \"productInfo\":\"$productInfo\",\n" +
+            "    \"currentPrice\":\"$currentPrice\",\n" +
+            "    \"rabbatPrice\":\" \",\n" +
+            "    \"productGrammage\":\"$productGrammage\"\n" +
+            "\n}"
 }
+
+/*{
+    "marketName":"Rewe",
+    "categoryName":"Obst",
+    "productName":"Birrrneee",
+    "productInfo":"ist lecker",
+    "currentPrice":"55.22",
+    "rabbatPrice":"",
+    "productGrammage":"555"
+}
+
+ */
