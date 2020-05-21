@@ -15,18 +15,21 @@ object ProductSender {
     private val httpRequest = HttpPost("http://localhost:9000/createProductMarketForm")
 
     fun send(product: Product) {
-    var productJson: String = """{"marketName":"Test","categoryName":"${product.categoryName}","productName":"${product.productName}","productInfo":"TEST","currentPrice":"${product.currentPrice}","rabbatPrice":"","productGrammage":"${product.productGrammage}"}"""
-   // s = replaceBadChars(s)
-    println(productJson)
+        var productJson: String = createProductJson(product)
+        //We have Problems with the Encoding of äöü so we need to replace them
+        productJson = replaceBadChars(productJson)
+
         val requestEntity = StringEntity(productJson)
         requestEntity.setContentEncoding("UTF-8")
         requestEntity.setContentType("application/json; UTF-8")
         httpRequest.addHeader("content-Type", "application/json; charset=UTF-8;")
         httpRequest.entity = requestEntity
+
         httpClient.execute(httpRequest)
-        println("SEND PRODUCT!")
     }
 
+    private fun createProductJson(product: Product) =
+        """{"marketName":"Test","categoryName":"${product.categoryName}","productName":"${product.productName}","productInfo":"TEST","currentPrice":"${product.currentPrice}","rabbatPrice":"","productGrammage":"${product.productGrammage}"}"""
 
     private fun replaceBadChars(s: String): String{
         var text = s
