@@ -16,7 +16,8 @@ object ProductSender {
 
     fun send(product: Product) {
         var productJson: String = createProductJson(product)
-        //We have Problems with the Encoding of äöü so we need to replace them
+
+        //We have Problems with the Encoding of äöü so we need to replace them till we find a Solution
         productJson = replaceBadChars(productJson)
 
         val requestEntity = StringEntity(productJson)
@@ -29,7 +30,7 @@ object ProductSender {
     }
 
     private fun createProductJson(product: Product) =
-        """{"marketName":"Test","categoryName":"${product.categoryName}","productName":"${product.productName}","productInfo":"TEST","currentPrice":"${product.currentPrice}","rabbatPrice":"","productGrammage":"${product.productGrammage}"}"""
+        """{"marketName":"Test","categoryName":"${product.categoryName}","productName":"${product.productName}","productInfo":"${product.productInfo}","currentPrice":"${product.currentPrice}","rabbatPrice":"","productGrammage":"${product.productGrammage}"}"""
 
     private fun replaceBadChars(s: String): String{
         var text = s
