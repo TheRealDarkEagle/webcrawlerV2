@@ -10,7 +10,7 @@ data class Product(val marketName: String, val productName: String, val currentP
     private fun hasContent(d:Double) = d >= 0
     private fun hasContent(i:Int) = i >= 0
     override fun toString(): String = "{\n" +
-            "    \"marketName\":\"test\",\n" +
+            "    \"marketName\":\"$marketName\",\n" +
             "    \"categoryName\":\"$categoryName\",\n" +
             "    \"productName\":\"$productName\",\n" +
             "    \"productInfo\":\"$productInfo\",\n" +
@@ -19,15 +19,3 @@ data class Product(val marketName: String, val productName: String, val currentP
             "    \"productGrammage\":\"$productGrammage\"\n" +
             "\n}"
 }
-
-/*{
-    "marketName":"Rewe",
-    "categoryName":"Obst",
-    "productName":"Birrrneee",
-    "productInfo":"ist lecker",
-    "currentPrice":"55.22",
-    "rabbatPrice":"",
-    "productGrammage":"555"
-}
-
- */

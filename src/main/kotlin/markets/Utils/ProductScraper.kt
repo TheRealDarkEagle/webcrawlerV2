@@ -16,8 +16,9 @@ class ProductScraper(val document: Document) {
         val description = marketScraper.getDesciption(document)
         val category = marketScraper.getCategorie(document)
         val grammage = marketScraper.getGrammage(document)
-        val product = Product("",name,price,description,grammage,category)
+        val product = Product(marketScraper.MARKET.MARKETNAME,name,price,description,grammage,category)
         if(product.isValid){
+            println("Product is Valid -> ${product.toString()}")
             return product
         }
         else{

@@ -68,7 +68,6 @@ class AldiNordScraper : Scraper {
             return s.toInt()
         }catch (e : Exception){
             e.printStackTrace()
-
         }
         return -1
     }
