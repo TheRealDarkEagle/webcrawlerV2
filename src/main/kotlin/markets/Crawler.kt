@@ -1,5 +1,5 @@
 package markets
-import com.google.gson.Gson
+
 import enums.LinkType
 import interfaces.CrawlSource
 import interfaces.Scraper
@@ -100,7 +100,6 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
     private fun prepareLoading(links: Map<LinkType, Set<String>>){
         //If there are any DV links ignore the Rest
         if((links[LinkType.DETAILVIEW] ?: error("DUUUUDE")).isNotEmpty()) {
-            println("DetailviewLinks are not Empty -> starting loading it!")
             println(links[LinkType.DETAILVIEW])
             startNextLoading(links[LinkType.DETAILVIEW] ?: error("An Error Occures!?!=!"))
         }
