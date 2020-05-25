@@ -18,10 +18,10 @@ class AldiNord : CrawlObject {
     override val ENTRYPOINTS: HashSet<String>
         get() = hashSetOf(
         //Unsere Marken
-            "https://www.aldi-nord.de/produkte/unsere-marken/almare.html",
-            "https://www.aldi-nord.de/produkte/unsere-marken/biscotto.html",
             "https://www.aldi-nord.de/produkte/unsere-marken/chateau.html",
             "https://www.aldi-nord.de/produkte/unsere-marken/confifrucht-marmelinchen.html",
+            "https://www.aldi-nord.de/produkte/unsere-marken/biscotto.html",
+            "https://www.aldi-nord.de/produkte/unsere-marken/almare.html",
             "https://www.aldi-nord.de/produkte/unsere-marken/conradl.html",
             "https://www.aldi-nord.de/produkte/unsere-marken/eskimo.html",
             "https://www.aldi-nord.de/produkte/unsere-marken/fair.html",
