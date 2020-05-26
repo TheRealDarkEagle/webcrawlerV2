@@ -16,7 +16,8 @@ class AldiNord : CrawlObject {
     override val ARTICELIDENTIFIER: String
         get() = "/produkte/"
     override val ENTRYPOINTS: HashSet<String>
-        get() = hashSetOf(
+        get() = hashSetOf("https://www.aldi-nord.de/produkte.html")
+            /*
         //Unsere Marken
             "https://www.aldi-nord.de/produkte/unsere-marken/chateau.html",
             "https://www.aldi-nord.de/produkte/unsere-marken/confifrucht-marmelinchen.html",
@@ -179,4 +180,6 @@ class AldiNord : CrawlObject {
         //Multimedia
             "https://www.aldi-nord.de/produkte/multimedia.html"
             )
+
+             */
 }

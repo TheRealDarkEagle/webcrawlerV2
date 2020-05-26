@@ -3,6 +3,7 @@ import markets.Product
 import org.apache.http.client.methods.HttpPost
 import org.apache.http.entity.StringEntity
 import org.apache.http.impl.client.HttpClientBuilder
+import java.net.http.HttpRequest
 
 
 /**
@@ -18,40 +19,68 @@ import org.apache.http.impl.client.HttpClientBuilder
         als Future bauen
  */
 class ProductSender {
-
     private val httpClient = HttpClientBuilder.create().build()
     private val httpRequest = HttpPost("http://localhost:9000/collatio/product")
 
     init {
         httpRequest.addHeader("content-Type", "application/json; charset=UTF-8;")
     }
+
+    fun send2(products : MutableSet<Product>) {
+        //sende alle produkte
+        products.map {
+            val request = testabc(it.asJsonString())
+           // httpClient.execute(httpRequest)
+            println(it)
+        }
+    }
+
+    private fun testabc(string: String) : HttpPost {
+        val httpRequestv2 = HttpPost("http://localhost:9000/collatio/product")
+        httpRequestv2.addHeader("content-Type", "application/json; charset=UTF-8;")
+        val t = StringEntity(string)
+        t.setContentEncoding("UTF-8")
+        t.setContentType("application/json; UTF-8")
+        httpRequestv2.entity = t
+        return httpRequestv2
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//////////////////////////////////          OLD             ///////////////////////////////
+
         fun send(product: Product) {
             var productJson: String = createProductJson(product)
 
             //We have Problems with the Encoding of äöü so we need to replace them till we find a Solution
             productJson = replaceBadChars(productJson)
 
-            /*  productJson = "{\n" +
-                    "\t\"marketName\":\" \",\n" +
-                    "\t\"categoryName\":\" \",\n" +
-                    "\t\"productName\":\" \",\n" +
-                    "\t\"productInfo\":\" \",\n" +
-                    "\t\"currentPrice\":\" \",\n" +
-                    "\t\"rabbatPrice\":\"\",\n" +
-                    "\t\"productGrammage\":\" \"\n" +
-                    "\n" +
-                    "}"
-
-           */
 
             val requestEntity = StringEntity(productJson)
             requestEntity.setContentEncoding("UTF-8")
             requestEntity.setContentType("application/json; UTF-8")
             httpRequest.entity = requestEntity
 
+
             httpClient.execute(httpRequest)
-
-
         }
 
         private fun createProductJson(product: Product) =
@@ -67,6 +96,8 @@ class ProductSender {
                 text = replace(text,'ü',"ue")
             return text
         }
+
+
 
         private fun replace(string: String, withChar: Char, newValue: String) = string.replace(""+withChar,newValue)
     }

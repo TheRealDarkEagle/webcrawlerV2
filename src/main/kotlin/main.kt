@@ -1,6 +1,4 @@
-import markets.Crawler
-import markets.Product
-import markets.Utils.ProductSender
+import crawler.Crawler
 import markets.aldiNord.AldiNordScraper
 
 
@@ -9,12 +7,4 @@ import markets.aldiNord.AldiNordScraper
  */
 fun main(){
     Crawler(AldiNordScraper()).loadProducts()
-/*
-    val sender = ProductSender
-    val p = Product("","",0.0, "",0,"")
-    for (x in 0..100_000) {
-        sender.send(p)
-        println(x)
-    }
- */
 }

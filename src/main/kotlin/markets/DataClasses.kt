@@ -18,4 +18,6 @@ data class Product(val marketName: String, val productName: String, val currentP
             "    \"rabbatPrice\":\" \",\n" +
             "    \"productGrammage\":\"$productGrammage\"\n" +
             "\n}"
+    fun asJsonString(): String =  """{"marketName":"$marketName","categoryName":"$categoryName","productName":"$productName","productInfo":"$productInfo","currentPrice":"$currentPrice","rabbatPrice":"","productGrammage":"$productGrammage"}"""
+
 }
