@@ -8,13 +8,11 @@ import markets.Product
 import markets.Utils.ProductScraper
 import markets.Utils.ProductSender
 import org.jsoup.nodes.Document
-import org.jsoup.select.Elements
 
 /**
  * @author: Kai Danz
  */
 
-data class SendableProduct(val product: Product?)
 class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource {
 
     override val entryPoints: HashSet<String>
@@ -23,98 +21,53 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
         get() = SCRAPER.MARKET.DETAILVIEWLINKIDENTIFIER
     override val baseURL: String
         get() = SCRAPER.MARKET.MARKETURL
-    private var products : MutableSet<SendableProduct> = mutableSetOf()
+
+    private val Sender = ProductSender
+
+    private var products :MutableSet<Product> = mutableSetOf()
 
 
   /*
   Entry Point of every crawler.Crawler
    */
     override fun loadProducts() {
-      val t= loadingJobs()
-
-     run(t)
+     run()
    }
 
-    private fun loadingJobs() :Set<Job> {
 
-        var test : MutableSet<Job> = mutableSetOf()
-            when (TESTING) {
-            true -> SCRAPER.TESTER?.loadDetailView()?.let { startLoading(it, true) }
-            false -> entryPoints.map {
-
-                test.add(startLoading(it))
+    private fun run() = runBlocking {
+        val crawlProcess = entryPoints.map {
+            launch(Dispatchers.Default) {
+                //Stoße seitenladen an!
+                loadingRoutine(it)
             }
         }
-        return test
+
+        crawlProcess.map { it.join() }
+        Sender.send2(products)
+        println ("Job done!")
     }
 
 
-    private fun run(jobs: Set<Job>) = runBlocking {
-       jobs.map { it.join() }
-        val list = mutableSetOf<Product>()
-        products.map {
-            if(it.product != null){
-                list.add(it.product)
+    private fun loadingRoutine(url: String) = runBlocking {
+        val loadingPhase = launch(Dispatchers.IO) {
+            val doc = getDocumentOf(url)
+            if(url.contains(SCRAPER.MARKET.DETAILVIEWLINKIDENTIFIER)){
+                extractProduct(doc)
+            }else{
+                loadOverview(doc)
             }
         }
-        val sender = ProductSender()
-        sender.send2(list)
-
-
-        println("Job done!")
-
+        loadingPhase.join()
     }
 
-    /*
-    Testing Function
-     */
-    private fun startLoading(docs: HashSet<Document>, isDetailView : Boolean = false) = runBlocking{
-        withContext(Dispatchers.IO){
-            docs.map {
-                launch {
-                    val doc = it
-                    val links = SCRAPER.scrapeHtmlTag(doc, "a")
-                    for (x in 0..100_000){
-                       // println(x)
-                        if(isDetailView){
-                            val t =  extractProduct2(doc)
-                            if(t != null){
-                                println("Done!?")
-                                products.add(t)
-                            }
-                            else
-                                cleaning(links)
-                        }
-                    }
 
-                }
-            }
-        }
-    }
-
-    /*
-    Live-Environment
-     */
-    private fun startLoading(url: String) = runBlocking{
-        withContext(Dispatchers.IO){
-            launch {
-                val doc = getDocumentOf(url)
-                println(url)
-                println(url.contains(SCRAPER.MARKET.DETAILVIEWLINKIDENTIFIER))
-                if(url.contains(SCRAPER.MARKET.DETAILVIEWLINKIDENTIFIER)){
-                    extractProduct2(doc)
-                }
-                else{
-                    cleaning(SCRAPER.scrapeHtmlTag(doc, "a"))
-                }
-            }
-        }
-    }
 
     /*
     Filters out the Product-Related Links
      */
-    private fun cleaning(links: Elements) {
+    private fun loadOverview(doc: Document) {
+        val links = SCRAPER.scrapeHtmlTag(doc, "a")
         val textLinks = links.map { it.toString() }
         val extractedLinks = getProductLinks(textLinks)
         val cleanedLinks = cleanLinks(extractedLinks)
@@ -145,7 +98,7 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
     private fun prepareLoading(links: Map<LinkType, Set<String>>){
         //If there are any DV links ignore the Rest
         if((links[LinkType.DETAILVIEW] ?: error("DUUUUDE")).isNotEmpty()) {
-            println(links[LinkType.DETAILVIEW])
+            println("new List -> ${links[LinkType.DETAILVIEW]}\n\n")
             startNextLoading(links[LinkType.DETAILVIEW] ?: error("An Error Occures!?!=!"))
         }
         else
@@ -156,11 +109,13 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
     Initiates the Next Loading Phase
      */
     private fun startNextLoading(list: Set<String>) = runBlocking{
-        list.map {
-            async(Dispatchers.Default) {
-               startLoading(baseURL+it)
+        launch {
+            list.map {
+                launch (Dispatchers.Default) {
+                    loadingRoutine(baseURL+it)
+                }
             }
-        }
+        }.onJoin
     }
 
     /*
@@ -191,22 +146,13 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
     Initiates the Product Loading Phase
      */
     private fun extractProduct(productDocument: Document){
-        val product = ProductScraper(productDocument).scrapeProduct(SCRAPER)
-        if (product != null) {
-
-
-            /*
-            if(product.isValid) {
-                val SENDER = ProductSender()
-               SENDER.send(product)
-            }
-
-             */
-
+        val scraper = ProductScraper(SCRAPER)
+        val product = scraper.scrapeProduct(productDocument)
+        if (product != null && product.isValid) {
+             products.add(product)
         }
     }
 
-    private fun extractProduct2(productDocument: Document) :SendableProduct? = SendableProduct(ProductScraper(productDocument).scrapeProduct(SCRAPER))
 
 
 }

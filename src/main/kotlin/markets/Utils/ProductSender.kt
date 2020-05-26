@@ -18,7 +18,7 @@ import java.net.http.HttpRequest
         Variante 2:
         als Future bauen
  */
-class ProductSender {
+object ProductSender {
     private val httpClient = HttpClientBuilder.create().build()
     private val httpRequest = HttpPost("http://localhost:9000/collatio/product")
 
@@ -29,10 +29,11 @@ class ProductSender {
     fun send2(products : MutableSet<Product>) {
         //sende alle produkte
         products.map {
-            val request = testabc(it.asJsonString())
+           // val request = testabc(it.asJsonString())
            // httpClient.execute(httpRequest)
-            println(it)
+            println("Sende Product!\n ${it.toString()}")
         }
+        println("Senden fertig!")
     }
 
     private fun testabc(string: String) : HttpPost {

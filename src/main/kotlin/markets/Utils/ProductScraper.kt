@@ -8,15 +8,15 @@ import markets.Product
 import org.jsoup.nodes.Document
 import java.util.logging.Logger
 
-class ProductScraper(val document: Document) {
+class ProductScraper(val Scraper: Scraper) {
 
-    fun scrapeProduct(marketScraper: Scraper) : Product? {
-        val name = marketScraper.getName(document)
-        val price = marketScraper.getPrice(document)
-        val description = marketScraper.getDesciption(document)
-        val category = marketScraper.getCategorie(document)
-        val grammage = marketScraper.getGrammage(document)
-        val product = Product(marketScraper.MARKET.MARKETNAME,name,price,description,grammage,category)
+    fun scrapeProduct(document: Document) : Product? {
+        val name = Scraper.getName(document)
+        val price = Scraper.getPrice(document)
+        val description = Scraper.getDesciption(document)
+        val category = Scraper.getCategorie(document)
+        val grammage = Scraper.getGrammage(document)
+        val product = Product(Scraper.MARKET.MARKETNAME,name,price,description,grammage,category)
         if(product.isValid){
             return product
         }
