@@ -4,6 +4,7 @@ import interfaces.CrawlObject
 import interfaces.Scraper
 import markets.Helper
 import org.jsoup.nodes.Document
+import java.lang.NumberFormatException
 
 /**
  * @author: Kai Danz
@@ -54,7 +55,7 @@ class AldiNordScraper : Scraper {
 
     private fun exctractGramage(s: String): Int {
       val t = exctractBy(Regex("\\d*.*\\d"),s)
-        return  if(t===null)
+        return  if(t==null)
                     -1
                 else
                     calculate(t)
@@ -66,8 +67,20 @@ class AldiNordScraper : Scraper {
     private fun calculate(s:String): Int{
         try {
             return s.toInt()
-        }catch (e : Exception){
+        }catch (e: NumberFormatException){
+            println("possible calculation found ... trying to calculate! -> $s")
+           return calculateExpression(s)
+        }
+        catch (e : Exception){
             e.printStackTrace()
+
+        }
+        return -1
+    }
+
+    fun calculateExpression(s:String): Int {
+        if(s.contains("x")){
+            return (s.substring(0,s.indexOf("x",0)).toInt()*s.substring(s.indexOf("x",0)+1).toInt())
         }
         return -1
     }

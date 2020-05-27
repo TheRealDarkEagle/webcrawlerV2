@@ -57,7 +57,7 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
         if(!crawledLinks.contains(url)){
             crawledLinks.add(url)
             val loadingPhase = launch {
-                delay(500L)
+                //delay(500L)
                 val doc = getDocumentOf(url)
                 if(url.contains(SCRAPER.MARKET.DETAILVIEWLINKIDENTIFIER)){
                     println("extracting produkts")

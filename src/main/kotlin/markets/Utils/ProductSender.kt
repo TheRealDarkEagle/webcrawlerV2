@@ -27,7 +27,6 @@ object ProductSender {
     }
 
     fun send2(products : MutableSet<Product>) {
-       // println("Sending following productList -> $products")
         //sende alle produkte
         products.map {
             val request = testabc(it.asJsonString())
