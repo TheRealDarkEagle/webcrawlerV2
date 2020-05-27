@@ -27,22 +27,25 @@ object ProductSender {
     }
 
     fun send2(products : MutableSet<Product>) {
+       // println("Sending following productList -> $products")
         //sende alle produkte
         products.map {
-           // val request = testabc(it.asJsonString())
+            val request = testabc(it.asJsonString())
            // httpClient.execute(httpRequest)
-            println("Sende Product!\n ${it.toString()}")
         }
         println("Senden fertig!")
     }
 
     private fun testabc(string: String) : HttpPost {
+
         val httpRequestv2 = HttpPost("http://localhost:9000/collatio/product")
         httpRequestv2.addHeader("content-Type", "application/json; charset=UTF-8;")
-        val t = StringEntity(string)
+        val replacedText = replaceBadChars(string)
+        val t = StringEntity(replacedText)
         t.setContentEncoding("UTF-8")
         t.setContentType("application/json; UTF-8")
         httpRequestv2.entity = t
+        println(replacedText)
         return httpRequestv2
     }
 
@@ -89,18 +92,21 @@ object ProductSender {
 
         private fun replaceBadChars(s: String): String{
             var text = s
+            if(text.contains(";&nbsp;")){
+                text = replace(text,";&nbsp;", " & ")
+            }
             if(text.contains("ö"))
-                text = replace(text,'ö',"oe")
+                text = replace(text,"ö","oe")
             if(text.contains('ä'))
-                text = replace(text,'ä',"ae")
+                text = replace(text,"ä","ae")
             if(text.contains('ü'))
-                text = replace(text,'ü',"ue")
+                text = replace(text,"ü","ue")
             return text
         }
 
 
 
-        private fun replace(string: String, withChar: Char, newValue: String) = string.replace(""+withChar,newValue)
+        private fun replace(string: String, withChar: String, newValue: String) = string.replace(withChar,newValue)
     }
 
 

@@ -26,6 +26,8 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
 
     private var products :MutableSet<Product> = mutableSetOf()
 
+    private val crawledLinks = mutableListOf<String>()
+
 
   /*
   Entry Point of every crawler.Crawler
@@ -50,15 +52,22 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
 
 
     private fun loadingRoutine(url: String) = runBlocking {
-        val loadingPhase = launch(Dispatchers.IO) {
-            val doc = getDocumentOf(url)
-            if(url.contains(SCRAPER.MARKET.DETAILVIEWLINKIDENTIFIER)){
-                extractProduct(doc)
-            }else{
-                loadOverview(doc)
+        println(url)
+
+        if(!crawledLinks.contains(url)){
+            crawledLinks.add(url)
+            val loadingPhase = launch {
+                delay(500L)
+                val doc = getDocumentOf(url)
+                if(url.contains(SCRAPER.MARKET.DETAILVIEWLINKIDENTIFIER)){
+                    println("extracting produkts")
+                    extractProduct(doc)
+                }else{
+                    loadOverview(doc)
+                }
             }
+            loadingPhase.join()
         }
-        loadingPhase.join()
     }
 
 
@@ -81,10 +90,12 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
         val dvLinkSet  = mutableSetOf<String>()
         val ovLinkSet = mutableSetOf<String>()
         links.map {
-            if(it.contains(SCRAPER.MARKET.DETAILVIEWLINKIDENTIFIER))
-                dvLinkSet.add(it)
-            else
-                ovLinkSet.add(it)
+            if (!crawledLinks.contains(it)) {
+                if (it.contains(SCRAPER.MARKET.DETAILVIEWLINKIDENTIFIER))
+                    dvLinkSet.add(it)
+                else
+                    ovLinkSet.add(it)
+            }
         }
         prepareLoading(mapOf(
             LinkType.DETAILVIEW to dvLinkSet,
@@ -98,7 +109,7 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
     private fun prepareLoading(links: Map<LinkType, Set<String>>){
         //If there are any DV links ignore the Rest
         if((links[LinkType.DETAILVIEW] ?: error("DUUUUDE")).isNotEmpty()) {
-            println("new List -> ${links[LinkType.DETAILVIEW]}\n\n")
+            println("new ProductList -> ${links[LinkType.DETAILVIEW]}\n\n")
             startNextLoading(links[LinkType.DETAILVIEW] ?: error("An Error Occures!?!=!"))
         }
         else
@@ -109,13 +120,14 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
     Initiates the Next Loading Phase
      */
     private fun startNextLoading(list: Set<String>) = runBlocking{
+       println("startNExtLoading -> $list")
         launch {
             list.map {
-                launch (Dispatchers.Default) {
+                launch {
                     loadingRoutine(baseURL+it)
-                }
+                }.join()
             }
-        }.onJoin
+        }.join()
     }
 
     /*
