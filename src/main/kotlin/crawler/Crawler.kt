@@ -54,7 +54,7 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
 
 
     private fun loadingRoutine(url: String) = runBlocking {
-       // println(url)
+        println(url)
         if(!crawledLinks.contains(url)){
             crawledLinks.add(url)
             val loadingPhase = launch {

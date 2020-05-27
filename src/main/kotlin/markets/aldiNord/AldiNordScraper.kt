@@ -87,6 +87,8 @@ class AldiNordScraper : Scraper {
     fun calculateExpression(s:String): Int {
         if(s.contains("x")){
             return (s.substring(0,s.indexOf("x",0)).trim().toInt()*s.substring(s.indexOf("x",0)+1).trim().toInt())
+        }else if(s.contains(".")){
+            return s.replace(".","").toInt()
         }
         return -1
     }

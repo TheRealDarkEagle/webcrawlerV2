@@ -31,7 +31,7 @@ object ProductSender {
         //sende alle produkte
         products.map {
             val request = createHttpPost(it.asJsonString())
-            httpClient.execute(request)
+           // httpClient.execute(request)
         }
         println("Senden fertig!")
     }
