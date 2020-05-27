@@ -3,7 +3,6 @@ import markets.Product
 import org.apache.http.client.methods.HttpPost
 import org.apache.http.entity.StringEntity
 import org.apache.http.impl.client.HttpClientBuilder
-import java.net.http.HttpRequest
 
 
 /**
@@ -20,23 +19,24 @@ import java.net.http.HttpRequest
  */
 object ProductSender {
     private val httpClient = HttpClientBuilder.create().build()
+/*
     private val httpRequest = HttpPost("http://localhost:9000/collatio/product")
 
     init {
         httpRequest.addHeader("content-Type", "application/json; charset=UTF-8;")
     }
+*/
 
     fun send2(products : MutableSet<Product>) {
         //sende alle produkte
         products.map {
-            val request = testabc(it.asJsonString())
-           // httpClient.execute(httpRequest)
+            val request = createHttpPost(it.asJsonString())
+            httpClient.execute(request)
         }
         println("Senden fertig!")
     }
 
-    private fun testabc(string: String) : HttpPost {
-
+    private fun createHttpPost(string: String) : HttpPost {
         val httpRequestv2 = HttpPost("http://localhost:9000/collatio/product")
         httpRequestv2.addHeader("content-Type", "application/json; charset=UTF-8;")
         val replacedText = replaceBadChars(string)
@@ -44,10 +44,28 @@ object ProductSender {
         t.setContentEncoding("UTF-8")
         t.setContentType("application/json; UTF-8")
         httpRequestv2.entity = t
-        println(replacedText)
         return httpRequestv2
     }
+    private fun createProductJson(product: Product) =
+        """{"marketName":"${product.marketName}","categoryName":"${product.categoryName}","productName":"${product.productName}","productInfo":"${product.productInfo}","currentPrice":"${product.currentPrice}","rabbatPrice":"","productGrammage":"${product.productGrammage}"}"""
 
+    private fun replaceBadChars(s: String): String{
+        var text = s
+        if(text.contains(";&nbsp;")){
+            text = replace(text,";&nbsp;", " & ")
+        }
+        if(text.contains("ö"))
+            text = replace(text,"ö","oe")
+        if(text.contains('ä'))
+            text = replace(text,"ä","ae")
+        if(text.contains('ü'))
+            text = replace(text,"ü","ue")
+        return text
+    }
+
+
+
+    private fun replace(string: String, withChar: String, newValue: String) = string.replace(withChar,newValue)
 
 
 
@@ -69,7 +87,7 @@ object ProductSender {
 
 
 //////////////////////////////////          OLD             ///////////////////////////////
-
+/*
         fun send(product: Product) {
             var productJson: String = createProductJson(product)
 
@@ -84,28 +102,9 @@ object ProductSender {
 
 
             httpClient.execute(httpRequest)
-        }
-
-        private fun createProductJson(product: Product) =
-            """{"marketName":"${product.marketName}","categoryName":"${product.categoryName}","productName":"${product.productName}","productInfo":"${product.productInfo}","currentPrice":"${product.currentPrice}","rabbatPrice":"","productGrammage":"${product.productGrammage}"}"""
-
-        private fun replaceBadChars(s: String): String{
-            var text = s
-            if(text.contains(";&nbsp;")){
-                text = replace(text,";&nbsp;", " & ")
-            }
-            if(text.contains("ö"))
-                text = replace(text,"ö","oe")
-            if(text.contains('ä'))
-                text = replace(text,"ä","ae")
-            if(text.contains('ü'))
-                text = replace(text,"ü","ue")
-            return text
-        }
+        }*/
 
 
-
-        private fun replace(string: String, withChar: String, newValue: String) = string.replace(withChar,newValue)
     }
 
 

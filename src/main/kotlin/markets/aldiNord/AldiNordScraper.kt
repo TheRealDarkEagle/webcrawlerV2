@@ -54,11 +54,11 @@ class AldiNordScraper : Scraper {
     }
 
     private fun exctractGramage(s: String): Int {
-      val t = exctractBy(Regex("\\d*.*\\d"),s)
-        return  if(t==null)
+      val possibleGrammage = exctractBy(Regex("\\d*.*\\d"),s)
+        return  if(possibleGrammage==null)
                     -1
                 else
-                    calculate(t)
+                    calculate(possibleGrammage)
     }
 
     private fun exctractBy(regex: Regex, text: String): String? = regex.find(text)?.value?.substring(1)
@@ -69,7 +69,13 @@ class AldiNordScraper : Scraper {
             return s.toInt()
         }catch (e: NumberFormatException){
             println("possible calculation found ... trying to calculate! -> $s")
-           return calculateExpression(s)
+            try {
+                return calculateExpression(s)
+            }
+            catch (e: Exception){
+                e.printStackTrace()
+                return -1
+            }
         }
         catch (e : Exception){
             e.printStackTrace()
@@ -80,7 +86,7 @@ class AldiNordScraper : Scraper {
 
     fun calculateExpression(s:String): Int {
         if(s.contains("x")){
-            return (s.substring(0,s.indexOf("x",0)).toInt()*s.substring(s.indexOf("x",0)+1).toInt())
+            return (s.substring(0,s.indexOf("x",0)).trim().toInt()*s.substring(s.indexOf("x",0)+1).trim().toInt())
         }
         return -1
     }

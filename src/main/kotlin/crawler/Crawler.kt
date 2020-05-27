@@ -38,29 +38,29 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
 
 
     private fun run() = runBlocking {
+        println("Starting Crawling!")
         val crawlProcess = entryPoints.map {
             launch(Dispatchers.Default) {
                 //Stoße seitenladen an!
                 loadingRoutine(it)
             }
         }
-
         crawlProcess.map { it.join() }
+        println ("Crawling Done!")
+        println("Starting sending!")
         Sender.send2(products)
-        println ("Job done!")
+        println("Sending done!")
     }
 
 
     private fun loadingRoutine(url: String) = runBlocking {
-        println(url)
-
+       // println(url)
         if(!crawledLinks.contains(url)){
             crawledLinks.add(url)
             val loadingPhase = launch {
-                //delay(500L)
                 val doc = getDocumentOf(url)
                 if(url.contains(SCRAPER.MARKET.DETAILVIEWLINKIDENTIFIER)){
-                    println("extracting produkts")
+                   // println("extracting produkts")
                     extractProduct(doc)
                 }else{
                     loadOverview(doc)
@@ -69,8 +69,6 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
             loadingPhase.join()
         }
     }
-
-
 
     /*
     Filters out the Product-Related Links
@@ -109,7 +107,7 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
     private fun prepareLoading(links: Map<LinkType, Set<String>>){
         //If there are any DV links ignore the Rest
         if((links[LinkType.DETAILVIEW] ?: error("DUUUUDE")).isNotEmpty()) {
-            println("new ProductList -> ${links[LinkType.DETAILVIEW]}\n\n")
+           // println("new ProductList -> ${links[LinkType.DETAILVIEW]}\n\n")
             startNextLoading(links[LinkType.DETAILVIEW] ?: error("An Error Occures!?!=!"))
         }
         else
@@ -120,7 +118,7 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
     Initiates the Next Loading Phase
      */
     private fun startNextLoading(list: Set<String>) = runBlocking{
-       println("startNExtLoading -> $list")
+      // println("startNExtLoading -> $list")
         launch {
             list.map {
                 launch {
@@ -164,9 +162,6 @@ class Crawler(val SCRAPER: Scraper, val TESTING : Boolean = false) : CrawlSource
              products.add(product)
         }
     }
-
-
-
 }
 
 

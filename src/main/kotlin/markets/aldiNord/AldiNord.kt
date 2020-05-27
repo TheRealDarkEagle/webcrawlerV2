@@ -16,28 +16,9 @@ class AldiNord : CrawlObject {
     override val ARTICELIDENTIFIER: String
         get() = "/produkte/"
     override val ENTRYPOINTS: HashSet<String>
-        get() = hashSetOf("https://www.aldi-nord.de/produkte/unsere-marken/golden-seafood.html",
-            "https://www.aldi-nord.de/produkte/unsere-marken/gourmet-fruits-de-mer.html",
-            "https://www.aldi-nord.de/produkte/unsere-marken/gut-bio.html",
-            "https://www.aldi-nord.de/produkte/unsere-marken/gut-drei-eichen.html",
-            "https://www.aldi-nord.de/produkte/unsere-marken/gueldenhof.html")
-            //"https://www.aldi-nord.de/produkte.html")
-            /*
-            "https://www.aldi-nord.de/produkte/unsere-marken/chateau.html",
-            "https://www.aldi-nord.de/produkte/unsere-marken/golden-seafood.html",
-            "https://www.aldi-nord.de/produkte/unsere-marken/gourmet-fruits-de-mer.html",
-            "https://www.aldi-nord.de/produkte/unsere-marken/gut-bio.html",
-            "https://www.aldi-nord.de/produkte/unsere-marken/gut-drei-eichen.html",
-            "https://www.aldi-nord.de/produkte/unsere-marken/gueldenhof.html",
-            "https://www.aldi-nord.de/produkte/unsere-marken/hofburger.html",
-            "https://www.aldi-nord.de/produkte/unsere-marken/jacks-farm.html",
-            "https://www.aldi-nord.de/produkte/unsere-marken/landbeck.html",
-            "https://www.aldi-nord.de/produkte/unsere-marken/mama-mancini.html"
-        )
+        get() = hashSetOf("https://www.aldi-nord.de/produkte.html")
 
-             */
-            //"https://www.aldi-nord.de/produkte.html")
-            /*
+          /*
         //Unsere Marken
             "https://www.aldi-nord.de/produkte/unsere-marken/chateau.html",
             "https://www.aldi-nord.de/produkte/unsere-marken/confifrucht-marmelinchen.html",
