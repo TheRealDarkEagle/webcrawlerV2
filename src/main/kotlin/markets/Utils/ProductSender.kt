@@ -9,14 +9,6 @@ import org.apache.http.impl.client.HttpClientBuilder
  * @author: Kai Danz
  */
 
-/*
-@TODO: bau productsender wieder in ein Singleton um
-        Gebe Queue mit (Non-Blocking?)
-           Muss THREAD-SAVE sein (!)
-
-        Variante 2:
-        als Future bauen
- */
 object ProductSender {
 
 
