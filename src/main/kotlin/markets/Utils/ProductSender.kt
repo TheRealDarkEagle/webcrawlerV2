@@ -18,22 +18,18 @@ import org.apache.http.impl.client.HttpClientBuilder
         als Future bauen
  */
 object ProductSender {
-    private val httpClient = HttpClientBuilder.create().build()
-    private val httpRequestv2 = HttpPost("http://localhost:9000/collatio/product")
-
-    init {
-        httpRequestv2.addHeader("content-Type", "application/json; charset=UTF-8;")
-    }
 
 
     fun send2(products : MutableSet<Product>) {
         //sende alle produkte
         products.map {
+            val httpClient = HttpClientBuilder.create().build()
+            val httpRequestv2 = HttpPost("http://localhost:9000/collatio/product")
+            httpRequestv2.addHeader("content-Type", "application/json; charset=UTF-8;")
             var productJson = it.asJsonString()
             productJson = replaceBadChars(productJson)
             val entity = StringEntity(productJson)
             httpRequestv2.entity = entity
-            //val request = createHttpPost(it.asJsonString())
             httpClient.execute(httpRequestv2)
         }
         println("Senden fertig!")
