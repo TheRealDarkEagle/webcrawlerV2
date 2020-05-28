@@ -19,33 +19,36 @@ import org.apache.http.impl.client.HttpClientBuilder
  */
 object ProductSender {
     private val httpClient = HttpClientBuilder.create().build()
-/*
-    private val httpRequest = HttpPost("http://localhost:9000/collatio/product")
+    private val httpRequestv2 = HttpPost("http://localhost:9000/collatio/product")
 
     init {
-        httpRequest.addHeader("content-Type", "application/json; charset=UTF-8;")
+        httpRequestv2.addHeader("content-Type", "application/json; charset=UTF-8;")
     }
-*/
+
 
     fun send2(products : MutableSet<Product>) {
         //sende alle produkte
         products.map {
-            val request = createHttpPost(it.asJsonString())
-            httpClient.execute(request)
+            var productJson = it.asJsonString()
+            productJson = replaceBadChars(productJson)
+            val entity = StringEntity(productJson)
+            httpRequestv2.entity = entity
+            //val request = createHttpPost(it.asJsonString())
+            httpClient.execute(httpRequestv2)
         }
         println("Senden fertig!")
     }
-
+/*
     private fun createHttpPost(string: String) : HttpPost {
-        val httpRequestv2 = HttpPost("http://localhost:9000/collatio/product")
-        httpRequestv2.addHeader("content-Type", "application/json; charset=UTF-8;")
-        val replacedText = replaceBadChars(string)
+
         val t = StringEntity(replacedText)
         t.setContentEncoding("UTF-8")
         t.setContentType("application/json; UTF-8")
         httpRequestv2.entity = t
         return httpRequestv2
     }
+
+ */
     private fun createProductJson(product: Product) =
         """{"marketName":"${product.marketName}","categoryName":"${product.categoryName}","productName":"${product.productName}","productInfo":"${product.productInfo}","currentPrice":"${product.currentPrice}","rabbatPrice":"","productGrammage":"${product.productGrammage}"}"""
 
